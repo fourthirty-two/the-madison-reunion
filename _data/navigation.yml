@@ -1,0 +1,6 @@
+- name: About
+  link: /about/
+- name: Calendar
+  link: /calendar/
+- name: Contact
+  link: /contact/
