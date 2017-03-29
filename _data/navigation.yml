@@ -1,6 +1,7 @@
+# remember to remove hashtag from the include 'navigation.html' when ready.
 - name: About
-  link: /about/
-- name: Calendar
-  link: /calendar/
-- name: Contact
-  link: /contact/
+  link: learn-more
+- name: Plan
+  link: plan
+- name: History
+  link: history
