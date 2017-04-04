@@ -29,12 +29,16 @@
 	}
 
 	.hero-text-container {
-		width: 600px;
+		width: 700px;
 		text-align: left;
     @include bop-text;
 
+    p {
+      color: $black;
+    }
+
 		h1, h2, p, .button {
-			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+			//text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
 	}
 
@@ -72,4 +76,17 @@
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
+}
+
+.text h2 {
+  padding: 40px;
+  font-family: $headline;
+  background: $orange;
+}
+#plan {
+  background: $orange;
+
+  h2 {
+    color: #fff;
+  }
 }

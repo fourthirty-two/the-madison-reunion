@@ -1,7 +1,7 @@
 # remember to remove hashtag from the include 'navigation.html' when ready.
 - name: About
   link: learn-more
-- name: Plan
+- name: Tentative Program
   link: plan
-- name: History
+- name: Where & When
   link: history
