@@ -1,12 +1,12 @@
 footer {
 	font-size: .6em;
 	position: relative;
-	background: #2b2b40;
-	color: #fff;
+	background: $orange;
+	color: $black;
 
 	&,
 	a {
-		color: #999;
+		color: $black;
 	}
 
 	a {
@@ -44,7 +44,7 @@ footer {
 					text-decoration: none;
 				}
 				svg {
-					fill: #999;
+					fill: #fff;
 					transition: fill 0.2s ease;
 					vertical-align: middle;
 					width: 18px;
@@ -52,7 +52,7 @@ footer {
 				}
 
 				&:hover svg {
-					fill: #fff;
+					fill: $black;
 				}
 
 				&.twitter-icon:hover svg {
@@ -92,7 +92,7 @@ footer {
 	float: left;
 
 	a {
-		color: #999;
+		color: $black;
 	}
 
 	@media #{$desktop} {
