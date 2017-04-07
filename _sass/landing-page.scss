@@ -29,7 +29,7 @@
 	}
 
 	.hero-text-container {
-		width: 700px;
+		width: 720px;
 		text-align: left;
     @include bop-text;
 
@@ -89,4 +89,20 @@
   h2 {
     color: #fff;
   }
+}
+
+// Aditional design changes || TODO add these to main design above
+.hero {
+
+  .inner-hero.text-container {
+    
+
+    h2 {
+
+      color: $black;
+
+    }
+
+  }
+
 }
