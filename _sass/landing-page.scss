@@ -31,15 +31,28 @@
 	.hero-text-container {
 		width: 720px;
 		text-align: left;
-    @include bop-text;
+    // @include bop-text;
 
-    p {
-      color: $black;
+    h1 {
+      color: $orange;
     }
 
-		h1, h2, p, .button {
-			//text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+    p {
+      // color: $black;
+      font-family: $secondary;
+    }
+
+		h1, h2, p {
+			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
+
+    .button a {
+      font-family: $secondary;
+      font-weight: 600;
+      color: $black;
+      background: $orange;
+    }
+
 	}
 
 	.hero-text-right {
@@ -58,6 +71,18 @@
 	h2 {
 		margin-bottom: 12px;
 	}
+}
+
+// mobile hero settings
+@media (max-width: 767px) {
+    .inner-hero.text-container h1 {
+        font-size: 1.75em;
+    }
+    .inner-hero.text-container img {
+        width: 50%;
+        margin: auto;
+        display:block
+    }
 }
 
 @media #{$desktop} {
@@ -89,20 +114,4 @@
   h2 {
     color: #fff;
   }
-}
-
-// Aditional design changes || TODO add these to main design above
-.hero {
-
-  .inner-hero.text-container {
-    
-
-    h2 {
-
-      color: $black;
-
-    }
-
-  }
-
 }
