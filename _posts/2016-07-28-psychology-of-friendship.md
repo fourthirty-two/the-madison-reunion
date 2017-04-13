@@ -1,12 +1,12 @@
 ---
-title: Psychology of friendship
+title: The day and night
 date: 2016-07-28
-description: How are our brains wired for friendship?
+description: How it goes
 categories:
   - friendship
   - science
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: betty
+image: /images/pharm-counter.jpg
+# author_staff_member: betty
 ---
 
 In the typical sequence of an individual's emotional development, friendships come after parental bonding and before pair bonding. In the intervening period between the end of early childhood and the onset of full adulthood, friendships are often the most important relationships in the emotional life of the adolescent, and are often more intense than relationships later in life. The absence of friends can be emotionally damaging.

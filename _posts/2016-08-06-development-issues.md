@@ -5,8 +5,8 @@ description: How do development issues affect friendship?
 categories:
   - friendship
   - psychology
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: james
+image: /images/rosebowl-float.jpg
+#author_staff_member: james
 ---
 Children with Attention deficit hyperactivity disorder (ADHD) may not have difficulty forming friendships, though they may have a hard time keeping them, due to impulsive behavior and hyperactivity. Children with Attention deficit disorder (ADD) may not have as much trouble keeping and maintaining friendships, though inattentiveness may complicate the processes.
 
