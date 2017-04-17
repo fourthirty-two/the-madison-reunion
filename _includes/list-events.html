@@ -1,0 +1,10 @@
+{% for event in site.events-calendar %}
+	<li class="blog-post">
+		<h2><a href="{% include relative-src.html src=post.url %}">{{ event.title }}</a></h2>
+		{% include event-title.html post=post %}
+		<div class="post-content">
+			{{ event.excerpt }}
+			<div class="button"><a href="{% include relative-src.html src=event.url %}">Read More</a></div>
+		</div>
+	</li>
+{% endfor %}

@@ -2,7 +2,7 @@
 # Site
 
 title: The Madison Reunion
-url: "http://themadisonreunion.com"
+url: "http://madisonreunion.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -41,6 +41,9 @@ exclude:
 collections:
   staff_members:
     _hide_content: true
+  events-calendar:
+    output: true
+    permalink: /:collection/:path/
 
 paginate: 10
 paginate_path: "/blog/:num/"

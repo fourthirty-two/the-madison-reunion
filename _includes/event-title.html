@@ -1,0 +1,8 @@
+<p class="post-details">
+	{% for category in event.categories %}
+		<span class="blog-filter">
+			<a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category | capitalize }}</a>
+		</span>
+	{% endfor %}
+	<span class="post-date">{{ event.event-date }}</span>
+</p>
