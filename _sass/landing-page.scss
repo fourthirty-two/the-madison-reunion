@@ -104,19 +104,23 @@
 }
 
 .text h2 {
+  position: relative;
+  width: 110%;
   padding: 40px;
   font-family: $headline;
+  color: $brown;
   background: $orange;
 }
 #plan {
   background: $orange;
 
   h2 {
-    color: #fff;
+    color: $brown;
+    background: transparent;
   }
 }
 
 ul.panels-list li {
   padding-bottom: 7px;
-  color: #f5f5f5;
+  color: $yellow;
 }

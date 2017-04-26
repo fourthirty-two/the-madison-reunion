@@ -37,5 +37,6 @@
 .js-fade-element-show-left {
   opacity: 1;
   transition: all 0.7s ease-in-out;
-  transform: translate(2em,0em);
+  transform-origin: right center;
+  transform: rotate(2deg) translate(2em,0em);
 }
