@@ -38,12 +38,10 @@ exclude:
   - README.md
   - LICENCE
 
+# Collection folders
 collections:
-  staff_members:
-    _hide_content: true
-  events-calendar:
+  collection:
     output: true
-    permalink: /:collection/:path/
 
 paginate: 10
 paginate_path: "/blog/:num/"
