@@ -1,0 +1,50 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Registration"
+  description: "Register"
+  place:
+-
+  id: 002
+  title: "Welcome"
+  description: ""
+  subtype: presentation
+  speakers: [1, 2]
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "Politics - Civil Rights"
+  description: "Room A - Paul Buehl, Stuart Ewen, Danny Kalb, Jeff Greenfield"
+  place: "Room A"
+  subtype: presentation
+  speakers: [3]
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 004
+  title: "Journalism - Print"
+  description: "Room B - with Dave Wagner, Jeff Greenfield, Dave Zweifel"
+  subtype: keynote
+  speakers: [4]
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Test: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

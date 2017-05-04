@@ -2,9 +2,9 @@
   date: "2018-06-14"
   dateReadable: "Thursday, June 14"
   tracks:
-    - {title: "Room A", color: "#90be4e"}
-    - {title: "Room B", color: "#03a9f4"}
-    - {title: "Room C", color: "#e91e63"}
+    - {title: "", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
+    - {title: "", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -14,12 +14,12 @@
     - {
         startTime: "12:00",
         endTime: "1:00",
-        sessionIds: [003, 404, 004]
+        sessionIds: [002]
     }
     - {
     	startTime: "1:00",
     	endTime: "3:00",
-    	sessionIds: [307]
+    	sessionIds: [003, 004, 005]
     }
     - {
     	startTime: "3:00",
