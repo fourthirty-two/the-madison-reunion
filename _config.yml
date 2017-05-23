@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "union-chairs-header.jpg"
-heroTitle: "Bringing the '60s back home <typeout>"
-eventDate: "June 14 - 18 2018"
+heroTitle: "A Party With a Purpose <typeout>"
+eventDate: "June 14 - 17 2018"
 typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
 heroButtons:
@@ -67,8 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "About The Madison Reunion"
 aboutBlock:
- - {title: "About", image: "state-st-1960.jpg", text: "Fifty years ago, Madison, Wisconsin was a cradle of what came to be known as “the counterculture,” a rich mix of music, art, politics, history and participatory experience. The Madison Reunion is a destination for all those interested in the place and the period—three days of lectures, performances, displays, meetings, meals and discussions, a kind of cultural Woodstock, to examine where we are, how we got here and what we left behind." }
- - {title: "Sessions", image: "MadisonWisconsin1960s_700.jpg", text: "The Madison Reunion will be held throughout the campus and State Street, free and open to all.  We will sponsor bulletin boards (to help you find your old friends) tours (that place you used to live; what is it now?) films (when was the last time you saw Easy Rider or Zabriskie Point?) displays and exhibits." }
+ - {title: "Conference", image: "state-st-1960.jpg", text: "Fifty years ago, Madison, Wisconsin was a cradle of what came to be known as “the counterculture,” a rich mix of music, art, politics, history and participatory experience. The Madison Reunion is a destination for all those interested in the place and the period—three days of lectures, performances, displays, meetings, meals and discussions, a kind of cultural Woodstock, to examine where we are, how we got here and what we left behind." }
+ - {title: "Reunion", image: "MadisonWisconsin1960s_700.jpg", text: "The Madison Reunion will be held throughout the campus and State Street, free and open to all.  We will sponsor bulletin boards (to help you find your old friends) tours (that place you used to live; what is it now?) films (when was the last time you saw Easy Rider or Zabriskie Point?) displays and exhibits." }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
