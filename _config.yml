@@ -67,8 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "About The Madison Reunion"
 aboutBlock:
- - {title: "The Madison Reunion", image: "about-conference-logo-128h.png", text: "The city was ground zero for the civil rights, anti-war and social justice movements during the ‘60s and students at the University of Wisconsin benefitted from the teachings of brilliant historians who encouraged them to put the Wisconsin Idea into practice.<br/><br/>The Madison Reunion will bring these former students and faculty back to celebrate and re-examine the experience they had in Madison during the turbulent ‘60s." }
- - {title: "Conference on Madison in the ‘60s", image: "about-bucky-logo-black-w-text.png", text: "While The Madison Reunion expects many to return to Madison to enjoy the weather and relive their salad days, with many free, fun activities planned, the Conference on Madison in the ‘60s is expected to draw some 1,000 attendees. Held at the Memorial Union, for a modest fee, registrants will enjoy three days of panels, seminars, and interviews on the cultural movements and personal experiences of that radical decade." }
+ - {title: "The Madison Reunion", image: "about-conference-logo-128h.png", text: "The city was ground zero for the civil rights, anti-war and social justice movements during the ‘60s and students at the University of Wisconsin benefitted from the teachings of brilliant historians who encouraged them to put the Wisconsin Idea into practice.<br/><br/>The Madison Reunion will bring these former students and faculty back to celebrate and re-examine the experience they had in Madison during the turbulent ‘60s.", permalink: "/reunion/", btn-text: "Reunion information" }
+ - {title: "Conference on Madison in the ‘60s", image: "about-bucky-logo-black-w-text.png", text: "While The Madison Reunion expects many to return to Madison to enjoy the weather and relive their salad days, with many free, fun activities planned, the Conference on Madison in the ‘60s is expected to draw some 1,000 attendees. Held at the Memorial Union, for a modest fee, registrants will enjoy three days of panels, seminars, and interviews on the cultural movements and personal experiences of that radical decade.", permalink: "/schedule/", btn-text: "Conference Schedule" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -195,8 +195,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+#discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
@@ -251,15 +251,38 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
-hackathonTitle: "Hackathon"
+hackathonTitle: "The Madison Reunion"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Free Madison Reunion Activities"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Welcome:", image: "about-conference-in-60s-logo.png", details: "In Alumni Park with Mayor Soglin"}
+ - {title: "Keynote:", image: "about-conference-in-60s-logo.png", details: "TBA"}
+ - {title: "Blues for Madison:", image: "about-conference-in-60s-logo.png", details: "Concert with Boz Scaggs, Tracy Nelson, Ben Sidran et. al."}
+ - {title: "Tours:", image: "about-conference-in-60s-logo.png", details: "Campus Tours
+<ul>
+<li> Mifflin St. Historic Tour</li>
+
+<li>Ride the Trolley down State St. and around The Square</li>
+
+<li>Where You Went Wrong find where you used to live and what it is now</li>
+
+<li>Food Tour The Plaza, The Brat House, The Nitty Gritty and you won’t believe what else</li>
+
+<li>Frank Lloyd Wright’s Monona Terrace and the Otis Redding Memorial Park</li>
+
+<li>The Lake Path and Picnic Point</li>
+
+<li>Babcock Hall Ice Cream Social on the Union Terrace</li>
+</ul>"}
+ - {title: "Music:", image: "about-conference-in-60s-logo.png", details: "Daily jam sessions in the Rathskeller, nightly concerts on the Terrace and Rockin’ John’s dance party in Great Hall"}
+ - {title: "Films:", image: "about-conference-in-60s-logo.png", details: "Sponsored by the UW Cinematique; The War at Home and ‘60s classics like Easy Rider, Butch Cassidy &amp; The Sundance Kid, Bonnie and Clyde and The Graduate"}
+ - {title: "Photography:", image: "about-conference-in-60s-logo.png", details: "Exhibits in the Union Gallery and State Historical Society"}
+ - {title: "Electronic Bulletin Board:", image: "about-conference-in-60s-logo.png", details: "Find friends, leave messages"}
+ - {title: "The Memory Booth:", image: "about-conference-in-60s-logo.png", details: "Record your most vivid recollection of the times"}
+ - {title: "Souvenirs:", image: "about-conference-in-60s-logo.png", details: "T-shirts, Tote Bags, Hats, Mugs, more..."}
+ - {title: "Housing:", image: "hackathon-2.png", details: "Relive your life in the dorms or find a hotel close by, we’ll help"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
