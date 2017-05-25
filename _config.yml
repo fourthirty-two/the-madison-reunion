@@ -67,8 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "About The Madison Reunion"
 aboutBlock:
- - {title: "Conference", image: "state-st-1960.jpg", text: "Fifty years ago, Madison, Wisconsin was a cradle of what came to be known as “the counterculture,” a rich mix of music, art, politics, history and participatory experience. The Madison Reunion is a destination for all those interested in the place and the period—three days of lectures, performances, displays, meetings, meals and discussions, a kind of cultural Woodstock, to examine where we are, how we got here and what we left behind." }
- - {title: "Reunion", image: "MadisonWisconsin1960s_700.jpg", text: "The Madison Reunion will be held throughout the campus and State Street, free and open to all.  We will sponsor bulletin boards (to help you find your old friends) tours (that place you used to live; what is it now?) films (when was the last time you saw Easy Rider or Zabriskie Point?) displays and exhibits." }
+ - {title: "The Madison Reunion", image: "about-conference-logo-128h.png", text: "The city was ground zero for the civil rights, anti-war and social justice movements during the ‘60s and students at the University of Wisconsin benefitted from the teachings of brilliant historians who encouraged them to put the Wisconsin Idea into practice.<br/><br/>The Madison Reunion will bring these former students and faculty back to celebrate and re-examine the experience they had in Madison during the turbulent ‘60s." }
+ - {title: "Conference on Madison in the ‘60s", image: "about-bucky-logo-black-w-text.png", text: "While The Madison Reunion expects many to return to Madison to enjoy the weather and relive their salad days, with many free, fun activities planned, the Conference on Madison in the ‘60s is expected to draw some 1,000 attendees. Held at the Memorial Union, for a modest fee, registrants will enjoy three days of panels, seminars, and interviews on the cultural movements and personal experiences of that radical decade." }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -105,7 +105,7 @@ mapCenterCoordinates: "43.0719167, -89.4103726"
 mapMobileCenterCoordinates: "43.0717916, -89.4100213"
 
 # Venue Block
-venueBlockTitle: ""
+venueBlockTitle: "Madison Reunion"
 venueBigImage: "state-st-1960.jpg"
 venueSmallImage1: "pharm-counter.jpg"
 venueSmallImage2: "register-sombrero.jpg"
