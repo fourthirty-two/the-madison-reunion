@@ -197,3 +197,183 @@
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 020
+  title: "History as News"
+  description: ""
+  subtype: Journalism 102
+  speakers: [27]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 021
+  title: "CBS: The Eye That Never Blinks"
+  description: ""
+  subtype: Journalism 102
+  speakers: [7, 8]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 022
+  title: "Theories of Conspiracy"
+  description: ""
+  subtype: Journalism 201
+  speakers: [21, 46]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 023
+  title: "Keep On Truckin"
+  description: ""
+  subtype: Journalism 202
+  speakers: [18]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 024
+  title: "Madison Music Scene in the 60s"
+  description: ""
+  subtype: Music 101
+  speakers: [36, 31, 22]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 025
+  title: "Retail as Revolution Discount Records"
+  description: ""
+  subtype: Music 102
+  speakers: [3]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 026
+  title: "Ecstasy and the Meaning of the Blues"
+  description: ""
+  subtype: Music 201
+  speakers: [26]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 027
+  title: "We Gotta Get Out of This Place"
+  description: ""
+  subtype: Music 203
+  speakers: [48]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 028
+  title: "How UW Science Changed the World"
+  description: ""
+  subtype: Science 101
+  speakers: [49]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 029
+  title: "Social Activism and the Science of Kindness"
+  description: ""
+  subtype: Psych 101
+  speakers: [13]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 030
+  title: "Conscientious Objection"
+  description: ""
+  subtype: Social Studies 101
+  speakers: [34]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 031
+  title: "LGBT Madison"
+  description: ""
+  subtype: Social Studies 102
+  speakers: [47]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 032
+  title: "Civil Rights &amp; Social Justice"
+  description: ""
+  subtype: Social Studies 104
+  speakers: [32, 41]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 033
+  title: "Our Bodies Ourselves"
+  description: ""
+  subtype: Social Studies 201
+  speakers: [11]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 034
+  title: "Theories of Conspiracy"
+  description: ""
+  subtype: Social Studies 203
+  speakers: [21, 46]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 035
+  title: "The Romance Of It All"
+  description: ""
+  subtype: English Lit. 301
+  speakers: [40]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 036
+  title: "The Poetry Of It All"
+  description: ""
+  subtype: English Lit. 302
+  speakers: [23]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 037
+  title: "The Horror Of It All"
+  description: ""
+  subtype: English Lit. 303
+  speakers: [43]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
