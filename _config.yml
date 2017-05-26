@@ -24,9 +24,9 @@ googleAnalyticsTrackingId: "UA-"
 organizerName: "The Madison Reunion"
 organizerAlternateName: "The Madison Reunion"
 organizerDescription: "Bringing the '60s back home"
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerEmail: "themadisonreunion@gmail.com"
+organizerLogo: "/img/logo/bucky-logo-black-w-text.png"
+organizerLink: "http://madisonreunion.com"
 
 # Head
 #metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -62,7 +62,7 @@ typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "/#tickets", text: "Register Here"}
 
 # About Block
 aboutTitle: "About The Madison Reunion"
