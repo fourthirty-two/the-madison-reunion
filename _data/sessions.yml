@@ -12,368 +12,368 @@
 -
   id: 001
   title: "The History of Madison"
-  description: "description"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 101
   speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "Freedom Riding &amp; SDS"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 102
   speakers: [9]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Vietnam and the Anti War Movement"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 201
   speakers: [35, 10]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "DOW"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 203
   speakers: [38, 27]
-  language: en
-  complexity: "Beginner"
+  #language: en
+  #complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Taking It To The Streets"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 204
   speakers: [15, 42, 20]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
   title: "The Legacy of Harvey Goldberg"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 301
   speakers: [28]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
   title: "The Legacy of George Mosse"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 302
   speakers: [45]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
   title: "The Legacy of Gerda Lerner"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 303
   speakers: [16]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
   title: "Earth Day: The Legacy of Gaylord Nelson"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 401
   speakers: [30]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
   title: "The Politics of Resentment"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 402
   speakers: [12]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 011
   title: "Tikkun Olam: Jews at the UW"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 403
   speakers: [33]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 012
   title: "The Rise of the Right Wing"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 501
   speakers: [24]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
   title: "Women in the Revolution"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 502
   speakers: [44]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
   title: "Documenting Our Lives"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Film 101
   speakers: [29]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 015
   title: "The War at Home"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Film 102
   speakers: [37]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 016
   title: "Is Madison Funny?"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Film 201
   speakers: [5, 6]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 017
   title: "Peter Pan &amp; Virginia Woolf"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Theater 101
   speakers: [17, 14]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
   title: "The Legacy of Gilbert Helmsley"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Theater 102
   speakers: [39]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 019
   title: "The News as History"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Journalism 101
   speakers: [19]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 020
   title: "History as News"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Journalism 102
   speakers: [27]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 021
   title: "CBS: The Eye That Never Blinks"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Journalism 102
   speakers: [7, 8]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 022
   title: "Theories of Conspiracy"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Journalism 201
   speakers: [21, 46]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 023
   title: "Keep On Truckin"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Journalism 202
   speakers: [18]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 024
   title: "Madison Music Scene in the 60s"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Music 101
   speakers: [36, 31, 22]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 025
   title: "Retail as Revolution Discount Records"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Music 102
   speakers: [3]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 026
   title: "Ecstasy and the Meaning of the Blues"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Music 201
   speakers: [26]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 027
   title: "We Gotta Get Out of This Place"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Music 203
   speakers: [48]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
   title: "How UW Science Changed the World"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Science 101
   speakers: [49]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 029
   title: "Social Activism and the Science of Kindness"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Psych 101
   speakers: [13]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 030
   title: "Conscientious Objection"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Social Studies 101
   speakers: [34]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 031
   title: "LGBT Madison"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Social Studies 102
   speakers: [47]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 032
   title: "Civil Rights &amp; Social Justice"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Social Studies 104
   speakers: [32, 41]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 033
   title: "Our Bodies Ourselves"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Social Studies 201
   speakers: [11]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 034
   title: "Theories of Conspiracy"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Social Studies 203
   speakers: [21, 46]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 035
   title: "The Romance Of It All"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: English Lit. 301
   speakers: [40]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 036
   title: "The Poetry Of It All"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: English Lit. 302
   speakers: [23]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 037
   title: "The Horror Of It All"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: English Lit. 303
   speakers: [43]
-  language: en
-  complexity: "Expert"
+  #language: en
+  #complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
