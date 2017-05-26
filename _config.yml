@@ -106,10 +106,10 @@ mapMobileCenterCoordinates: "43.0717916, -89.4100213"
 
 # Venue Block
 venueBlockTitle: "Madison Reunion"
-venueBigImage: "state-st-1960.jpg"
-venueSmallImage1: "pharm-counter.jpg"
+venueBigImage: "street-night.jpg"
+venueSmallImage1: "state-st-1960.jpg"
 venueSmallImage2: "register-sombrero.jpg"
-venueSmallImage3: "the-pad.jpg"
+venueSmallImage3: "pharm-counter.jpg"
 venueTitle: "Downtown Madison"
 venueFeatures: ["Located directly in the city center"]
 
