@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "The Madison Reunion"
-email: "email@here.co"
+email: "ben@madisonreunion.com"
 description: "Bringing the '60s back home"
 baseurl: ""
 url: "http://madisonreunion.com"
@@ -24,7 +24,7 @@ googleAnalyticsTrackingId: "UA-"
 organizerName: "The Madison Reunion"
 organizerAlternateName: "The Madison Reunion"
 organizerDescription: "Bringing the '60s back home"
-organizerEmail: "themadisonreunion@gmail.com"
+organizerEmail: "ben@madisonreunion.com"
 organizerLogo: "/img/logo/bucky-logo-black-w-text.png"
 organizerLink: "http://madisonreunion.com"
 
@@ -44,10 +44,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/#top-section-hero", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/#about", text: "about"}
+ - {permalink: "/#about", text: "About"}
  - {permalink: "/#latest-news", text: "Panels"}
- #- {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/#rockstar-speakers", text: "Speakers"}
+ - {permalink: "/#subscribe", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -105,7 +105,7 @@ mapCenterCoordinates: "43.0719167, -89.4103726"
 mapMobileCenterCoordinates: "43.0717916, -89.4100213"
 
 # Venue Block
-venueBlockTitle: "Madison Reunion"
+venueBlockTitle: "Madison In The '60s"
 venueBigImage: "street-night.jpg"
 venueSmallImage1: "state-st-1960.jpg"
 venueSmallImage2: "register-sombrero.jpg"
@@ -176,7 +176,7 @@ ticketsOffers:
 socialLinks:
  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://facebook.com/madisonreunion", icon: "facebook"}
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:hello@test", text: "email@email.com"}
+   - {link: "ben@madisonreunion.com", text: "ben@madisonreunion.com"}
  -
   title: "FAQ"
   links:

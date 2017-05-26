@@ -7,6 +7,10 @@
   bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
   thumbnailUrl: 1967.jpeg
   rockstar: true
+  ribbon:
+    - {abbr: "MUS", title: "Musician", url: "https://developers.google.com/experts/"}
+    - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "TCH", title: "Teacher", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
@@ -32,8 +36,8 @@
   thumbnailUrl: speaker-default.png
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "DIR", title: "Movie director", url: "https://developers.google.com/experts/"}
+    - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
