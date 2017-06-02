@@ -5,28 +5,46 @@
   service: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 407
+  title: "Registration"
+  #place: "Hall"
+  service: true
+  #description: "The best time to talk with speakers and attendees"
+-
+  id: 507
+  title: "Alumni Park"
+  #place: "Hall"
+  service: true
+  description: "Welcom Speaker TBA"
+-
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
+  id: 603
+  title: "Dinner"
+  place: "Dining room"
+  service: true
+-
   id: 001
   title: "The History of Madison"
+  place: "Great Hall"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: History 101
   speakers: [4]
   #language: en
   #complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "Freedom Riding &amp; SDS"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "A personal memoir: how we learned social action from the civil rights movement."
   subtype: History 102
-  speakers: [9]
+  speakers: []
   #language: en
   #complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -39,10 +57,10 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "DOW"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  title: "DOW - History is What Happens While You're Making Other Plans"
+  description: "the day of the DOW demonstration and the night before."
   subtype: History 203
-  speakers: [38, 27]
+  speakers: [38, 50]
   #language: en
   #complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -55,7 +73,7 @@
   speakers: [15, 42, 20]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
@@ -65,7 +83,7 @@
   speakers: [28]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
@@ -75,7 +93,7 @@
   speakers: [45]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
@@ -85,27 +103,27 @@
   speakers: [16]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
   title: "Earth Day: The Legacy of Gaylord Nelson"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "Earth Day and its origins in the social protest movement."
   subtype: History 401
   speakers: [30]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
   title: "The Politics of Resentment"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "Looking for the Wisconsin Idea in the idea of Wisconsin."
   subtype: History 402
   speakers: [12]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 011
@@ -115,7 +133,7 @@
   speakers: [33]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 012
@@ -125,17 +143,17 @@
   speakers: [24]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
   title: "Women in the Revolution"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "the Struggle for a Women's Revolution."
   subtype: History 502
-  speakers: [44]
+  speakers: []
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
@@ -145,7 +163,7 @@
   speakers: [29]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 015
@@ -155,27 +173,27 @@
   speakers: [37]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 016
-  title: "Is Madison Funny?"
+  title: "The Comedy Connection - Is Madison Funny?"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
   subtype: Film 201
   speakers: [5, 6]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 017
-  title: "Peter Pan &amp; Virginia Woolf"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  title: "Peter Pan Effect"
+  description: "Madison's radical theater tradition"
   subtype: Theater 101
   speakers: [17, 14]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
@@ -185,7 +203,7 @@
   speakers: [39]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 019
@@ -195,7 +213,7 @@
   speakers: [19]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 020
@@ -205,7 +223,7 @@
   speakers: [27]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 021
@@ -215,7 +233,7 @@
   speakers: [7, 8]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 022
@@ -225,7 +243,7 @@
   speakers: [21, 46]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 023
@@ -235,7 +253,7 @@
   speakers: [18]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 024
@@ -245,7 +263,7 @@
   speakers: [36, 31, 22]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 025
@@ -255,7 +273,7 @@
   speakers: [3]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 026
@@ -265,7 +283,7 @@
   speakers: [26]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 027
@@ -275,17 +293,17 @@
   speakers: [48]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
   title: "How UW Science Changed the World"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "DNA, stem cells,  Warfarin and Vitamin D."
   subtype: Science 101
   speakers: [49]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 029
@@ -295,7 +313,7 @@
   speakers: [13]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 030
@@ -305,7 +323,7 @@
   speakers: [34]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 031
@@ -315,7 +333,7 @@
   speakers: [47]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 032
@@ -325,7 +343,7 @@
   speakers: [32, 41]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 033
@@ -335,7 +353,7 @@
   speakers: [11]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 034
@@ -345,7 +363,7 @@
   speakers: [21, 46]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 035
@@ -355,7 +373,7 @@
   speakers: [40]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 036
@@ -365,7 +383,7 @@
   speakers: [23]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 037
@@ -375,5 +393,69 @@
   speakers: [43]
   #language: en
   #complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 038
+  title: "Jam Session In The Rat"
+  place: Rathskeller
+  service: true
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  subtype: Music 204
+  #speakers: [43]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 039
+  title: "Beyond Zap: The History of the Graphic Novel"
+  description: "Serious reading for the child in us all."
+  subtype: History 503
+  speakers: [10]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 040
+  title: "The Writer's Workshop"
+  description: "Description"
+  subtype: Writing 503
+  speakers: [40]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 041
+  title: "Mowtown on the Terrace"
+  place: Terrace
+  service: true
+  description: "TBA"
+  subtype: Music 205
+  #speakers: [43]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 042
+  title: "Rose Bowl 1963: a reminiscense"
+  description: "TBA"
+  subtype: Music 205
+  #speakers: [43]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 043
+  title: "How You Travel is Who You Are"
+  description: "TBA"
+  subtype: Music 205
+  speakers: [18]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

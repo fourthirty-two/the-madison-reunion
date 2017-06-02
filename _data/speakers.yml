@@ -640,9 +640,9 @@
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 -
   id: 49
   name: "John"
@@ -654,6 +654,20 @@
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 50
+  name: "Peter"
+  surname: "Coyote"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "."
+  thumbnailUrl: speaker-default.png
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
