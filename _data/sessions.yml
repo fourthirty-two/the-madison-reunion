@@ -47,7 +47,7 @@
   place: "Great Hall"
   description: "A 75 minute over-view of the city, the university and their ongoing pas de duex."
   subtype: History 101
-  speakers: [25]
+  #speakers: [25]
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -56,7 +56,7 @@
   title: "Freedom Riding and SDS"
   description: "A personal memoir: how we learned social action from the civil rights movement."
   subtype: History 102
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -66,7 +66,7 @@
   title: "Vietnam and the Anti War Movement"
   description: ""
   subtype: History 201
-  speakers: [35, 10]
+  #speakers: [35, 10]
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -75,7 +75,7 @@
   title: "History is What Happens While You're Making Other Plans"
   description: "the day of the DOW demonstration and the night before."
   subtype: History 203
-  speakers: [38, 50]
+  #speakers: [38, 50]
   #language: en
   #complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -85,7 +85,7 @@
   title: "Taking It To The Streets"
   description: ""
   subtype: History 204
-  speakers: [15, 42, 20]
+  #speakers: [15, 42, 20]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -95,7 +95,7 @@
   title: "The Legacy of Harvey Goldberg"
   description: ""
   subtype: History 301
-  speakers: [28]
+  #speakers: [28]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -105,7 +105,7 @@
   title: "The Legacy of George Mosee"
   description: ""
   subtype: History 302
-  speakers: [45]
+  #speakers: [45]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -115,7 +115,7 @@
   title: "The Legacy of Gerda Lerner"
   description: ""
   subtype: History 303
-  speakers: [16]
+  #speakers: [16]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -125,7 +125,7 @@
   title: "Earth Day: The Legacy of Gaylord Nelson"
   description: "Earth Day and its origins in the social protest movement."
   subtype: History 401
-  speakers: [30]
+  #speakers: [30]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -135,7 +135,7 @@
   title: "The Politics of Resentment"
   description: "Looking for the Wisconsin Idea in the idea of Wisconsin."
   subtype: History 402
-  speakers: [12]
+  #speakers: [12]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -145,7 +145,7 @@
   title: "Tikkun Olam"
   description: "Why was Madison a magnet for the Jewish diaspora in the 20th century"
   subtype: History 403
-  speakers: [33]
+  #speakers: [33]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -155,7 +155,7 @@
   title: "The Rise of the Right Wing"
   description: ""
   subtype: History 501
-  speakers: [24]
+  #speakers: [24]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -165,7 +165,7 @@
   title: "Women in the Revolution"
   description: "The Struggle for a Women's Revolution."
   subtype: History 502
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -175,7 +175,7 @@
   title: "Documenting Our Lives"
   description: ""
   subtype: Film 101
-  speakers: [29]
+  #speakers: [29]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -185,7 +185,7 @@
   title: "The War at Home"
   description: ""
   subtype: Film 102
-  speakers: [37]
+  #speakers: [37]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -195,7 +195,7 @@
   title: "The Comedy Connection - Is Madison Funny?"
   description: ""
   subtype: Film 201
-  speakers: [5, 6]
+  #speakers: [5, 6]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -205,7 +205,7 @@
   title: "Peter Pan Effect"
   description: "Madison's radical theater tradition"
   subtype: Theater 101
-  speakers: [17, 14]
+  #speakers: [17, 14]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -215,7 +215,7 @@
   title: "The Legacy of Gilbert Helmsley"
   description: ""
   subtype: Theater 102
-  speakers: [39]
+  #speakers: [39]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -225,7 +225,7 @@
   title: "The News as History"
   description: ""
   subtype: Journalism 101
-  speakers: [19]
+  #speakers: [19]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -235,7 +235,7 @@
   title: "History as News"
   description: "What we knew and how we knew it"
   subtype: Journalism 102
-  speakers: [27]
+  #speakers: [27]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -245,7 +245,7 @@
   title: "Network News What is the unblinking eye looking for?"
   description: ""
   subtype: Journalism 102
-  speakers: [7]
+  #speakers: [7]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -255,7 +255,7 @@
   title: "Theories of Conspiracy"
   description: "From the Kennedy Assasination to Russiagate; what was once unthinkable is now on everybody's mind."
   subtype: Journalism 201
-  speakers: [21]
+  #speakers: [21]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -265,7 +265,7 @@
   title: "Keep On Truckin"
   description: ""
   subtype: Journalism 202
-  speakers: [18]
+  #speakers: [18]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -275,7 +275,7 @@
   title: "Madison Music Scene in the 60s"
   description: ""
   subtype: Music 101
-  speakers: [36, 31, 22]
+  #speakers: [36, 31, 22]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -285,7 +285,7 @@
   title: "Retail as Revolution Discount Records"
   description: "When record stores mattered and why"
   subtype: Music 102
-  speakers: [3, 51]
+  #speakers: [3, 51]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -295,7 +295,7 @@
   title: "Ecstasy and the Meaning of the Blues"
   description: "The neurological connection between altered states and digging music"
   subtype: Music 201
-  speakers: [26]
+  #speakers: [26]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -305,7 +305,7 @@
   title: "We Gotta Get Out of This Place"
   description: "How music kept them alive in Vietnam"
   subtype: Music 203
-  speakers: [48]
+  #speakers: [48]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -315,7 +315,7 @@
   title: "How the UW Changed the World"
   description: "DNA, stem cells, Warfarin and Vitamin D."
   subtype: Science 101
-  speakers: [49]
+  #speakers: [49]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -325,7 +325,7 @@
   title: "Social Activism and the Science of Kindness"
   description: ""
   subtype: Psych 101
-  speakers: [13]
+  #speakers: [13]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -335,7 +335,7 @@
   title: "Conscientious Objection"
   description: ""
   subtype: Social Studies 101
-  speakers: [34]
+  #speakers: [34]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -345,7 +345,7 @@
   title: "LGBT Madison"
   description: "A history"
   subtype: Social Studies 102
-  speakers: [47]
+  #speakers: [47]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -355,7 +355,7 @@
   title: "Civil Rights &amp; Social Justice"
   description: "An Ongoing Awakening"
   subtype: Social Studies 104
-  speakers: [32, 41]
+  #speakers: [32, 41]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -365,7 +365,7 @@
   title: "Our Bodies Ourselves"
   description: "Women's Health"
   subtype: Social Studies 201
-  #speakers: [11]
+  ##speakers: [11]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -375,7 +375,7 @@
   title: "Theories of Conspiracy"
   description: ""
   subtype: Social Studies 203
-  speakers: [21, 46]
+  #speakers: [21, 46]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -385,7 +385,7 @@
   title: "The Romance Of It All"
   description: ""
   subtype: English Lit. 301
-  speakers: [40]
+  #speakers: [40]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -395,7 +395,7 @@
   title: "The Poetry Of It All"
   description: ""
   subtype: English Lit. 302
-  speakers: [23]
+  #speakers: [23]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -405,7 +405,7 @@
   title: "The Horror Of It All"
   description: ""
   subtype: English Lit. 303
-  speakers: [43]
+  #speakers: [43]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -417,7 +417,7 @@
   service: true
   description: ""
   subtype: Music 204
-  #speakers: [43]
+  ##speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -427,7 +427,7 @@
   title: "Beyond Zap: The History of the Graphic Novel"
   description: "Serious reading for the child in us all."
   subtype: History 503
-  speakers: [10]
+  #speakers: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -437,7 +437,7 @@
   title: "The Writer's Workshop Pt.1"
   description: "Description"
   subtype: Writing 503
-  speakers: [40]
+  #speakers: [40]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -449,7 +449,7 @@
   service: true
   description: "TBA"
   subtype: Music 205
-  #speakers: [43]
+  ##speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -459,7 +459,7 @@
   title: "Rose Bowl 1963: a reminiscense"
   description: "TBA"
   subtype: Music 205
-  #speakers: [43]
+  ##speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -469,7 +469,7 @@
   title: "How You Travel is Who You Are"
   description: "TBA"
   subtype: Music 205
-  speakers: [18]
+  #speakers: [18]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -479,7 +479,7 @@
   title: "The Writer's Workshop Pt.2"
   description: "Description"
   subtype: Writing 503
-  speakers: [43]
+  #speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -489,7 +489,7 @@
   title: "The Millenial Move; MoveOn, Upworthy and the Makers Movement"
   description: "The 60s Roots of Today's social Movements"
   subtype: Writing 503
-  #speakers: [43]
+  ##speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -499,7 +499,7 @@
   title: "Searching for the Maharishi within"
   description: "The radical nature of compassion"
   subtype: Psychology
-  speakers: [13]
+  #speakers: [13]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -509,7 +509,7 @@
   title: "What Madison Meant to the Movement"
   description: ""
   # subtype: Psychology
-  # speakers: [13]
+  # #speakers: [13]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -519,7 +519,7 @@
   title: "The Writer's Workshop Pt.3"
   description: ""
   subtype: Writing 503
-  speakers: [23]
+  #speakers: [23]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
