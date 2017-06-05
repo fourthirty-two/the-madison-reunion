@@ -1,0 +1,674 @@
+-
+  id: 3
+  name: "Ben"
+  surname: "Sidran"
+  #company: "Google Poland"
+  title: "Musician, writer, journalist and teacher"
+  bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
+  thumbnailUrl: ben.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MUS", title: "Musician", url: "https://developers.google.com/experts/"}
+  #   - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  #   - {abbr: "TCH", title: "Teacher", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  # social:
+  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 5
+  name: "Jim"
+  surname: "Abrahams"
+  #company: "Base CRM, GDG Krakow"
+  title: "Movie director and writer"
+  bio: "Movie director and writer best known for spoof movies that he co-wrote and produced, such as Airplane! and The Naked Gun series."
+  thumbnailUrl: Jim-Abrahams.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "DIR", title: "Movie director", url: "https://developers.google.com/experts/"}
+  #   - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  # social:
+  #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+  #   - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 6
+  name: "Andrew"
+  surname: "Bergman"
+  #company: "Stanfy, GDG Kyiv"
+  title: "Screenwriter, film director, and novelist"
+  bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for Mel Brooks&#39;s classic Blazing Saddles."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+  #   - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
+  id: 7
+  name: "Lowell"
+  surname: "Bergman"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for “A Dangerous Business”."
+  thumbnailUrl: Lowell-Bergman.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Rita"
+  surname: "Braver"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Graduated from the University of Wisconsin with a degree in political science, she joined CBS in 1972 as a producer, has served as CBS News&#39;s chief law correspondent and since 1998 has been chief national correspondent for Sunday Morning."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Paul"
+  surname: "Breines"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Professor of Intellectual History, Boston College"
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 10
+  name: "Paul"
+  surname: "Buhle"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Former Senior Lecturer at Brown University, he is the author or editor of 35 volumes including histories of radicalism in the United States and the Caribbean, studies of popular culture, and a series of nonfiction comic art volumes."
+  thumbnailUrl: paul-buhle-2.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 11
+  name: "Alta"
+  surname: "Charo"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "The Warren P. Knowles Professor of Law and Bioethics at the University of Wisconsin–Madison, she is a leading American authority on bioethics and holds appointments in both Wisconsin&#39;s law school and medical school."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 12
+  name: "Katherine"
+  surname: "Cramer"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Director of the Morgridge Center for Public Service and a Professor in the Department of Political Science at the University of Wisconsin-Madison, she is known for her book, The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker"
+  thumbnailUrl: Katherine-Cramer.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 13
+  name: "Richie"
+  surname: "Davidson"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Investigating Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 14
+  name: "Andre"
+  surname: "DeShields"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Software engineer/country manager"
+  bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
+  thumbnailUrl: Andre-DeShields.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 15
+  name: "Mike"
+  surname: "Felner"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Private investigator"
+  #bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 16
+  name: "Linda"
+  surname: "Gordon"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Awarded the University of Wisconsin’s prestigious Vilas Research Chair, her research and writing examines the historical roots of contemporary social policy debates in the US, particularly as they concern gender and family issues."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 17
+  name: "Stuart"
+  surname: "Gordon"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Original co-founder of Madison's Broom Street Theater, which produced the infamous anti-war version of Peter Pan, he is currently a writer and producer of films and plays."
+  thumbnailUrl: stuart-gordon-02.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 18
+  name: "Peter"
+  surname: "Greenberg"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "CBS News Travel Editor, previously Travel Editor for NBC's Today, CNBC and MSNBC, he is an Emmy Award-winning journalist and television producer. Known as the &quot;Travel Detective,&quot; he serves as the Travel Ambassador for AARP, offering travel advice to members."
+  thumbnailUrl: Peter-Greenberg.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 19
+  name: "Jeff"
+  surname: "Greenfield"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Former editor of the Daily Cardinal, he graduated with a law degree from Yale where he was editor of the Yale Law Journal, then served as a speechwriter for Senator Robert F. Kennedy before becoming a political commentator and analyst for CBS and ABC News and CNN."
+  thumbnailUrl: Jeff-Greenfield.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 20
+  name: "Henry"
+  surname: "Haslach"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Prominent student activist at the University of Wisconsin during the '60s and featured participant in the film The War At Home."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 21
+  name: "Jim"
+  surname: "Hougan"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "An investigative reporter and best-selling novelist, best known for Secret Agenda, perhaps the first investigative work to question the orthodox narrative of the Watergate scandal as propounded by the Washington Post."
+  thumbnailUrl: Jim-Hougan.jpeg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 22
+  name: "Danny"
+  surname: "Kalb"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "An American blues guitarist and vocalist, he was a student of Dave Van Ronk and an original member of the 1960s group The Blues Project."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 23
+  name: "Ann"
+  surname: "Lauterbach"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Poet, essayist, and professor, she has received fellowships from the Guggenheim Foundation, the Ingram Merrill Foundation, the John D. and Catherine T. MacArthur Foundation. Since 1991 she has taught at Bard College and is currently Professor of Languages and Literature there."
+  thumbnailUrl: ann-lauterbach.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 24
+  name: "Mike"
+  surname: "Ledeen"
+  #company: "Twinfield, GDG Kyiv"
+  title: "historian and neoconservative foreign policy analyst"
+  bio: "An American historian and neoconservative foreign policy analyst, he is a former consultant to the United States National Security Council, the United States Department of State, and the United States Department of Defense. He held the Freedom Scholar chair at the American Enterprise Institute and now holds the similarly named chair at the Foundation for Defense of Democracies."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 25
+  name: "Stuart"
+  surname: "Levitan"
+  #company: "Twinfield, GDG Kyiv"
+  title: "historian, journalist and radio host"
+  bio: "Madison based historian, journalist and radio host, he is completing a history of Madison in the ‘60s, to be published by the University of Wisconsin Press in the fall of 2018."
+  thumbnailUrl: stuart-levitan.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 26
+  name: "Dan"
+  surname: "Levitin"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
+  bio: "Cognitive psychologist, neuroscientist, writer, musician, and record producer, he is James McGill Professor Emeritus of psychology and behavioral neuroscience at McGill University in Montreal. He has appeared frequently as a guest commentator on NPR and CBC and is the author of the best-selling book, This Is Your Brain on Music: The Science of a Human Obsession."
+  thumbnailUrl: Dan-Levitin.jpeg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 27
+  name: "David"
+  surname: "Maraniss"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Journalist and author"
+  bio: "Journalist and author, he currently serves as an associate editor for The Washington Post. He received a Pulitzer Prize for National Reporting in 1993 for his coverage of then-candidate Bill Clinton. Among his published works are best selling biographies of Barak Obama and Bill Clinton and the book They Marched into Sunlight: War and Peace, Vietnam and America, October 1967."
+  thumbnailUrl: Dave-Maraniss.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 28
+  name: "Alfred"
+  surname: "McCoy"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Journalist and author"
+  bio: "Holds a Ph.D. in South Asian History from Yale and is currently a professor at the University of Wisconsin and Director of the Harvey Goldberg Center."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 29
+  name: "Errol"
+  surname: "Morris"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Film director"
+  bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
+  thumbnailUrl: errol-morris.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 30
+  name: "Tia"
+  surname: "Nelson"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Recognized for her work on climate change, she served for 17 years with The Nature Conservancy and was the first director of its global Climate Change Initiative. She is currently a managing director of the Outrider Foundation."
+  thumbnailUrl: Tia-Nelson-251x300.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 31
+  name: "Tracy"
+  surname: "Nelson"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone&quot;, was nominated for a Grammy Award."
+  thumbnailUrl: Tracy-Nelson.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 32
+  name: "Lester"
+  surname: "Pines"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 33
+  name: "Jonathan"
+  surname: "Pollack"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Received his Ph.D. in History from the University of Wisconsin and is currently writing a book on the history of Jews at the University of Wisconsin."
+  thumbnailUrl: Jonathan-Pollack.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 34
+  name: "Jerald"
+  surname: "Rousseau"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 35
+  name: "Jim"
+  surname: "Rowen"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Former Deputy Mayor of Madison and currently a political writer and activist living in Milwaukee."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 36
+  name: "Boz"
+  surname: "Scaggs"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Musician"
+  bio: "After attending the University of Wisconsin, he gained fame in the 1970s with several Top 20 hit singles, including, &quot;Lido Shuffle&quot; and &quot;Lowdown&quot; from the critically acclaimed album Silk Degrees."
+  thumbnailUrl: Boz-Scaggs.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 37
+  name: "Glen"
+  surname: "Silber"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "Filmmaker best known for his film, The War At Home, a documentary about the anti-war movement in Madison, Wisconsin which was nominated for an Academy Award for Best Documentary Feature."
+  thumbnailUrl: Glenn-Silber.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 38
+  name: "Paul"
+  surname: "Soglin"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "Four term Mayor of Madison, Wisconsin."
+  thumbnailUrl: Paul-Soglin.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 39
+  name: "Ellen"
+  surname: "Sorrin"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "Director of the George Balanchine Trust as well as Managing Director of the New York Choreographic Institute, an affiliate of New York City Ballet. She is president of The Hemsley Lighting Programs, a foundation dedicated to the transition of lighting design students from the academic to the professional world."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 40
+  name: "Scott"
+  surname: "Spencer"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "Graduate of the University of Wisconsin, he has written eleven novels, two of which, Endless Love and Waking the Dead, were adapted into films. He has also worked as a journalist who has published in The New York Times, The New Yorker and Harpers Magazine. He is a regular contributor to Rolling Stone."
+  thumbnailUrl: Scott-Spencer.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 41
+  name: "Dean"
+  surname: "Strang"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "A Wisconsin criminal defense attorney known to the general public for his appearance in the Netflix series &quot;Making a Murderer.&quot;"
+  thumbnailUrl: Dean-Strang.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 42
+  name: "Evan"
+  surname: "Stark"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Musician"
+  bio: "Associate professor of public administration at Rutgers-Newark, where he is director of the master&#39;s in public health program. He also directs the Division of Urban Health Administration at the UMDNJ School of Public Health."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 43
+  name: "Peter"
+  surname: "Straub"
+  #company: "Twinfield, GDG Kyiv"
+  title: "Novelist and poet"
+  bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
+  thumbnailUrl: Peter-Straub.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 44
+  name: "Margery"
+  surname: "Tabankin"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
+  thumbnailUrl: marge-tabankin.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 45
+  name: "John"
+  surname: "Tortorice"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Currently, Program Manager for the George L. Mosse Program at the University of Wisconsin."
+  thumbnailUrl: John-Tortorice.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 46
+  name: "Dave"
+  surname: "Wagner"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Journalist, investigative reporter and author of The Politics of Murder: Organized Crime in Barry Goldwater&#39;s Arizona. He was a contributor to Tender Comrades, co-author of A Very Dangerous Citizen and a political editor at the Arizona Republic."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 47
+  name: "Dick"
+  surname: "Wagner"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Long time Madison activist in the LGBT community, he just completed a book about the gay history of Wisconsin."
+  thumbnailUrl: Dick-Wagner.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 48
+  name: "Craig"
+  surname: "Werner"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Teaches in the Department of Afro-American Studies at the UW and is co-author of the recent book We Got To Get Our Of This Place with Doug Bradley."
+  thumbnailUrl: Craig-Werner.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 49
+  name: "John"
+  surname: "Wiley"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
+  thumbnailUrl: John-Wiley.png
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 50
+  name: "Peter"
+  surname: "Coyote"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 51
+  name: "M."
+  surname: "Usadel"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Novelist and poet"
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}

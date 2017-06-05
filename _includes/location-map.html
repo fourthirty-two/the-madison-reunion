@@ -1,0 +1,43 @@
+<!-- Begin Location Section -->
+<style>
+.mapoverlay {
+   background:transparent;
+   position:relative;
+   width:100%;
+   height:450px; /* your iframe height */
+   top:450px;  /* your iframe height */
+   margin-top:-450px;  /* your iframe height */
+}
+</style>
+<section id="location-map" class="location-map">
+  <h3>Location: <small>Union South</small></h3>
+  <br><br>
+    <div class="mapoverlay" onClick="style.pointerEvents='none'"></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.5568195713836!2d-89.41002128408756!3d43.0717876791454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807acc60256e4b5%3A0x6f185049ff291ef7!2sUnion+South!5e0!3m2!1sen!2sus!4v1495808617456" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <!--div class="content-wrapper" style="top: 270px;position: absolute;">
+        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            <div class="row">
+                <div class="pull-left">
+                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <ul>
+                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
+                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li>
+                            {% assign startTime = site.eventStartTime | split: "T" %}
+                            <time>{{ startTime[1] }}</time> -
+                            {% assign endTime = site.eventEndTime | split: "T" %}
+                            <time>{{ endTime[1] }}</time>
+                        </li>
+                    </ul>
+                </div>
+                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
+                    <svg class="icon icon-direction" viewBox="0 0 32 32">
+                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div-->
+</section>
+<!-- End Location Section -->

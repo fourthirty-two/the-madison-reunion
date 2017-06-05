@@ -1,0 +1,30 @@
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.aboutTitle }}</h3>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.aboutBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-12">
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="auto" alt="{{ about.title }}">
+                        <p style="text-align:left;">{{ about.text }}</p>
+                    </div>
+                    <p>
+
+                      <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
+                    </p>
+
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Section -->
