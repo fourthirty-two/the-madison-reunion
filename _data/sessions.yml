@@ -7,13 +7,13 @@
 -
   id: 407
   title: "Registration"
-  #place: "Hall"
+  place: "Hall"
   service: true
   #description: "The best time to talk with speakers and attendees"
 -
   id: 507
   title: "Alumni Park"
-  #place: "Hall"
+  place: "Alumni Park"
   service: true
   description: "Welcome Speaker TBA"
 -
