@@ -15,7 +15,7 @@
   title: "Alumni Park"
   #place: "Hall"
   service: true
-  description: "Welcom Speaker TBA"
+  description: "Welcome Speaker TBA"
 -
   id: 503
   title: "Lunch Break"
@@ -27,18 +27,23 @@
   place: "Dining room"
   service: true
 -
+  id: 610
+  title: "BLUES FOR MADISON Boz Scaggs, Ben Sidran, Tracey Nelson in Shannon Hall"
+  place: "Shannon Hall"
+  service: true
+-
   id: 001
   title: "The History of Madison"
   place: "Great Hall"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "A 75 minute over-view of the city, the university and their ongoing pas de duex."
   subtype: History 101
-  speakers: [4]
+  speakers: [25]
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Freedom Riding &amp; SDS"
+  title: "Freedom Riding and SDS"
   description: "A personal memoir: how we learned social action from the civil rights movement."
   subtype: History 102
   speakers: []
@@ -49,7 +54,7 @@
 -
   id: 003
   title: "Vietnam and the Anti War Movement"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 201
   speakers: [35, 10]
   #language: en
@@ -57,7 +62,7 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "DOW - History is What Happens While You're Making Other Plans"
+  title: "History is What Happens While You're Making Other Plans"
   description: "the day of the DOW demonstration and the night before."
   subtype: History 203
   speakers: [38, 50]
@@ -68,7 +73,7 @@
 -
   id: 005
   title: "Taking It To The Streets"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 204
   speakers: [15, 42, 20]
   #language: en
@@ -78,7 +83,7 @@
 -
   id: 006
   title: "The Legacy of Harvey Goldberg"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 301
   speakers: [28]
   #language: en
@@ -88,7 +93,7 @@
 -
   id: 007
   title: "The Legacy of George Mosse"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 302
   speakers: [45]
   #language: en
@@ -98,7 +103,7 @@
 -
   id: 008
   title: "The Legacy of Gerda Lerner"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 303
   speakers: [16]
   #language: en
@@ -128,7 +133,7 @@
 -
   id: 011
   title: "Tikkun Olam: Jews at the UW"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 403
   speakers: [33]
   #language: en
@@ -138,7 +143,7 @@
 -
   id: 012
   title: "The Rise of the Right Wing"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: History 501
   speakers: [24]
   #language: en
@@ -148,7 +153,7 @@
 -
   id: 013
   title: "Women in the Revolution"
-  description: "the Struggle for a Women's Revolution."
+  description: "The Struggle for a Women's Revolution."
   subtype: History 502
   speakers: []
   #language: en
@@ -158,7 +163,7 @@
 -
   id: 014
   title: "Documenting Our Lives"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Film 101
   speakers: [29]
   #language: en
@@ -168,7 +173,7 @@
 -
   id: 015
   title: "The War at Home"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Film 102
   speakers: [37]
   #language: en
@@ -178,7 +183,7 @@
 -
   id: 016
   title: "The Comedy Connection - Is Madison Funny?"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Film 201
   speakers: [5, 6]
   #language: en
@@ -198,7 +203,7 @@
 -
   id: 018
   title: "The Legacy of Gilbert Helmsley"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Theater 102
   speakers: [39]
   #language: en
@@ -208,7 +213,7 @@
 -
   id: 019
   title: "The News as History"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Journalism 101
   speakers: [19]
   #language: en
@@ -218,7 +223,7 @@
 -
   id: 020
   title: "History as News"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Journalism 102
   speakers: [27]
   #language: en
@@ -228,7 +233,7 @@
 -
   id: 021
   title: "CBS: The Eye That Never Blinks"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Journalism 102
   speakers: [7, 8]
   #language: en
@@ -238,9 +243,9 @@
 -
   id: 022
   title: "Theories of Conspiracy"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "From the Kennedy Assasination to Russiagate; what was once unthinkable is now on everybody's mind."
   subtype: Journalism 201
-  speakers: [21, 46]
+  speakers: [21]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -248,7 +253,7 @@
 -
   id: 023
   title: "Keep On Truckin"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Journalism 202
   speakers: [18]
   #language: en
@@ -258,7 +263,7 @@
 -
   id: 024
   title: "Madison Music Scene in the 60s"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Music 101
   speakers: [36, 31, 22]
   #language: en
@@ -268,9 +273,9 @@
 -
   id: 025
   title: "Retail as Revolution Discount Records"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "When record stores mattered and why"
   subtype: Music 102
-  speakers: [3]
+  speakers: [3, 51]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -278,7 +283,7 @@
 -
   id: 026
   title: "Ecstasy and the Meaning of the Blues"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Music 201
   speakers: [26]
   #language: en
@@ -288,7 +293,7 @@
 -
   id: 027
   title: "We Gotta Get Out of This Place"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "How music kept them alive in Vietnam"
   subtype: Music 203
   speakers: [48]
   #language: en
@@ -297,8 +302,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
-  title: "How UW Science Changed the World"
-  description: "DNA, stem cells,  Warfarin and Vitamin D."
+  title: "How the UW Changed the World"
+  description: "DNA, stem cells, Warfarin and Vitamin D."
   subtype: Science 101
   speakers: [49]
   #language: en
@@ -308,7 +313,7 @@
 -
   id: 029
   title: "Social Activism and the Science of Kindness"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Psych 101
   speakers: [13]
   #language: en
@@ -318,7 +323,7 @@
 -
   id: 030
   title: "Conscientious Objection"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Social Studies 101
   speakers: [34]
   #language: en
@@ -328,7 +333,7 @@
 -
   id: 031
   title: "LGBT Madison"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "A history"
   subtype: Social Studies 102
   speakers: [47]
   #language: en
@@ -338,7 +343,7 @@
 -
   id: 032
   title: "Civil Rights &amp; Social Justice"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: "An Ongoing Awakening"
   subtype: Social Studies 104
   speakers: [32, 41]
   #language: en
@@ -348,7 +353,7 @@
 -
   id: 033
   title: "Our Bodies Ourselves"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Social Studies 201
   speakers: [11]
   #language: en
@@ -358,7 +363,7 @@
 -
   id: 034
   title: "Theories of Conspiracy"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Social Studies 203
   speakers: [21, 46]
   #language: en
@@ -368,7 +373,7 @@
 -
   id: 035
   title: "The Romance Of It All"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: English Lit. 301
   speakers: [40]
   #language: en
@@ -378,7 +383,7 @@
 -
   id: 036
   title: "The Poetry Of It All"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: English Lit. 302
   speakers: [23]
   #language: en
@@ -388,7 +393,7 @@
 -
   id: 037
   title: "The Horror Of It All"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: English Lit. 303
   speakers: [43]
   #language: en
@@ -400,7 +405,7 @@
   title: "Jam Session In The Rat"
   place: Rathskeller
   service: true
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mi nunc, egestas sed lacus quis, eleifend pulvinar nisl. Morbi felis justo, dapibus a fermentum sit amet, sodales id nibh. Donec feugiat sit amet mauris nec eleifend. Donec sollicitudin magna nec luctus ornare. Etiam eget lectus a nulla commodo mattis."
+  description: ""
   subtype: Music 204
   #speakers: [43]
   #language: en
@@ -419,7 +424,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 040
-  title: "The Writer's Workshop"
+  title: "The Writer's Workshop Pt.1"
   description: "Description"
   subtype: Writing 503
   speakers: [40]
@@ -455,6 +460,26 @@
   description: "TBA"
   subtype: Music 205
   speakers: [18]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 044
+  title: "The Writer's Workshop Pt.2"
+  description: "Description"
+  subtype: Writing 503
+  speakers: [43]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 045
+  title: "The Millenial Move; MoveOn, Upworthy and the Makers Movement"
+  description: "The 60s Roots of Today's social Movements"
+  subtype: Writing 503
+  #speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
