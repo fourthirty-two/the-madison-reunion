@@ -36,7 +36,7 @@
   title: "Screenwriter, film director, and novelist"
   bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for Mel Brooks&#39;s classic Blazing Saddles."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -64,7 +64,7 @@
   #title: "Software engineer/country manager"
   bio: "Graduated from the University of Wisconsin with a degree in political science, she joined CBS in 1972 as a producer, has served as CBS News&#39;s chief law correspondent and since 1998 has been chief national correspondent for Sunday Morning."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -78,7 +78,7 @@
   #title: "Software engineer/country manager"
   bio: "Professor of Intellectual History, Boston College"
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -106,7 +106,7 @@
   #title: "Software engineer/country manager"
   bio: "The Warren P. Knowles Professor of Law and Bioethics at the University of Wisconsin–Madison, she is a leading American authority on bioethics and holds appointments in both Wisconsin&#39;s law school and medical school."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -134,7 +134,7 @@
   #title: "Software engineer/country manager"
   bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Investigating Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -162,7 +162,7 @@
   title: "Private investigator"
   #bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -176,7 +176,7 @@
   #title: "Private investigator"
   bio: "Awarded the University of Wisconsin’s prestigious Vilas Research Chair, her research and writing examines the historical roots of contemporary social policy debates in the US, particularly as they concern gender and family issues."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -232,7 +232,7 @@
   #title: "Private investigator"
   bio: "Prominent student activist at the University of Wisconsin during the '60s and featured participant in the film The War At Home."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -260,7 +260,7 @@
   #title: "Private investigator"
   bio: "An American blues guitarist and vocalist, he was a student of Dave Van Ronk and an original member of the 1960s group The Blues Project."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -288,7 +288,7 @@
   title: "historian and neoconservative foreign policy analyst"
   bio: "An American historian and neoconservative foreign policy analyst, he is a former consultant to the United States National Security Council, the United States Department of State, and the United States Department of Defense. He held the Freedom Scholar chair at the American Enterprise Institute and now holds the similarly named chair at the Foundation for Defense of Democracies."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -344,7 +344,7 @@
   #title: "Journalist and author"
   bio: "Holds a Ph.D. in South Asian History from Yale and is currently a professor at the University of Wisconsin and Director of the Harvey Goldberg Center."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -400,7 +400,7 @@
   #title: "Film director"
   bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -428,7 +428,7 @@
   #title: "Film director"
   bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -442,7 +442,7 @@
   #title: "Film director"
   bio: "Former Deputy Mayor of Madison and currently a political writer and activist living in Milwaukee."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -498,7 +498,7 @@
   #title: "Musician"
   bio: "Director of the George Balanchine Trust as well as Managing Director of the New York Choreographic Institute, an affiliate of New York City Ballet. She is president of The Hemsley Lighting Programs, a foundation dedicated to the transition of lighting design students from the academic to the professional world."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -540,7 +540,7 @@
   #title: "Musician"
   bio: "Associate professor of public administration at Rutgers-Newark, where he is director of the master&#39;s in public health program. He also directs the Division of Urban Health Administration at the UMDNJ School of Public Health."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -596,7 +596,7 @@
   #title: "Novelist and poet"
   bio: "Journalist, investigative reporter and author of The Politics of Murder: Organized Crime in Barry Goldwater&#39;s Arizona. He was a contributor to Tender Comrades, co-author of A Very Dangerous Citizen and a political editor at the Arizona Republic."
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -652,7 +652,7 @@
   #title: "Novelist and poet"
   bio: ""
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
@@ -666,7 +666,7 @@
   #title: "Novelist and poet"
   bio: ""
   thumbnailUrl: speaker-default.png
-  rockstar: true
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
