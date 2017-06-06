@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/#top-section-hero", text: "Home"}
+ - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/#about", text: "About"}
  - {permalink: "/schedule", text: "Panels"}
