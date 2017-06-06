@@ -43,10 +43,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/reunion", text: "Reunion"}
  #- {permalink: "/#about", text: "About"}
- - {permalink: "/schedule", text: "Panels"}
- - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/schedule", text: "Conference Panels"}
+ - {permalink: "/speakers", text: "Conference Speakers"}
  - {permalink: "/#subscribe", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
