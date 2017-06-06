@@ -4,14 +4,14 @@
         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
-        <div class="{% if page.url == "/" %}logo-dark {% else %} logo-light {% endif %} logo"></div>
+        <div class="logo logo-light"></div>
     </a>
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
             {% for navigationLink in site.navigationLinks %}
             <li>
-                <a {% if page.url == "/" %} style="color: #282828;" {% endif %} class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
         </ul>

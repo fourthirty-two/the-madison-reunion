@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "union-chairs-header.jpg"
 heroTitle: "A Party With a Purpose <typeout>"
-eventDate: "June 14 - 17 2018"
+eventDate: "June 14 - 17, 2018"
 typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
 heroButtons:
@@ -105,7 +105,7 @@ mapCenterCoordinates: "43.0719167, -89.4103726"
 mapMobileCenterCoordinates: "43.0717916, -89.4100213"
 
 # Venue Block
-venueBlockTitle: "Madison <small>In The '60s</small>"
+venueBlockTitle: "Madison In The '60s"
 venueBigImage: "street-night.jpg"
 venueSmallImage1: "state-st-1960.jpg"
 venueSmallImage2: "register-sombrero.jpg"
