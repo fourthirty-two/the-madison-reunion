@@ -60,9 +60,9 @@ heroTitle: "A Party With a Purpose <typeout>"
 eventDate: "June 14 - 17, 2018"
 typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
-heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register Here"}
+# heroButtons:
+#  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {permalink: "/#tickets", text: "Register Here"}
 
 # About Block
 aboutTitle: "About The Madison Reunion"
