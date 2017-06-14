@@ -1,6 +1,6 @@
 -
-  date: "2018-07-14"
-  dateReadable: "July 14"
+  date: "2018-06-14"
+  dateReadable: "June 14"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
@@ -43,8 +43,8 @@
     	sessionIds: [041]
     }
 -
-  date: "2018-07-15"
-  dateReadable: "July 15"
+  date: "2018-06-15"
+  dateReadable: "June 15"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
@@ -78,8 +78,8 @@
     	sessionIds: [610]
     }
 -
-  date: "2018-07-16"
-  dateReadable: "July 16"
+  date: "2018-06-16"
+  dateReadable: "June 16"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
@@ -113,8 +113,8 @@
     	sessionIds: [611]
     }
 -
-  date: "2018-07-17"
-  dateReadable: "July 17"
+  date: "2018-06-17"
+  dateReadable: "June 17"
   tracks:
     - {title: "&nbsp;", color: "#90be4e"}
     # - {title: "&nbsp;", color: "#03a9f4"}
