@@ -17,16 +17,6 @@
     	endTime: "5:00",
     	sessionIds: [017, 002, 013, 040]
     }
-    - {
-    	startTime: "7:00",
-    	endTime: "8:00",
-    	sessionIds: [038]
-    }
-    - {
-    	startTime: "8:00",
-    	endTime: "11:00",
-    	sessionIds: [041]
-    }
 -
   date: "2018-06-15"
   dateReadable: "June 15"
@@ -52,11 +42,6 @@
         endTime: "5:00",
         sessionIds: [016, 043, 045, 025, 032]
     }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [038]
-    }
 -
   date: "2018-06-16"
   dateReadable: "June 16"
@@ -81,9 +66,4 @@
         startTime: "3:00",
         endTime: "5:00",
         sessionIds: [020, 026, 015, 048]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [038]
     }

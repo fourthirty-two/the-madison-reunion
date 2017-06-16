@@ -2,7 +2,7 @@
   id: 001
   title: "The History of Madison"
   place: "Great Hall"
-  description: "A 75 minute over-view of the city, the university and their ongoing pas de duex."
+  description: "An over-view of the city, the university and their ongoing pas de deux."
   subtype: History 101
   speakers: [25]
   #language: en
@@ -10,7 +10,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Freedom Riding and SDS"
+  title: "SDS"
   description: "A personal memoir: how we learned social action from the civil rights movement."
   subtype: History 102
   speakers: []
@@ -30,7 +30,7 @@
 -
   id: 004
   title: "History is What Happens While You're Making Other Plans"
-  description: "the day of the DOW demonstration and the night before."
+  description: "the day of the DOW demonstration"
   subtype: History 203
   speakers: [38, 50]
   #language: en
@@ -52,14 +52,14 @@
   title: "The Legacy of Harvey Goldberg"
   description: ""
   subtype: History 301
-  speakers: [28]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
-  title: "The Legacy of George Mosee"
+  title: "The Legacy of George Mosse"
   description: ""
   subtype: History 302
   speakers: [45]
@@ -72,15 +72,15 @@
   title: "The Legacy of Gerda Lerner"
   description: ""
   subtype: History 303
-  speakers: [16]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
-  title: "Earth Day: The Legacy of Gaylord Nelson"
-  description: "Earth Day and its origins in the social protest movement."
+  title: "The Legacy of Gaylord Nelson"
+  description: "Earth Day and its origins in the social protest movement of the '60s"
   subtype: History 401
   speakers: [30]
   #language: en
@@ -100,7 +100,7 @@
 -
   id: 011
   title: "Tikkun Olam"
-  description: "Why was Madison a magnet for the Jewish diaspora in the 20th century"
+  description: "Why Madison was a magnet for the Jewish intellectual diaspora during the 20th century"
   subtype: History 403
   speakers: [33]
   #language: en
@@ -119,8 +119,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
-  title: "Women in the Revolution"
-  description: "The Struggle for a Women's Revolution."
+  title: "Women In The Revolution and the Struggle for a Women's Revolution"
+  description: ""
   subtype: History 502
   speakers: []
   #language: en
@@ -129,10 +129,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
-  title: "Documenting Our Lives"
-  description: ""
+  title: "Documentary Films"
+  description: "when film makers turn the camera on us"
   subtype: Film 101
-  speakers: [29]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -140,7 +140,7 @@
 -
   id: 015
   title: "The War at Home"
-  description: ""
+  description: "The making of the iconic documentary"
   subtype: Film 102
   speakers: [37]
   #language: en
@@ -180,7 +180,7 @@
 -
   id: 019
   title: "The News as History"
-  description: ""
+  description: "What we knew and when we knew it"
   subtype: Journalism 101
   speakers: [19]
   #language: en
@@ -199,8 +199,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 021
-  title: "Network News What is the unblinking eye looking for?"
-  description: ""
+  title: "Network News"
+  description: "What was the unblinking eye looking for"
   subtype: Journalism 102
   speakers: [7]
   #language: en
@@ -210,9 +210,9 @@
 -
   id: 022
   title: "Theories of Conspiracy"
-  description: "From the Kennedy Assasination to Russiagate; what was once unthinkable is now on everybody's mind."
+  description: "From the Kennedy Assassination to Russiagate; what was once unthinkable is now on everybody's mind."
   subtype: Journalism 201
-  speakers: [21]
+  speakers: [21, 46]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -239,10 +239,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 025
-  title: "Retail as Revolution Discount Records"
-  description: "When record stores mattered and why"
+  title: "Retail as Revolution: Discount Records"
+  description: "when music mattered and why"
   subtype: Music 102
-  speakers: [3, 51]
+  speakers: [3]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -250,7 +250,7 @@
 -
   id: 026
   title: "Ecstasy and the Meaning of the Blues"
-  description: "The neurological connection between altered states and digging music"
+  description: "the neurological connection between altered states of mind and digging the music"
   subtype: Music 201
   speakers: [26]
   #language: en
@@ -290,7 +290,7 @@
 -
   id: 030
   title: "Conscientious Objection"
-  description: ""
+  description: "Not in my name"
   subtype: Social Studies 101
   speakers: [34]
   #language: en
@@ -299,8 +299,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 031
-  title: "LGBT Madison"
-  description: "A history"
+  title: "A History of LGBT Madison"
+  description: ""
   subtype: Social Studies 102
   speakers: [47]
   #language: en
@@ -310,9 +310,9 @@
 -
   id: 032
   title: "Civil Rights &amp; Social Justice"
-  description: "An Ongoing Awakening"
+  description: "sixty years later, the story that won't go away"
   subtype: Social Studies 104
-  speakers: [32, 41]
+  speakers: [41]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -322,7 +322,7 @@
   title: "Our Bodies Ourselves"
   description: "Women's Health"
   subtype: Social Studies 201
-  speakers: [11]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -392,7 +392,7 @@
 -
   id: 040
   title: "The Writer's Workshop Pt.1"
-  description: "Description"
+  description: ""
   subtype: Writing 503
   speakers: [40]
   #language: en
@@ -413,8 +413,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 042
-  title: "Rose Bowl 1963: a reminiscense"
-  description: "TBA"
+  title: "The Rose Bowl ‘63:"
+  description: "a time of victory, a time of defeat"
   subtype: Music 205
   speakers: [43]
   #language: en
@@ -424,7 +424,7 @@
 -
   id: 043
   title: "How You Travel is Who You Are"
-  description: "TBA"
+  description: "On the road"
   subtype: Music 205
   speakers: [18]
   #language: en
@@ -434,7 +434,7 @@
 -
   id: 044
   title: "The Writer's Workshop Pt.2"
-  description: "Description"
+  description: ""
   subtype: Writing 503
   speakers: [43]
   #language: en
@@ -443,8 +443,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
-  title: "The Millenial Move; MoveOn, Upworthy and the Makers Movement"
-  description: "The 60s Roots of Today's social Movements"
+  title: "The Millenial Move: MoveOn, Upworthy and the Makers Movement"
+  description: "How '60s social action is alive today."
   subtype: Writing 503
   speakers: [43]
   #language: en
@@ -453,7 +453,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 046
-  title: "Searching for the Maharishi within"
+  title: "Searching for the Maharishi Within:"
   description: "The radical nature of compassion"
   subtype: Psychology
   speakers: [13]
@@ -466,7 +466,7 @@
   title: "What Madison Meant to the Movement"
   description: ""
   # subtype: Psychology
-  # speakers: [13]
+  speakers: [50]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -476,6 +476,16 @@
   title: "The Writer's Workshop Pt.3"
   description: ""
   subtype: Writing 503
+  speakers: [23]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 049
+  title: "Freedom Riding"
+  description: "a personal memoir of the Civil Rights struggle"
+  subtype: History 102
   speakers: [23]
   #language: en
   #complexity: "Expert"
