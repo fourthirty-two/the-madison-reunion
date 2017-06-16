@@ -7,16 +7,6 @@
     - {title: "Play Circle", color: "#e91e63"}
     - {title: "Old Madison Room", color: "yellow"}
   timeslots:
-    # - {
-    # 	startTime: "9:00",
-    # 	endTime: "12:00",
-    # 	sessionIds: [407]
-    # }
-    # - {
-    #     startTime: "12:00",
-    #     endTime: "1:00",
-    #     sessionIds: [507]
-    # }
     - {
     	startTime: "1:00",
     	endTime: "3:00",
@@ -26,11 +16,6 @@
     	startTime: "3:00",
     	endTime: "5:00",
     	sessionIds: [017, 002, 013, 040]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [603]
     }
     - {
     	startTime: "7:00",
@@ -70,12 +55,7 @@
     - {
     	startTime: "5:00",
     	endTime: "7:00",
-    	sessionIds: [603, 038]
-    }
-    - {
-    	startTime: "8:00",
-    	endTime: "10:00",
-    	sessionIds: [610]
+    	sessionIds: [038]
     }
 -
   date: "2018-06-16"
@@ -105,23 +85,5 @@
     - {
     	startTime: "5:00",
     	endTime: "7:00",
-    	sessionIds: [603, 038]
-    }
-    - {
-    	startTime: "7:00",
-    	endTime: "10:00",
-    	sessionIds: [611]
-    }
--
-  date: "2018-06-17"
-  dateReadable: "June 17"
-  tracks:
-    - {title: "&nbsp;", color: "#90be4e"}
-    # - {title: "&nbsp;", color: "#03a9f4"}
-    # - {title: "&nbsp;", color: "#e91e63"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "8:00",
-    	sessionIds: [612]
+    	sessionIds: [038]
     }
