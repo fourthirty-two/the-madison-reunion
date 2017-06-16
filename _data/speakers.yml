@@ -5,7 +5,7 @@
   #company: "Google Poland"
   title: "Musician, writer, journalist and teacher"
   bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
-  thumbnailUrl: ben.jpg
+  thumbnailUrl: Ben.jpg
   rockstar: true
   # ribbon:
   #   - {abbr: "MUS", title: "Musician", url: "https://developers.google.com/experts/"}
@@ -35,7 +35,7 @@
   #company: "Stanfy, GDG Kyiv"
   title: "Screenwriter, film director, and novelist"
   bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for Mel Brooks&#39;s classic Blazing Saddles."
-  thumbnailUrl: speaker-default.png
+  thumbnailUrl: andrew-bergman-w800.jpg
   #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -133,7 +133,7 @@
   #company: "Twinfield, GDG Kyiv"
   #title: "Software engineer/country manager"
   bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Investigating Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
-  thumbnailUrl: speaker-default.png
+  thumbnailUrl: Richie-Davidson.jpg
   #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

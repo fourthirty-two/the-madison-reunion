@@ -29,11 +29,11 @@
                     transform: translateY(-25px);
                 }
             }
-        } 
+        }
         .overlay {
             background: rgba(0, 0, 0, .3);
             @media (max-width: 767px) {
-                background: rgba(0, 0, 0, 0);  
+                background: rgba(0, 0, 0, 0);
             }
         }
     }
@@ -47,8 +47,8 @@
         background-size: 115%;
         @media (max-width: 767px) {
             background-position: center left;
-            -webkit-background-size: 105%;        
-            background-size: 105%;        
+            -webkit-background-size: 105%;
+            background-size: 105%;
         }
     }
     figcaption {
@@ -81,7 +81,7 @@
             @media (max-width: 767px) {
                 line-height: 1;
                 opacity: 1;
-            }    
+            }
         }
         .position {
             margin: 0;
@@ -104,7 +104,7 @@
     }
     .lily-bottom {
         clear: both;
-        height: 80px;
+        height: 240px;
         padding: 16px 14px 9px;
         transition: $base-transition;
         border-bottom: 2px solid #fff;

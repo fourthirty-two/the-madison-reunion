@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "union-chairs-header.jpg"
-heroTitle: "A Party With a Purpose <typeout>"
+heroTitle: "A Party With a Purpose"
 eventDate: "June 14 - 17, 2018"
 typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
