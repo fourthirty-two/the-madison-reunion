@@ -2,6 +2,7 @@
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+          <h3>Panelists, Speakers and Presenters</h3>
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
@@ -29,14 +30,20 @@
                         </div>
                         <div class="lily-bottom">
                             <p>{{ speaker.bio }}</p>
+
+                            ---
                             <ul class="slider">
+
                                 {% assign sessionsNumber = 0 %}
                                 {% if site.showSessions %}
+
                                     {% for session in site.data.sessions %}
                                         {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
+
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
-                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
+
+                                                <li class="title slider-item animated fadeInRight hidden">Session: {{ session.title }}</li>
                                             {% endif %}
                                         {% endfor %}
                                     {% endfor %}
