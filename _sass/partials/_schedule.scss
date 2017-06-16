@@ -199,3 +199,15 @@ $small-label-width: 80px;
     background-color: #d9edf7;
     border-color: #bce8f1;
 }
+
+// list thing at top
+.schedule-list-section {
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    li {
+      margin-bottom: 14;
+      font-size: 20px;
+    }
+  }
+}
