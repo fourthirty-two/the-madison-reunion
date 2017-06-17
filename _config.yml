@@ -80,7 +80,7 @@ statisticBlock:
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Panels We Are Currently Planning"
+latestNewsTitle: "Conference Panels"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "indoor_rally.jpg"
