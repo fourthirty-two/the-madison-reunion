@@ -5,19 +5,25 @@
     }
     .about-desc {
         margin-top: 20px;
-        min-height: 250px; //min-height for buttons added
+        min-height: 177px; //min-height for buttons added
         //text-align: center !important;
     }
-}
-.well {
-    min-height: 20px;
-    padding: 19px;
-    margin-bottom: 20px;
-    background-color: #f5f5f5;
-    border: 1px solid #eee;
-    border-radius: 4px;
-}
-.well-lg {
-    padding: 24px;
-    border-radius: 6px;
+    p.about-menus {
+      margin-bottom: 30px;
+    }
+    p.about-menus a {
+
+    }
+    .well {
+      min-height: 20px;
+      padding: 19px;
+      margin-bottom: 20px;
+      background-color: #f5f5f5;
+      border: 1px solid #eee;
+      border-radius: 4px;
+    }
+    .well-lg {
+      padding: 24px;
+      border-radius: 6px;
+    }
 }

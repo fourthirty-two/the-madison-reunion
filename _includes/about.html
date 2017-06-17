@@ -17,10 +17,12 @@
                       <h5>{{ about.title }}</h5>
                       <img class="img" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="auto" alt="{{ about.title }}">
                       <p class="about-desc" style="text-align:left;">{{ about.text }}</p>
+                      <p class="about-menus text-left">
+                        {{ about.menus }}
+                      </p>
                     </div>
-                    <p>
-                      <!-- link in config about section -->
-                      <!-- <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a> -->
+                    <p class="text-left" style="margin-left: 10px;">
+                      <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
                     </p>
 
                   </div>
