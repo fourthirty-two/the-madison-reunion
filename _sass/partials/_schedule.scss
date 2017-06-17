@@ -16,6 +16,9 @@ $small-label-width: 80px;
             font-size: 14px;
         }
     }
+    i {
+      font-style: italic !important;
+    }
     .speaker-img {
         width: $speaker-image-size;
         height: $speaker-image-size;
@@ -210,4 +213,8 @@ $small-label-width: 80px;
       font-size: 20px;
     }
   }
+}
+// Speaker popup for dumb list thing
+.panels-lily {
+  cursor: pointer !important;
 }

@@ -309,7 +309,7 @@
   #   - {name: "site", link: "http://olostan.name/"}
 -
   id: 26
-  name: "Dan"
+  name: "Daniel"
   surname: "Levitin"
   #company: "Twinfield, GDG Kyiv"
   title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
@@ -419,20 +419,20 @@
   # social:
   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #   - {name: "site", link: "http://olostan.name/"}
-# -
-#   id: 34
-#   name: "Jerald"
-#   surname: "Rousseau"
-#   #company: "Twinfield, GDG Kyiv"
-#   #title: "Film director"
-#   bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   ribbon:
-#     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   # social:
-#   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#   #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 34
+  name: "Jerald"
+  surname: "Rousseau"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Film director"
+  bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 # -
 #   id: 35
 #   name: "Jim"
