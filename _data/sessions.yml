@@ -13,7 +13,7 @@
   title: "SDS"
   description: "A personal memoir: how we learned social action from the civil rights movement."
   subtype: History 102
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -52,7 +52,7 @@
   title: "The Legacy of Harvey Goldberg"
   description: ""
   subtype: History 301
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -72,7 +72,7 @@
   title: "The Legacy of Gerda Lerner"
   description: ""
   subtype: History 303
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -122,7 +122,7 @@
   title: "Women In The Revolution and the Struggle for a Women's Revolution"
   description: ""
   subtype: History 502
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -132,7 +132,7 @@
   title: "Documentary Films"
   description: "when film makers turn the camera on us"
   subtype: Film 101
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -322,7 +322,7 @@
   title: "Our Bodies Ourselves"
   description: "Women's Health"
   subtype: Social Studies 201
-  speakers: []
+  #speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -374,7 +374,7 @@
   service: true
   description: ""
   subtype: Music 204
-  speakers: [43]
+  speakers: []
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -406,7 +406,7 @@
   service: true
   description: "TBA"
   subtype: Music 205
-  speakers: [43]
+  speakers: []
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -416,7 +416,7 @@
   title: "The Rose Bowl ‘63:"
   description: "a time of victory, a time of defeat"
   subtype: Music 205
-  speakers: [43]
+  speakers: []
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -446,7 +446,7 @@
   title: "The Millenial Move: MoveOn, Upworthy and the Makers Movement"
   description: "How '60s social action is alive today."
   subtype: Writing 503
-  speakers: [43]
+  speakers: []
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -486,7 +486,7 @@
   title: "Freedom Riding"
   description: "a personal memoir of the Civil Rights struggle"
   subtype: History 102
-  speakers: [23]
+  speakers: []
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
