@@ -1,0 +1,144 @@
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
+  <div class="alert alert-info" role="alert">
+    All panels, panelists, venues and times subject to change
+  </div>
+
+    <div class="content-wrapper">
+
+      <div class="schedule-list-section" style="
+    display: block;
+    float: left;
+    margin-bottom: 61px;
+    margin-top: 30px;
+">
+
+        <div class="col-lg-8 col-md-10 col-md-offset-1" style="text-align:left;">
+          <h4>Conference Panels (subject to change)</h4>
+          <ul>
+            <li>The History of Madison; An over-view of the city, the university and their ongoing pas de deux, with Stuart Levitan</li>
+            <li>The Peter Pan Effect; Madison&#39;s radical theater tradition, with Stuart Gordon and Andre DeShields.</li>
+            <li>The Legacy of Harvey Goldberg</li>
+            <li>SDS. A personal memoir: how we learned social action from the civil rights movement.</li>
+            <li>Documentary Films; when film makers turn the camera on us.</li>
+            <li>Beyond Zap: The History of the Graphic Novel. Serious reading for the child in us all, with Paul Buhle.</li>
+            <li>Women In The Revolution and the Struggle for a Women&#39;s Revolution</li>
+            <li>The Writer&#39;s Workshop Pt. 1 with Scott Spencer</li>
+            <li>The Legacy of Gaylord Nelson; Earth Day and its origins in the social protest movement of the &#39;60s, with Tia Nelson.</li>
+            <li>History is What Happens While You&#39;re Making Other Plans; the day of the DOW demonstration, with Paul Soglin.</li>
+            <li>The Comedy Connection – Is Madison funny? With Jim Abrahams and Andy Bergman</li>
+            <li>The Politics of Resentment. Looking for the Wisconsin Idea in the idea of Wisconsin, with Katherine Cramer</li>
+            <li>The News as History. What we knew and when we knew it, with Jeff Greenfield.</li>
+            <li>How You Travel is Who You Are. On the road with Peter Greenberg.</li>
+            <li>How the UW Changed the World; DNA, stem cells, Warfarin and Vitamin D, with John Wiley</li>
+            <li>The Millenial Move: MoveOn, Upworthy and the Makers Movement. How &#39;60s social action is alive today.</li>
+            <li>Freedom Riding; a personal memoir of the Civil Rights struggle.</li>
+            <li>The Rose Bowl ‘63: a time of victory, a time of defeat.</li>
+            <li>Theories of Conspiracy. From the Kennedy Assassination to Russiagate; what was once unthinkable is now on everybody&#39;s mind, with Jim Hougan and Dave Wagner.</li>
+            <li>We Gotta Get Out of This Place. How music kept them alive in Vietnam, with Craig Werner.</li>
+            <li>The Writer&#39;s Workshop Pt. 2 with Ann. Lauterbach.</li>
+            <li>Retail as Revolution: Discount Records; when music mattered and why, with Ben Sidran, et al..</li>
+            <li>Searching for the Maharishi Within: the radical nature of compassion, with Richie Davidson.</li>
+            <li>The Legacy of George Mosse, with John Tortorice.</li>
+            <li>History as News. What we knew and how we knew it, with David Maraniss</li>
+            <li>Network News. What was the unblinking eye looking for, with Lowell Bergman.</li>
+            <li>'Tikkun Olam' Why Madison was a magnet for the Jewish intellectual diaspora during the 20th century, with Jonathan Pollack.</li>
+            <li>Ecstasy and the Meaning of the Blues; the neurological connection between altered states of mind and digging the music, with Daniel Levitin.</li>
+            <li>The War at Home. The making of the iconic documentary, with Glen Silber.</li>
+            <li>Conscientious Objection; Not in my name, with J. Rousseau.</li>
+            <li>Our Bodies Ourselves; Women&#39;s Health</li>
+            <li>The Legacy of Gerda Lerner.</li>
+            <li>The Writer&#39;s Workshop Pt. 3 with Peter Straub.</li>
+            <li>What Madison Meant to the Movement, with Peter Coyote, et al.</li>
+            <li>A History of LGBT Madison, with Dick Wagner</li>
+            <li>Civil Rights &amp; Social Justice; sixty years later, the story that won&#39;t go away, with D. Strang</li>
+          </ul>
+
+        </div>
+      </div>
+
+      <div class="col-lg-8 col-md-10 col-md-offset-1">
+        <h3 class="text-left">Conference schedule</h3>
+      </div>
+
+        {% for day in site.data.schedule %}
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <div class="timeslot track-header stick-header">
+                <div class="track-header-label">Day {{ forloop.index }}</div>
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for track in day.tracks %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                        <h5 class="track-header-title">{{ track.title }}</h5>
+                    </div>
+                    {% endfor %}
+                    <div class="track-header-slot col-xs-12 visible-xs">
+                        <h5 class="slot-detail track-header-title"></h5>
+                    </div>
+                </div>
+            </div>
+            {% for timeslot in day.timeslots %}
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="timeslot-label">
+                    <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                        {% assign startTime = timeslot.startTime | split: ":" %}
+                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                    </time>
+                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                    </time>
+                </div>
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for slot in timeslot.sessionIds %}
+                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                        {% assign slotIndex = forloop.index0 %}
+                        {% if slot != 404 %}
+                            {% for session in site.data.sessions %}
+                                {% if slot == session.id and session.service == null %}
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        <span class="slot-language">{{session.language | upcase}}</span>
+                                        <p>{{ session.description }}</p>
+                                        <ul class="slot-speakers">
+                                            {% for speaker in site.data.speakers %}
+                                                {% for session_speaker in session.speakers %}
+                                                    {% if session_speaker == speaker.id %}
+                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                    <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
+                                                        <span class="speaker-position">{{ speaker.company }}</span>
+                                                    </p>
+                                                    </li>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% endfor %}
+                                        </ul>
+                                    </div>
+                                </div>
+                                {% elsif slot == session.id and session.service != null %}
+                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
+                                    <div class="color-line"></div>
+                                    <div class="slot-content">
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.description != null %}
+                                        <p class="service-description">{{ session.description }}</p>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                        <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Schedule Section -->
