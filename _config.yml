@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/reunion", text: "Reunion"}
  - {permalink: "/schedule", text: "Conference Panels"}
  - {permalink: "/speakers", text: "Conference Panelists"}
- - {permalink: "/#about", text: "Hotels"}
- - {permalink: "/#subscribe", text: "Register"}
+ - {permalink: "#", text: "Hotels"}
+ - {permalink: "#", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
