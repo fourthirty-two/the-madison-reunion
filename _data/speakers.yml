@@ -3,7 +3,7 @@
   name: "Jim"
   surname: "Abrahams"
   #company: "Base CRM, GDG Krakow"
-  title: "Movie director and writer"
+  #title: "Movie director and writer"
   bio: "Movie director and writer best known for spoof movies that he co-wrote and produced, such as Airplane! and The Naked Gun series."
   thumbnailUrl: Jim-Abrahams.jpg
   rockstar: true
@@ -18,7 +18,7 @@
   name: "Andrew"
   surname: "Bergman"
   #company: "Stanfy, GDG Kyiv"
-  title: "Screenwriter, film director, and novelist"
+  #title: "Screenwriter, film director, and novelist"
   bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for Mel Brooks&#39;s classic Blazing Saddles."
   thumbnailUrl: andrew-bergman-w800.jpg
   #rockstar: true
@@ -182,6 +182,20 @@
 #   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #   #   - {name: "site", link: "http://olostan.name/"}
 -
+  id: 52
+  name: "Peter"
+  surname: "Gilbert"
+  #company: "Twinfield, GDG Kyiv"
+  #title: "Private investigator"
+  bio: "Producer and Director of Photography of the award winning film Hoop Dreams, he is currently a professor in the Documentary Film Making program at Wake Forrest University."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
+-
   id: 17
   name: "Stuart"
   surname: "Gordon"
@@ -298,7 +312,7 @@
   name: "Stuart"
   surname: "Levitan"
   #company: "Twinfield, GDG Kyiv"
-  title: "historian, journalist and radio host"
+  #title: "historian, journalist and radio host"
   bio: "Madison based historian, journalist and radio host, he is completing a history of Madison in the ‘60s, to be published by the University of Wisconsin Press in the fall of 2018."
   thumbnailUrl: stuart-levitan.jpg
   rockstar: true
@@ -312,7 +326,7 @@
   name: "Daniel"
   surname: "Levitin"
   #company: "Twinfield, GDG Kyiv"
-  title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
+  #title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
   bio: "Cognitive psychologist, neuroscientist, writer, musician, and record producer, he is James McGill Professor Emeritus of psychology and behavioral neuroscience at McGill University in Montreal. He has appeared frequently as a guest commentator on NPR and CBC and is the author of the best-selling book, This Is Your Brain on Music: The Science of a Human Obsession."
   thumbnailUrl: Dan-Levitin.jpeg
   rockstar: true
@@ -326,7 +340,7 @@
   name: "David"
   surname: "Maraniss"
   #company: "Twinfield, GDG Kyiv"
-  title: "Journalist and author"
+  #title: "Journalist and author"
   bio: "Journalist and author, he currently serves as an associate editor for The Washington Post. He received a Pulitzer Prize for National Reporting in 1993 for his coverage of then-candidate Bill Clinton. Among his published works are best selling biographies of Barak Obama and Bill Clinton and the book They Marched into Sunlight: War and Peace, Vietnam and America, October 1967."
   thumbnailUrl: Dave-Maraniss.jpg
   rockstar: true
@@ -354,9 +368,9 @@
   name: "Errol"
   surname: "Morris"
   #company: "Twinfield, GDG Kyiv"
-  title: "Film director"
+  #title: "Film director"
   bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
-  thumbnailUrl: errol-morris.jpg
+  thumbnailUrl: speaker-default.png
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -382,7 +396,7 @@
   name: "Tracy"
   surname: "Nelson"
   #company: "Twinfield, GDG Kyiv"
-  #title: "Film director"
+  title: "Musician"
   bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone&quot;, was nominated for a Grammy Award."
   thumbnailUrl: Tracy-Nelson.jpg
   rockstar: true
@@ -453,7 +467,7 @@
   surname: "Scaggs"
   #company: "Twinfield, GDG Kyiv"
   title: "Musician"
-  bio: "After attending the University of Wisconsin, he gained fame in the 1970s with several Top 20 hit singles, including, &quot;Lido Shuffle&quot; and &quot;Lowdown&quot; from the critically acclaimed album Silk Degrees."
+  bio: "Musician - After attending the University of Wisconsin, he gained fame in the 1970s with several Top 20 hit singles, including, &quot;Lido Shuffle&quot; and &quot;Lowdown&quot; from the critically acclaimed album Silk Degrees."
   thumbnailUrl: Boz-Scaggs.jpg
   rockstar: true
   ribbon:
@@ -466,7 +480,7 @@
   name: "Ben"
   surname: "Sidran"
   #company: "Google Poland"
-  title: "Musician, writer, journalist and teacher"
+  #title: "Musician, writer, journalist and teacher"
   bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
   thumbnailUrl: Ben.jpg
   rockstar: true
@@ -565,7 +579,7 @@
   name: "Peter"
   surname: "Straub"
   #company: "Twinfield, GDG Kyiv"
-  title: "Novelist and poet"
+  #title: "Novelist and poet"
   bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
   thumbnailUrl: Peter-Straub.jpg
   rockstar: true
@@ -581,8 +595,8 @@
   #company: "Twinfield, GDG Kyiv"
   #title: "Novelist and poet"
   bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
-  thumbnailUrl: marge-tabankin.jpg
-  rockstar: true
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:

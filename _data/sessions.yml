@@ -23,7 +23,7 @@
   title: "Vietnam and the Anti War Movement"
   description: ""
   subtype: History 201
-  speakers: [35, 10]
+  speakers: [48]
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -129,10 +129,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
-  title: "Documentary Films"
-  description: "when film makers turn the camera on us"
+  title: "Capturing the Truth; Making Documentary Films"
+  description: ""
   subtype: Film 101
-  #speakers: []
+  #speakers: [52]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -222,7 +222,7 @@
   title: "Keep On Truckin"
   description: ""
   subtype: Journalism 202
-  speakers: [18]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -232,7 +232,7 @@
   title: "Madison Music Scene in the 60s"
   description: ""
   subtype: Music 101
-  speakers: [36, 31, 22]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -342,7 +342,7 @@
   title: "The Romance Of It All"
   description: ""
   subtype: English Lit. 301
-  speakers: [40]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -352,7 +352,7 @@
   title: "The Poetry Of It All"
   description: ""
   subtype: English Lit. 302
-  speakers: [23]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -362,7 +362,7 @@
   title: "The Horror Of It All"
   description: ""
   subtype: English Lit. 303
-  speakers: [43]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -436,7 +436,7 @@
   title: "The Writer's Workshop Pt.2"
   description: ""
   subtype: Writing 503
-  speakers: [43]
+  speakers: [23]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -476,7 +476,7 @@
   title: "The Writer's Workshop Pt.3"
   description: ""
   subtype: Writing 503
-  speakers: [23]
+  speakers: [43]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

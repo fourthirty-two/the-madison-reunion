@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/reunion", text: "Reunion"}
  - {permalink: "/schedule", text: "Conference Panels"}
  - {permalink: "/speakers", text: "Conference Panelists"}
- - {permalink: "#", text: "Hotels"}
- - {permalink: "#", text: "Register"}
+ - {permalink: "/hotels", text: "Hotels"}
+ - {permalink: "/register", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -121,7 +121,7 @@ tweetsFeedImage: "MadisonWisconsin1960s_700.jpg"
 
 # Partners Block
 organizersTitle: ""
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
