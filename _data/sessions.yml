@@ -23,7 +23,7 @@
   title: "Vietnam and the Anti War Movement"
   description: ""
   subtype: History 201
-  speakers: [48]
+  speakers: []
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -423,7 +423,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 043
-  title: "How You Travel is Who You Are"
+  title: "How You Travel Is Who You Are"
   description: "On the road"
   subtype: Music 205
   speakers: [18]
