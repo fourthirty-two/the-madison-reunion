@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers", text: "Conference Panelists"}
  - {permalink: "/hotels", text: "Hotels"}
  - {permalink: "/register", text: "Register"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "mailto:info@madisonreunion.com", text: "Contact"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
