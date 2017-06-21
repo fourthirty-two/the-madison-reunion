@@ -33,7 +33,7 @@
   surname: "Bergman"
   #company: "Twinfield, GDG Kyiv"
   #title: "Software engineer/country manager"
-  bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for “A Dangerous Business”."
+  bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for “A Dangerous Business.”"
   thumbnailUrl: Lowell-Bergman.jpg
   rockstar: true
   ribbon:
@@ -80,9 +80,9 @@
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 # -
 #   id: 11
 #   name: "Alta"
@@ -117,7 +117,7 @@
   surname: "Cramer"
   #company: "Twinfield, GDG Kyiv"
   #title: "Software engineer/country manager"
-  bio: "Director of the Morgridge Center for Public Service and a Professor in the Department of Political Science at the University of Wisconsin-Madison, she is known for her book, The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker"
+  bio: "Director of the Morgridge Center for Public Service and a Professor in the Department of Political Science at the University of Wisconsin-Madison, she is known for her book, The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker."
   thumbnailUrl: Katherine-Cramer.jpg
   rockstar: true
   ribbon:
@@ -145,7 +145,7 @@
   surname: "De Shields"
   #company: "Twinfield, GDG Kyiv"
   #title: "Software engineer/country manager"
-  bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
+  bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin,' which earned him a 1978 Drama Desk nomination for his performance."
   thumbnailUrl: Andre-DeShields.jpg
   rockstar: true
   ribbon:
