@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contact"
   links:
-   - {link: "info@madisonreunion.com", text: "info@madisonreunion.com"}
+   - {link: "mailto:info@madisonreunion.com", text: "info@madisonreunion.com"}
  # -
  #  title: "FAQ"
  #  links:
