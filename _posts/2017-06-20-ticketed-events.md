@@ -6,8 +6,15 @@ image: union-chairs-header.jpg
 isStaticPost: true
 permalink: /ticketed-events/
 ---
-**The Blues For Madison**, with Boz Scaggs, Tracy Nelson, Ben Sidran, Jim Peterman and more, Friday, June 15 in Shannon Hall (The Union Theater)
+Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
 
-**The Jazz &amp; Comedy Concert** Artists TBA , Saturday, June 16 in Shannon Hall (The Union Theater)
+<dl class="dl-horizontal">
+  <dt>Thursday, June 14, 2018</dt>
+  <dd>MOTOWN NIGHT; TBA.</dd>
+  <dt>Friday, June 15, 2018</dt>
+  <dd>BLUES FOR MADISON; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
+  <dt>Saturday, June 16, 2018</dt>
+  <dd>JAZZ AND SPOKEN WORD; THE KEY NOTE.</dd>
+</dl>
 
-Tickets go on sale October 1, 2017
+Tickets go on sale at madisonreunion.com October 1, 2017
