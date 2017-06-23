@@ -153,6 +153,20 @@
   # social:
   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #   - {name: "site", link: "http://olostan.name/"}
+-
+  id: 53
+  name: "Joe"
+  surname: "Elder"
+  #company: "Twinfield, GDG Kyiv"
+  #title: ""
+  bio: ""
+  thumbnailUrl: joe-elder.jpg
+  #rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 # -
 #   id: 15
 #   name: "Mike"
@@ -686,17 +700,3 @@
 #   # social:
 #   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #   #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 52
-  name: "Joe"
-  surname: "Elder"
-  #company: "Twinfield, GDG Kyiv"
-  #title: ""
-  bio: ""
-  thumbnailUrl: joe-elder.jpg
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
