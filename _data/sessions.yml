@@ -391,7 +391,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 040
-  title: "The Writer's Workshop Pt.1"
+  title: "The Writer's Workshop"
   description: ""
   subtype: Writing 503
   speakers: [40]
@@ -433,7 +433,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 044
-  title: "The Writer's Workshop Pt.2"
+  title: "The Writer's Workshop"
   description: ""
   subtype: Writing 503
   speakers: [23]
@@ -473,7 +473,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 048
-  title: "The Writer's Workshop Pt.3"
+  title: "The Writer's Workshop"
   description: ""
   subtype: Writing 503
   speakers: [43]
