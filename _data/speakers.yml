@@ -363,16 +363,16 @@
 #   # social:
 #   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #   #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 29
-  name: "Errol"
-  surname: "Morris"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Film director"
-  bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
-  thumbnailUrl: speaker-default.png
-  rockstar: true
-  ribbon:
+# -
+#   id: 29
+#   name: "Errol"
+#   surname: "Morris"
+#   #company: "Twinfield, GDG Kyiv"
+#   #title: "Film director"
+#   bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
+#   thumbnailUrl: speaker-default.png
+#   rockstar: true
+#   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
@@ -396,7 +396,7 @@
   name: "Tracy"
   surname: "Nelson"
   #company: "Twinfield, GDG Kyiv"
-  title: "Musician"
+  title: "Concert:  Shannon Hall, Friday, June 15, 2018"
   bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone&quot;, was nominated for a Grammy Award."
   thumbnailUrl: Tracy-Nelson.jpg
   rockstar: true
@@ -466,7 +466,7 @@
   name: "Boz"
   surname: "Scaggs"
   #company: "Twinfield, GDG Kyiv"
-  title: "Musician"
+  title: "Concert:  Shannon Hall, Friday, June 15, 2018"
   bio: "After attending the University of Wisconsin, he gained fame in the 1970s with several Top 20 hit singles, including, &quot;Lido Shuffle&quot; and &quot;Lowdown&quot; from the critically acclaimed album Silk Degrees."
   thumbnailUrl: Boz-Scaggs.jpg
   rockstar: true
@@ -588,16 +588,16 @@
   # social:
   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 44
-  name: "Margery"
-  surname: "Tabankin"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Novelist and poet"
-  bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
+# -
+#   id: 44
+#   name: "Margery"
+#   surname: "Tabankin"
+#   #company: "Twinfield, GDG Kyiv"
+#   #title: "Novelist and poet"
+#   bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
+#   thumbnailUrl: speaker-default.png
+#   #rockstar: true
+#   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   # social:
   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
