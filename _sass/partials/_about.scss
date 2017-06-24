@@ -29,3 +29,7 @@
 }
 // Share buttons
 .share-home .sharethis-inline-share-buttons {text-align: center !important}
+// annoying off center fix on home page
+.share-home .container {
+    width: 100%;
+}
