@@ -17,8 +17,8 @@ baseurl: ""
 url: "http://madisonreunion.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsSiteUrl: ""
+#siteVerification: ""
 
 # Organizer Info
 organizerName: "The Madison Reunion"
@@ -29,15 +29,15 @@ organizerLogo: "/img/logo/bucky-logo-black-w-text.png"
 organizerLink: "http://madisonreunion.com"
 
 # Head
-#metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-#twitterAccount: "@DevFest"
+metaKeywords: "Madison Reunion 2018"
+#twitterAccount: "@"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pUrl: "https://bit.ly/dfua-c4p"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: ""
+# c4sponsorsUrl: ""
 
 
 # Navigation
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/register", text: "Register"}
  - {permalink: "mailto:info@madisonreunion.com", text: "Contact"}
 bottomNavigationLinks:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "", text: "Become a speaker"}
 rightNavigationButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "union-chairs-header.jpg"
@@ -60,16 +60,16 @@ heroTitle: "A Party With a Purpose"
 eventDate: "June 14 - 17, 2018"
 typeoutTextValues: '"1960", "2018"'
 typeoutFallback: "2018"
-# heroButtons:
-#  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#  - {permalink: "/#tickets", text: "Register Here"}
+heroButtons:
+#  #- {link: "", text: "Become a speaker"}
+  - {permalink: "/register/", text: "Register"}
 
 # About Block
 #aboutTitle: "About The Madison Reunion"
 aboutDescription: "<b>Fifty years ago,</b> Madison, Wisconsin was a cradle of what came to be known as “the counterculture,” a rich mix of music, art, politics, history and participatory experience. The city was ground zero for the civil rights, anti-war and social justice movements during the '60s and students at the University of Wisconsin benefitted from the teachings of brilliant historians who encouraged them to put the Wisconsin Idea into practice."
 aboutBlock:
  - {title: "The Madison Reunion", image: "about-bucky-logo-black-w-text.png", text: "<b>The Madison Reunion,</b> to be held <b>June 14 – 17, 2018</b>, will bring these former students and practitioners back to celebrate and reflect on their experience in Madison during that turbulent decade, to meet old friends, attend musical events and spend time on the Terrace.", menus: "<a href='/ticketed-events/'>&nbsp; &bull; &nbsp; Ticketed Events</a> <a href='/hotels/'>&nbsp; &bull; &nbsp; Hotels</a>", permalink: "/reunion/", btn-text: "Reunion Details" }
- - {title: "Conference on Madison in the ‘60s", image: "about-conference-logo-128h.png", text: "<b>The Conference on Madison</b>, to be held at the University of Wisconsin's Memorial Union on Thursday, Friday and Saturday, June 14-16, will be a destination for all those interested in learning more about the place and the period, whether town or gown, academics or businesspeople, committed participants or simply cultural tourists. The Conference will present over thirty panels and exhibits – a kind of cultural Woodstock to examine where we are, how we got here and what we left behind.", menus: "<a href='/schedule/'>&nbsp; &bull; &nbsp; Panels</a> <a href='/speakers/'>&nbsp; &bull; &nbsp; Panelists</a> <a href='/schedule/'>&nbsp; &bull; &nbsp; Calendar</a> <a href='/ticketed-events/'>&nbsp; &bull; &nbsp; Ticketed Events</a> <a href='/hotels/'>&nbsp; &bull; &nbsp; Hotels</a>", permalink: "/register/", btn-text: "Conference Registration" }
+ - {title: "Conference on Madison in the ‘60s", image: "about-conference-logo-128h.png", text: "<b>The Conference on Madison</b>, to be held at the University of Wisconsin's Memorial Union on Thursday, Friday and Saturday, June 14-16, 2018 will be a destination for all those interested in learning more about the place and the period, whether town or gown, academics or businesspeople, committed participants or simply cultural tourists. The Conference will present over thirty panels and exhibits – a kind of cultural Woodstock to examine where we are, how we got here and what we left behind.", menus: "<a href='/schedule/'>&nbsp; &bull; &nbsp; Panels</a> <a href='/speakers/'>&nbsp; &bull; &nbsp; Panelists</a> <a href='/schedule/'>&nbsp; &bull; &nbsp; Calendar</a> <a href='/ticketed-events/'>&nbsp; &bull; &nbsp; Ticketed Events</a> <a href='/hotels/'>&nbsp; &bull; &nbsp; Hotels</a>", permalink: "/register/", btn-text: "Conference Registration" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 # Statistic Block
 statisticBlockImage: "rosebowl-float.jpg"
@@ -127,7 +127,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Register"
-#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "/register/"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
