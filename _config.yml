@@ -111,7 +111,7 @@ venueSmallImage1: "state-st-1960.jpg"
 venueSmallImage2: "register-sombrero.jpg"
 venueSmallImage3: "pharm-counter.jpg"
 venueTitle: ""
-venueFeatures: "Whatever may be the limitations which trammel inquiry elsewhere, we believe that the great state University of Wisconsin should ever encourage that continual and fearless sifting and winnowing by which alone the truth can be found."
+venueFeatures: ["Whatever may be the limitations which trammel inquiry elsewhere, we believe that the great state University of Wisconsin should ever encourage that continual and fearless sifting and winnowing by which alone the truth can be found."]
 
 # Tweets Feed Block
 tweetsFeedImage: "MadisonWisconsin1960s_700.jpg"
