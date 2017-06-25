@@ -110,8 +110,8 @@ venueBigImage: "street-night.jpg"
 venueSmallImage1: "state-st-1960.jpg"
 venueSmallImage2: "register-sombrero.jpg"
 venueSmallImage3: "pharm-counter.jpg"
-venueTitle: "Downtown Madison"
-venueFeatures: ["Located directly in the city center"]
+venueTitle: ""
+venueFeatures: "Whatever may be the limitations which trammel inquiry elsewhere, we believe that the great state University of Wisconsin should ever encourage that continual and fearless sifting and winnowing by which alone the truth can be found."
 
 # Tweets Feed Block
 tweetsFeedImage: "MadisonWisconsin1960s_700.jpg"
@@ -128,7 +128,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Register"
 subscribeAction: "/register/"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: ""
 
 # Tickets Block
 # ticketsTitle: "Pricetable"

@@ -12,9 +12,9 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
   <dt>Thursday, June 14, 2018</dt>
   <dd>MOTOWN NIGHT; TBA.</dd>
   <dt>Friday, June 15, 2018</dt>
-  <dd>Reunion Blues; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
+  <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
   <dt>Saturday, June 16, 2018</dt>
-  <dd>JAZZ AND SPOKEN WORD; TBA.</dd>
+  <dd>KEY NOTE: JAZZ AND SPOKEN WORD; TBA.</dd>
 </dl>
 
 Tickets go on sale at madisonreunion.com October 1, 2017
