@@ -377,17 +377,17 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
-# -
-#   id: 29
-#   name: "Errol"
-#   surname: "Morris"
-#   #company: ""
-#   #title: "Film director"
-#   bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
-#   thumbnailUrl: speaker-default.png
-#   rockstar: true
-#   #ribbon:
-    #- {abbr: "", title: "", url: ""}
+-
+  id: 29
+  name: "Errol"
+  surname: "Morris"
+  #company: ""
+  #title: "Film director"
+  bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
+  thumbnailUrl: errol-morris.jpg
+  rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
