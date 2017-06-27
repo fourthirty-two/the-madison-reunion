@@ -448,6 +448,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 55
+  name: "Ken"
+  surname: "Robbins"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Board certified in psychiatry and internal medicine, has also has a master&#39;s in public health from the University of Michigan, and is a clinical professor of psychiatry at the University of Wisconsin-Madison. He has had a wide variety of clinical positions, including those which require an understanding of the interface between psychiatry and other medical specialties. His current clinical practice focuses primarily on geriatrics."
+  thumbnailUrl: ken-robbins.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 34
   name: "Jerald"
   surname: "Rousseau"
@@ -617,6 +631,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 54
+  name: "Marty"
+  surname: "Tandler"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "An original founder of SDS at the University of Wisconsin."
+  thumbnailUrl: marty-tandler.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 45
   name: "John"
   surname: "Tortorice"
@@ -700,31 +728,3 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
--
-  id: 52
-  name: "Ken"
-  surname: "Robbins"
-  #company: ""
-  #title: "Novelist and poet"
-  bio: "Board certified in psychiatry and internal medicine, has also has a master&#39;s in public health from the University of Michigan, and is a clinical professor of psychiatry at the University of Wisconsin-Madison. He has had a wide variety of clinical positions, including those which require an understanding of the interface between psychiatry and other medical specialties. His current clinical practice focuses primarily on geriatrics."
-  thumbnailUrl: ken-robbins.jpg
-  #rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
--
-  id: 53
-  name: "Marty"
-  surname: "Tandler"
-  #company: ""
-  #title: "Novelist and poet"
-  bio: "An original founder of SDS at the University of Wisconsin."
-  thumbnailUrl: marty-tandler.jpg
-  #rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
