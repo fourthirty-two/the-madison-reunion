@@ -32,10 +32,10 @@
   title: "History is What Happens While You're Making Other Plans"
   description: "the day of the DOW demonstration"
   subtype: History 203
-  speakers: [38]
+  speakers: [38, 50]
   #language: en
   #complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
