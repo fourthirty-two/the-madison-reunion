@@ -10,10 +10,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "SDS"
-  description: "A personal memoir: how we learned social action from the civil rights movement."
+  title: "SDS; Three personal memoirs"
+  description: "Three personal memoirs."
   subtype: History 102
-  #speakers: []
+  speakers: [54]
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -129,10 +129,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
-  title: "Capturing the Truth; Making Documentary Films"
+  title: "Capturing the Truth: Making Documentary Films"
   description: ""
   subtype: Film 101
-  #speakers: [52]
+  speakers: [52, 29]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -487,6 +487,26 @@
   description: "a personal memoir of the Civil Rights struggle"
   subtype: History 102
   speakers: []
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 050
+  title: "What's Left of the Wisconsin Idea"
+  description: ""
+  subtype: History 102
+  speakers: [56]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 051
+  title: "Psychopharmacology"
+  description: "From the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions, marijuana and LSD."
+  subtype: History 102
+  speakers: [55]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
