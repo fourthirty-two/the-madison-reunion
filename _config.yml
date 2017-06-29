@@ -16,8 +16,8 @@ description: "Bringing the '60s back home"
 baseurl: ""
 url: "http://madisonreunion.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-"
-#googleAnalyticsSiteUrl: ""
+googleAnalyticsTrackingId: "UA-66092629-6"
+googleAnalyticsSiteUrl: "auto"
 #siteVerification: ""
 
 # Organizer Info
