@@ -630,17 +630,17 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 44
-#   name: "Margery"
-#   surname: "Tabankin"
-#   #company: ""
-#   #title: "Novelist and poet"
-#   bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-    #- {abbr: "", title: "", url: ""}
+-
+  id: 44
+  name: "Margery"
+  surname: "Tabankin"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "The first woman president of the National Student Association, she spent the last half century since graduating from the University of Wisconsin engaged in various activities to ensure that the cultural aspects of social change are not lost in the political process, working in both government (as the head of the Peace Corp) and at philanthropic agencies (for Steven Speilberg and Barbra Streisand among others.)"
+  thumbnailUrl: marge-tabankin.jpg
+  #rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
