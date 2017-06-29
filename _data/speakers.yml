@@ -167,6 +167,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+-
+  id: 57
+  name: "Kathleen"
+  surname: "Falk"
+  #company: ""
+  #title: ""
+  bio: "Served as Dane County Executive from 1997 until 2011; previously she worked as co-director and legal counsel of Wisconsin's Environmental Decade and In 2013, she was appointed Regional Director of the U.S. Department of Health and Human Services;"
+  thumbnailUrl: kathleen-falk.jpg
+  #rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 # -
 #   id: 15
 #   name: "Mike"
@@ -243,7 +257,7 @@
   surname: "Greenberg"
   #company: ""
   #title: "Private investigator"
-  bio: "CBS News Travel Editor, previously Travel Editor for NBC's Today, CNBC and MSNBC, he is an Emmy Award-winning journalist and television producer. Known as the &quot;Travel Detective,&quot; he serves as the Travel Ambassador for AARP, offering travel advice to members."
+  bio: "Got his start working at the Daily Cardinal and went on to become the Travel Editor for NBC's <i style='font-style:italic;'>Today</i> show as well as the Travel Editor for CBS News.  A multiple Emmy Award winning journalist and television producer, he is known as the &qout;Travel Detective.&quot;"
   thumbnailUrl: Peter-Greenberg.jpg
   rockstar: true
   ##ribbon:
