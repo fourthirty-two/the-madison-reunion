@@ -743,6 +743,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 59
+  name: "Ben"
+  surname: "Wikler"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "While a high school student in Madison during the '90s, he launched Students United in Defense of Schools to demand increased school funding and succeeded in allowing students to elect a representative to the Madison School Board. He went to be editor-in-chief of the <i>Harvard Review of Philosophy</i> and to contribute to <i>The Onion</i> before becoming a founding producer for Al Franken&#39;s radio show, <i>The Al Franken Show</i>. In 2011, he became the Executive Vice President of Change.org."
+  thumbnailUrl: ben-wikler.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 49
   name: "John"
   surname: "Wiley"
