@@ -518,6 +518,20 @@
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
 -
+  id: 58
+  name: "Jesse"
+  surname: "Samberg"
+  #company: ""
+  #title: "Film director"
+  bio: "A student at the UW Madison in the '60s, he went on to become Head of Business Services &amp; Senior Director of Performance Management with the Mass Transit Authority of New York City. He is currently a consultant with IBM."
+  thumbnailUrl: jesse-samberg.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 36
   name: "Boz"
   surname: "Scaggs"
