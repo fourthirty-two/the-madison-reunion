@@ -7,4 +7,4 @@ isStaticPost: true
 permalink: /register/
 ---
 ![logo](/img/logo/bucky-logo-black.png)
-#### Registration opens August 1, 2017
+#### Registration opens September 5th, 2017

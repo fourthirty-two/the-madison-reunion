@@ -17,4 +17,4 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
   <dd>KEY NOTE: JAZZ AND SPOKEN WORD; TBA.</dd>
 </dl>
 
-Tickets go on sale at madisonreunion.com October 1, 2017
+Tickets go on sale at madisonreunion.com September 5th, 2017
