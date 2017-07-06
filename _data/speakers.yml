@@ -55,20 +55,20 @@
 #   social:
 #     - {name: "google-plus", link: ""}
 #     - {name: "site", link: ""}
-# -
-#   id: 9
-#   name: "Paul"
-#   surname: "Breines"
-#   #company: ""
-#   #title: ""
-#   bio: "Professor of Intellectual History, Boston College"
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   social:
-#     - {name: "google-plus", link: ""}
-#     - {name: "site", link: ""}
+-
+  id: 9
+  name: "Paul"
+  surname: "Breinis"
+  #company: ""
+  #title: ""
+  bio: "A Freedom Rider imprisoned for three weeks in 1961 at Mississippi&#39;s notorious Parchman Farm, he chaired the Socialist Club in 1962, was later a member of the Ad Hoc Committee for Thinking (ACT; he recently retired as a professor of intellectual history at Boston College."
+  thumbnailUrl: paul-breinis.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 10
   name: "Paul"
