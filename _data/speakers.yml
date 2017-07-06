@@ -294,6 +294,20 @@
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
 -
+  id: 60
+  name: "Paul"
+  surname: "Higginbotham"
+  #company: ""
+  #title: "Private investigator"
+  bio: "A Judge of the Wisconsin Court of Appeals, the first and only African American to serve on the court, he has been involved in the civil rights struggle since his teenage years when his father marched with Dr. Martin Luther King Jr. during the March on Washington for Jobs and Freedom."
+  thumbnailUrl: paul-higginbotham.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 21
   name: "Jim"
   surname: "Hougan"
