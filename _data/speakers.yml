@@ -490,6 +490,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 61
+  name: "Carolyn"
+  surname: "Purdy-Gordon"
+  #company: ""
+  #title: "Film director"
+  bio: "Carolyn Purdy-Gordon has maintained her most frequent presence in horror outings, often directed by longtime husband Stuart Gordon."
+  thumbnailUrl: carolyn-purdy-gordon.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 55
   name: "Ken"
   surname: "Robbins"
