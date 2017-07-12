@@ -461,6 +461,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+-
+  id: 62
+  name: "Ismael"
+  surname: "Ozanne"
+  #company: ""
+  #title: ""
+  bio: "A lifelong resident of Madison, Wisconsin, he played varsity soccer for the Badgers men's soccer team, worked as an Assembly Page for the Wisconsin State Legislature and staffed the Joint Committee on Finance. In February of 2008, Governor Doyle appointed Ozanne to be the Executive Assistant for the Department of Corrections and in 2010, Governor Doyle appointed him to be the Dane County District Attorney, the first African American District Attorney in Wisconsin's history."
+  thumbnailUrl: ismael-ozanne.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 # -
 #   id: 32
 #   name: "Lester"
