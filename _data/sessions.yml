@@ -309,10 +309,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 032
-  title: "Civil Rights &amp; Social Justice"
-  description: "sixty years later, the story that won't go away"
+  title: "Civil Rights, Social Justice and the Law"
+  description: "Sixty years later the story that won't go away"
   subtype: Social Studies 104
-  speakers: [41]
+  speakers: [41, 62]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -486,7 +486,7 @@
   title: "Freedom Riding"
   description: "Personal memoirs of the Civil Rights Struggle"
   subtype: History 102
-  speakers: [60, 9]
+  speakers: [60, 9, 63]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

@@ -231,7 +231,21 @@
   #title: "Private investigator"
   bio: "Producer and Director of Photography of the award winning film Hoop Dreams, he is currently a professor in the Documentary Film Making program at Wake Forrest University."
   thumbnailUrl: peter-gilbert.jpg
-  #rockstar: true
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 63
+  name: "Gwen"
+  surname: "Gillon"
+  #company: ""
+  #title: ""
+  bio: "A longtime resident of Madison, she grew up in Anniston, Alabama and received a scholarship to Tougaloo College where she became part of the Student Nonviolent Coordinating Committee (SNCC); she participated in the Freedom Summer of 1964, an effort to register African Americans to vote in Mississippi, where Stokely Carmichael referred to her as a &quot;gutsy little sister.&quot;"
+  thumbnailUrl: gwen-gillon.jpg
+  rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
@@ -461,6 +475,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+-
+  id: 62
+  name: "Ismael"
+  surname: "Ozanne"
+  #company: ""
+  #title: ""
+  bio: "A lifelong resident of Madison, Wisconsin, he played varsity soccer for the Badgers men's soccer team, worked as an Assembly Page for the Wisconsin State Legislature and staffed the Joint Committee on Finance. In February of 2008, Governor Doyle appointed Ozanne to be the Executive Assistant for the Department of Corrections and in 2010, Governor Doyle appointed him to be the Dane County District Attorney, the first African American District Attorney in Wisconsin's history."
+  thumbnailUrl: ismael-ozanne.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 # -
 #   id: 32
 #   name: "Lester"
@@ -524,8 +552,8 @@
   #company: ""
   #title: "Film director"
   bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program. Being a conscientious objector in the '60s changed his life; now he's working with others to change theirs."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: jerry-rousseau.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
