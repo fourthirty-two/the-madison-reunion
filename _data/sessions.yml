@@ -176,26 +176,26 @@
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 019
-  title: "The News as History"
-  description: "What we knew and when we knew it"
-  subtype: Journalism 101
-  speakers: [19]
-  #language: en
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 020
-  title: "History as News"
-  description: "What we knew and how we knew it"
-  subtype: Journalism 102
-  speakers: [27]
-  #language: en
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 019
+#   title: "The News as History"
+#   description: "What we knew and when we knew it"
+#   subtype: Journalism 101
+#   speakers: [19]
+#   #language: en
+#   #complexity: "Expert"
+#   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 020
+#   title: "History as News"
+#   description: "What we knew and how we knew it"
+#   subtype: Journalism 102
+#   speakers: [27]
+#   #language: en
+#   #complexity: "Expert"
+#   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 021
   title: "Network News"
