@@ -151,7 +151,7 @@
   title: "What's so Funny About Madison?"
   description: "The Comedy Connection"
   subtype: Film 201
-  speakers: [5, 6, 68]
+  speakers: [5, 6]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

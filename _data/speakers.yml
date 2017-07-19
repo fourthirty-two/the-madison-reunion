@@ -377,20 +377,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
--
-  id: 68
-  name: "Ben"
-  surname: "Karlin"
-  #company: ""
-  #title: ""
-  #bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 68
+#   name: "Ben"
+#   surname: "Karlin"
+#   #company: ""
+#   #title: ""
+#   #bio: ""
+#   thumbnailUrl: speaker-default.png
+#   #rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 23
   name: "Ann"
