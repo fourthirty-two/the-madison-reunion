@@ -742,20 +742,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 42
-#   name: "Evan"
-#   surname: "Stark"
-#   #company: ""
-#   #title: "Musician"
-#   bio: "Associate professor of public administration at Rutgers-Newark, where he is director of the master&#39;s in public health program. He also directs the Division of Urban Health Administration at the UMDNJ School of Public Health."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 42
+  name: "Evan"
+  surname: "Stark"
+  #company: ""
+  #title: ""
+  bio: "With a Ph.D. in sociology and an MSW, he specializes in health and medical care, family and community violence and policy issues dealing with racial and gender justice."
+  thumbnailUrl: evan-stark.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 43
   name: "Peter"
