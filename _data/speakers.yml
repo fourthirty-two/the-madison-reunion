@@ -161,7 +161,21 @@
   #title: ""
   bio: "Emeritus Professor of Sociology, University of Wisconsin, considered by many of his students and other faculty to be &quot;the moral conscience of his department.&quot;"
   thumbnailUrl: joe-elder.jpg
-  #rockstar: true
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 67
+  name: "Frank"
+  surname: "Emspack"
+  #company: ""
+  #title: ""
+  bio: "Currently CEO and Executive Producer at Diversified Media Enterprises."
+  thumbnailUrl: frank-emspack.jpg
+  rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
@@ -195,20 +209,6 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
-# -
-#   id: 16
-#   name: "Linda"
-#   surname: "Gordon"
-#   #company: ""
-#   #title: "Private investigator"
-#   bio: "Awarded the University of Wisconsin’s prestigious Vilas Research Chair, her research and writing examines the historical roots of contemporary social policy debates in the US, particularly as they concern gender and family issues."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 56
   name: "Russ"
@@ -223,6 +223,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+# -
+#   id: 16
+#   name: "Linda"
+#   surname: "Gordon"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Awarded the University of Wisconsin’s prestigious Vilas Research Chair, her research and writing examines the historical roots of contemporary social policy debates in the US, particularly as they concern gender and family issues."
+#   thumbnailUrl: speaker-default.png
+#   #rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 66
   name: "Vicki"
