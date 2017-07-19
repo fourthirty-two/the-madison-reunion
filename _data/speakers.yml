@@ -476,6 +476,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 64
+  name: "Kathleen"
+  surname: "Nichols"
+  #company: ""
+  #title: ""
+  bio: "Active in the Madison LGBT scene, she was a Dane County Supervisor and is currently an advisor for the Communication Arts major at the University of Wisconsin."
+  thumbnailUrl: kathleen-nichols.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 62
   name: "Ismael"
   surname: "Ozanne"
