@@ -207,16 +207,16 @@
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 022
-  title: "Theories of Conspiracy"
-  description: "From the Kennedy Assassination to Russiagate; what was once unthinkable is now on everybody's mind."
-  subtype: Journalism 201
-  speakers: [21, 46]
-  #language: en
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 022
+#   title: "Theories of Conspiracy"
+#   description: "From the Kennedy Assassination to Russiagate; what was once unthinkable is now on everybody's mind."
+#   subtype: Journalism 201
+#   speakers: [21]
+#   #language: en
+#   #complexity: "Expert"
+#   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 023
   title: "Keep On Truckin"
@@ -384,7 +384,7 @@
   title: "Beyond Zap: The History of the Graphic Novel"
   description: "Serious reading for the child in us all."
   subtype: History 503
-  speakers: [10]
+  speakers: [10, 46]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
