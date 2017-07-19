@@ -148,10 +148,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 016
-  title: "The Comedy Connection - Is Madison Funny?"
-  description: ""
+  title: "What's so Funny About Madison?"
+  description: "The Comedy Connection"
   subtype: Film 201
-  speakers: [5, 6]
+  speakers: [5, 6, 68]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -502,8 +502,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 051
-  title: "Psychopharmacology"
-  description: "From the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions, marijuana and LSD."
+  title: "Why We Get High"
+  description: "Psychopharmacology, from the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions."
   subtype: History 102
   speakers: [55]
   #language: en
