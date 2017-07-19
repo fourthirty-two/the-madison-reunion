@@ -363,6 +363,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+-
+  id: 65
+  name: "Barbara"
+  surname: "Lawton"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Elected Lieutenant Governor of the State of Wisconsin in 2002, the first woman to hold the position, she was re-elected in 2006 and is currently the President and CEO of Americans for Campaign Reform."
+  thumbnailUrl: barbara-lawton.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 # -
 #   id: 24
 #   name: "Mike"
