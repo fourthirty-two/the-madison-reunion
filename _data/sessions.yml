@@ -1,8 +1,7 @@
 -
   id: 001
-  title: "The History of Madison"
-  place: "Great Hall"
-  description: "An over-view of the city, the university and their ongoing pas de deux."
+  title: "1963: The Calm Before the Storm"
+  description: "Fraternities, Mill Ball and The Rose Bowl."
   subtype: History 101
   speakers: [25]
   #language: en
@@ -411,16 +410,16 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 042
-  title: "The Rose Bowl ‘63:"
-  description: "The best of times, the worst of times"
-  subtype: Music 205
-  speakers: []
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 042
+#   title: "The Rose Bowl ‘63:"
+#   description: "The best of times, the worst of times"
+#   subtype: Music 205
+#   speakers: []
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 043
   title: "How You Travel Is Who You Are"
