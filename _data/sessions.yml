@@ -390,10 +390,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 040
-  title: "The Writer's Workshop"
-  description: ""
+  title: "Telling Stories"
+  description: "How the tales we tell are shaped by the Madison we knew; a writers' workshop"
   subtype: Writing 503
-  speakers: [40]
+  speakers: [40, 43, 23]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -430,16 +430,16 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 044
-  title: "The Writer's Workshop"
-  description: ""
-  subtype: Writing 503
-  speakers: [23]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 044
+#   title: "The Writer's Workshop"
+#   description: ""
+#   subtype: Writing 503
+#   speakers: [23]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
   title: "The Millenial Move: MoveOn, Upworthy and the Makers Movement"
@@ -470,16 +470,16 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 048
-  title: "The Writer's Workshop"
-  description: ""
-  subtype: Writing 503
-  speakers: [43]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 048
+#   title: "The Writer's Workshop"
+#   description: ""
+#   subtype: Writing 503
+#   speakers: [43]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 049
   title: "Freedom Riding"
