@@ -512,8 +512,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 052
-  title: "Open Mic:"
-  description: "Rat or Cafeteria, Mosse or Goldberg, pot or alcohol, how culture transformed our politics, with Jesse Samberg as moderator."
+  title: "Twenty Questions:"
+  description: "Open mic."
   subtype: History 102
   speakers: [58]
   #language: en
