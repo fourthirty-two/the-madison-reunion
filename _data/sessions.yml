@@ -28,10 +28,10 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "History is What Happens While You're Making Other Plans"
-  description: "the day of the DOW demonstration"
+  title: "The Day of DOW"
+  description: ""
   subtype: History 203
-  speakers: [38, 50, 66]
+  speakers: [38, 66, 50]
   #language: en
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -51,7 +51,7 @@
   title: "Talking Harvey Goldberg"
   description: ""
   subtype: History 301
-  speakers: [53]
+  speakers: [53, 54, 3]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -61,7 +61,7 @@
   title: "The Legacy of George Mosse"
   description: ""
   subtype: History 302
-  speakers: [45]
+  speakers: [45, 9]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -78,8 +78,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
-  title: "The Legacy of Gaylord Nelson"
-  description: "Earth Day and its origins in the social protest movement of the '60s"
+  title: "Earth Day"
+  description: "The Legacy of Gaylord Nelson and its origins in the social protest movement of the '60s"
   subtype: History 401
   speakers: [30, 57]
   #language: en
@@ -89,7 +89,7 @@
 -
   id: 010
   title: "The Politics of Resentment"
-  description: "Looking for the Wisconsin Idea in the idea of Wisconsin."
+  description: "Looking for the Wisconsin Idea in the idea of Wisconsin"
   subtype: History 402
   speakers: [12]
   #language: en
@@ -99,7 +99,7 @@
 -
   id: 011
   title: "Tikkun Olam"
-  description: "Why Madison was a magnet for the Jewish intellectual diaspora during the 20th century"
+  description: "Why Madison was a magnet for the Jewish Diaspora during the 20th century."
   subtype: History 403
   speakers: [33]
   #language: en
@@ -118,7 +118,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
-  title: "Women In The Revolution and the Struggle for a Women's Revolution"
+  title: "A Woman's Perspective"
   description: ""
   subtype: History 502
   speakers: [44]
@@ -128,7 +128,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
-  title: "Capturing the Truth: Making Documentary Films"
+  title: "Capturing the Truth: Documentary Films"
   description: ""
   subtype: Film 101
   speakers: [52, 29]
@@ -139,9 +139,9 @@
 -
   id: 015
   title: "The War at Home"
-  description: "The making of the iconic documentary"
+  description: ""
   subtype: Film 102
-  speakers: [37, 67, 42]
+  speakers: [37, 42, 67]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -158,7 +158,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 017
-  title: "Peter Pan Effect"
+  title: "The Peter Pan Effect"
   description: "Madison's radical theater tradition"
   subtype: Theater 101
   speakers: [17, 61, 14]
@@ -249,7 +249,7 @@
 -
   id: 026
   title: "Ecstasy and the Meaning of the Blues"
-  description: "the neurological connection between altered states of mind and digging the music"
+  description: "The neurological connection between altered states and digging the music"
   subtype: Music 201
   speakers: [26]
   #language: en
@@ -268,7 +268,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
-  title: "How UW Scientists Changed the World"
+  title: "How UW Science Changed the World"
   description: "DNA, stem cells, Warfarin and Vitamin D"
   subtype: Science 101
   speakers: [49]
@@ -298,7 +298,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 031
-  title: "A History of LGBT Madison"
+  title: "The Beginning of the LGBT Movement"
   description: ""
   subtype: Social Studies 102
   speakers: [47, 64]
@@ -309,7 +309,7 @@
 -
   id: 032
   title: "Civil Rights, Social Justice and the Law"
-  description: "Sixty years later the story that won't go away"
+  description: "Sixty years later, the story that won't go away"
   subtype: Social Studies 104
   speakers: [41, 62]
   #language: en
@@ -381,7 +381,7 @@
 -
   id: 039
   title: "Beyond Zap: The History of the Graphic Novel"
-  description: "Serious reading for the child in us all."
+  description: "Serious reading for the child in us all"
   subtype: History 503
   speakers: [10, 46]
   #language: en
@@ -391,7 +391,7 @@
 -
   id: 040
   title: "Telling Stories"
-  description: "How the tales we tell are shaped by the Madison we knew; a writers' workshop"
+  description: "How the tales we tell were shaped by the Madison we knew; a writers' workshop"
   subtype: Writing 503
   speakers: [40, 43, 23]
   #language: en
@@ -442,8 +442,8 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
-  title: "The Millenial Move: MoveOn, Upworthy and the Makers Movement"
-  description: "How '60s social action is alive today."
+  title: "The Millenial Move"
+  description: "MoveOn, Upworthy and the Makers Movement. The 60s roots of today's social movements"
   subtype: Writing 503
   speakers: [59]
   #language: en
@@ -452,7 +452,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 046
-  title: "Searching for the Maharishi Within:"
+  title: "Searching for the Maharishi Within"
   description: "The radical nature of compassion"
   subtype: Psychology
   speakers: [13]
@@ -483,7 +483,7 @@
 -
   id: 049
   title: "Freedom Riding"
-  description: "Personal memoirs of the Civil Rights Struggle"
+  description: "Personal memoirs"
   subtype: History 102
   speakers: [60, 9, 63]
   #language: en
@@ -495,7 +495,7 @@
   title: "What's Left of the Wisconsin Idea"
   description: ""
   subtype: History 102
-  speakers: [56, 27, 65]
+  speakers: [27, 56, 65]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -523,7 +523,7 @@
 -
   id: 053
   title: "The State of the 4th Estate"
-  description: ""
+  description: "From the Cardinal to The Cloud"
   subtype: History 102
   speakers: [19, 27, 7]
   #language: en
