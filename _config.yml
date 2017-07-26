@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/speakers", text: "Conference Panelists"}
  - {permalink: "/hotels", text: "Hotels"}
  - {permalink: "/register", text: "Register"}
+ - {permalink: "/ticketed-events", text: "Ticketed Events"}
  - {permalink: "mailto:info@madisonreunion.com", text: "Contact"}
 bottomNavigationLinks:
  #- {link: "", text: "Become a speaker"}
