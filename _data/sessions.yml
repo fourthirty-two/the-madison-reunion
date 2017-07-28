@@ -161,7 +161,7 @@
   title: "The Peter Pan Effect"
   description: "Madison's radical theater tradition"
   subtype: Theater 101
-  speakers: [17, 61, 14]
+  speakers: [17, 61]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -526,6 +526,16 @@
   description: "From the Cardinal to The Cloud"
   subtype: History 102
   speakers: [19, 27, 7]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 054
+  title: "Inventing Yourself"
+  description: ""
+  subtype: Theater 102
+  speakers: [14]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
