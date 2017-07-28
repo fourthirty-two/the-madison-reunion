@@ -133,7 +133,7 @@
   #title: ""
   bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Investigating Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
   thumbnailUrl: Richie-Davidson.jpg
-  #rockstar: true
+  rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
@@ -147,6 +147,20 @@
   #title: ""
   bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin,' which earned him a 1978 Drama Desk nomination for his performance."
   thumbnailUrl: Andre-DeShields.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 69
+  name: "Hasia"
+  surname: "Diner"
+  #company: ""
+  #title: ""
+  bio: "A graduate of the University of Wisconsin, Class of 1968, Hasia Diner is the Paul S. and Sylvia Steinberg Professor of American Jewish History at New York University. She also directs the Goldstein-Goren Center for American Jewish History and is the author of a number of books which explore aspects of American Jewish history, American immigration history, and the history of American women."
+  thumbnailUrl: hasia-diner.jpg
   rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
