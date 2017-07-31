@@ -869,6 +869,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 70
+  name: "David"
+  surname: "Ward"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Trained as a geographer, he was Chancellor of the University of Wisconsin from 1993 to 2001, then president of the American Council on Education from 2001 to 2008, and again served as the Interim Chancellor of the UW-Madison in 2011."
+  thumbnailUrl: david-ward.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 48
   name: "Craig"
   surname: "Werner"
