@@ -525,7 +525,7 @@
   title: "The State of the 4th Estate"
   description: ""
   subtype: History 102
-  speakers: [27, 7]
+  speakers: [27, 7, 19]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -540,13 +540,13 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 055
-  title: "From the Cardinal to The Cloud"
-  description: ""
-  subtype: History 102
-  speakers: [19]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 055
+#   title: "From the Cardinal to The Cloud"
+#   description: ""
+#   subtype: History 102
+#   speakers: [19]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
