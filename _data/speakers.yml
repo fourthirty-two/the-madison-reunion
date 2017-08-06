@@ -476,6 +476,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 72
+  name: "Bill"
+  surname: "Linton"
+  #company: ""
+  #title: ""
+  bio: "Founded Promega Corporation in 1978 to provide restriction enzymes for biotechnology.  The company now offers more than 3,000 life science products used by scientists, researchers and life science and pharmaceutical companies."
+  thumbnailUrl: bill-linton.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 27
   name: "David"
   surname: "Maraniss"
