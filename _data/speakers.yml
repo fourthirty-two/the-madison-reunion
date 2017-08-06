@@ -490,6 +490,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 73
+  name: "Tom"
+  surname: "Loftus"
+  #company: ""
+  #title: ""
+  bio: "Served in the Wisconsin State Assembly from 1977 until 1991 and was speaker of the Assembly; he was then appointed by president Bill Clinton to be United States Ambassador to Norway where he served until 1997; in 2005, he was appointed by Wisconsin Governor Jim Doyle to the University of Wisconsin System Board of Regents."
+  thumbnailUrl: tom-loftus.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 27
   name: "David"
   surname: "Maraniss"
