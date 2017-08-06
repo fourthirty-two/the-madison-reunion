@@ -728,6 +728,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 74
+  name: "Anat"
+  surname: "Shenker Osorio"
+  #company: ""
+  #title: ""
+  bio: "A communications expert, researcher and political pundit whose one-of-a-kind work is challenging the way dozens of organizations and political figures talk about the pressing issues of our time; she is also a graduate of Madison West high school."
+  thumbnailUrl: anat.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 3
   name: "Ben"
   surname: "Sidran"
