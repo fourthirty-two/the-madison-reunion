@@ -391,20 +391,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
-# -
-#   id: 68
-#   name: "Ben"
-#   surname: "Karlin"
-#   #company: ""
-#   #title: ""
-#   #bio: ""
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 68
+  name: "Ben"
+  surname: "Karlin"
+  #company: ""
+  #title: ""
+  bio: "Wrote for The Onion from 1993-1996 and is currently an American television producer and writer who has won eight Emmy awards, and is best known for his work in The Daily Show with Jon Stewart and The Colbert Report (he was one of three co-creators of The Colbert Report along with Stephen Colbert and Jon Stewart)."
+  thumbnailUrl: ben-karlin.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 23
   name: "Ann"
