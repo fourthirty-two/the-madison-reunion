@@ -196,6 +196,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 75
+  name: "Stuart"
+  surname: "Ewen"
+  #company: ""
+  #title: ""
+  bio: "A Distinguished Professor at Hunter College and the City University of New York Graduate Center in the departments of History, Sociology and Media Studies, he was a field secretary for the civil rights organization the Student Nonviolent Coordinating Committee (SNCC) n 1964 and early 1965, and was one of the founding editors of the underground newspaper, Connections, in Madison, Wisconsin, when he was a student."
+  thumbnailUrl: stuart-ewen.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 57
   name: "Kathleen"
   surname: "Falk"

@@ -31,7 +31,7 @@
   title: "The Day of DOW"
   description: ""
   subtype: History 203
-  speakers: [38, 66, 50]
+  speakers: [38, 66, 50, 75]
   #language: en
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
