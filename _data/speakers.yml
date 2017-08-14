@@ -827,6 +827,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 76
+  name: "Rena"
+  surname: "Steinzor"
+  #company: ""
+  #title: ""
+  bio: "A Professor at the University of Maryland School Law School, her career has focused on regulatory systems particularly health, worker safety, environmental, and financial service regulation (BP, Deepwater Horizon, Texas City Refinery, Tesoro Refinery, Upper Big Branch Mine, New England Compounding Center); she is also a past editor of the UW Daily Cardinal."
+  thumbnailUrl: rena-steinzor.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 41
   name: "Dean"
   surname: "Strang"
