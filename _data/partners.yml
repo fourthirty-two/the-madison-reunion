@@ -5,8 +5,8 @@
     - {name: "cinematheque", description: "cinematheque", link: "http://cinema.wisc.edu/", imageUrl: "cinematheque.png"}
     - {name: "dane arts", description: "dane arts", link: "http://danearts.com/", imageUrl: "danearts.png"}
     - {name: "frank productions", description: "frank productions", link: "http://frankproductions.com/", imageUrl: "frankproductions.jpg"}
-    - {name: "wisconsin historical society", description: "wisconsin historical society", link: "http://www.wisconsinhistory.org/", imageUrl: "wihistorical.png"}
     - {name: "Promega", description: "Promega", link: "http://www.promega.com/", imageUrl: "promega-logo.jpg"}
+    - {name: "wisconsin historical society", description: "wisconsin historical society", link: "http://www.wisconsinhistory.org/", imageUrl: "wihistorical.png"}
     - {name: "UW Center for Jewish Studies", description: "UW Center for Jewish Studies", link: "https://jewishstudies.wisc.edu/", imageUrl: "uw-jewish-studies.png"}
 # -
 #   group: "With support of"
