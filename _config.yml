@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/reunion", text: "Reunion"}
  - {permalink: "/schedule", text: "Conference Panels"}
  - {permalink: "/speakers", text: "Conference Panelists"}
- - {permalink: "/hotel", text: "Hotels"}
+ - {permalink: "/hotels", text: "Hotels"}
  - {permalink: "https://uwmadison.eventsair.com/madison60s/register/Site/Register", text: "Register"}
  - {permalink: "/ticketed-events", text: "Ticketed Events"}
  - {permalink: "mailto:info@madisonreunion.com", text: "Contact"}
