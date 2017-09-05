@@ -17,4 +17,4 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
   <dd>KEY NOTE: JAZZ AND SPOKEN WORD; TBA.</dd>
 </dl>
 
-Conference registrants will receive via email a discount code to purchase tickets for these shows once they are on sale.
+<a href="{{ site.registerLink }}">Conference registrants</a> will receive via email a discount code to purchase tickets for these shows once they are on sale.
