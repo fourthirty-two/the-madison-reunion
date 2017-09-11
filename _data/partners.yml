@@ -1,5 +1,5 @@
 -
-  group: "Sponsors"
+  group: "Institutional and Corporate Partners"
   elements:
     - {name: "evjue captimes", description: "evjue captimes", link: "https://www.tgci.com/funding-sources/funders/evjue-foundation-inc", imageUrl: "evjue-captimes.jpeg"}
     - {name: "cinematheque", description: "cinematheque", link: "http://cinema.wisc.edu/", imageUrl: "cinematheque.png"}
