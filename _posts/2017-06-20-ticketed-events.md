@@ -10,7 +10,7 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
 
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
-  <dd>Motown Night with The Temptations</dd>
+  <dd>MOTOWN NIGHT; With THE TEMPTATIONS</dd>
   <dt>Friday, June 15, 2018</dt>
   <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
   <dt>Saturday, June 16, 2018</dt>
