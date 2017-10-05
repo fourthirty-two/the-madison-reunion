@@ -519,6 +519,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 82
+  name: "Herb"
+  surname: "Lewis"
+  #company: ""
+  #title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  rockstar: false
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 72
   name: "Bill"
   surname: "Linton"
@@ -941,7 +955,7 @@
   #   - {name: "site", link: ""}
 -
   id: 80
-  name: "Alan"
+  name: "Allen"
   surname: "Swerdlowe"
   #company: ""
   #title: "Novelist and poet"

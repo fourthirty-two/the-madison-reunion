@@ -51,7 +51,7 @@
   title: "Talking Harvey Goldberg"
   description: ""
   subtype: History 301
-  speakers: [53, 54, 3]
+  speakers: [53, 54, 3, 78]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -158,10 +158,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 017
-  title: "The Peter Pan Effect"
+  title: "Peter Pan and Virginia Woolf"
   description: "Madison's radical theater tradition"
   subtype: Theater 101
-  speakers: [17, 61]
+  speakers: [17, 61, 14]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -261,7 +261,7 @@
   title: "We Gotta Get Out of This Place"
   description: "How music kept them alive in Vietnam"
   subtype: Music 203
-  speakers: [48]
+  speakers: [48, 77]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -442,7 +442,7 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
-  title: "The Millenial Move"
+  title: "Growing Up Madison"
   description: "MoveOn, Upworthy and the Makers Movement. The 60s roots of today's social movements"
   subtype: Writing 503
   speakers: [59, 74]
@@ -540,13 +540,33 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 055
-#   title: "From the Cardinal to The Cloud"
-#   description: ""
-#   subtype: History 102
-#   speakers: [19]
-#   #language: en
-#   #complexity: "Expert"
-#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 055
+  title: "The Daily Cardinal Panel"
+  description: ""
+  subtype: History 102
+  speakers: [18, 19, 76, 79, 80]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 056
+  title: "Radical Pedagogy"
+  description: "The TAA strike, The Teach In and the Black Students Strike"
+  subtype: History 102
+  speakers: [10, 82, 53]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 057
+  title: "The Raindance Experience"
+  description: "Experimental video"
+  subtype: History 102
+  speakers: [81]
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
