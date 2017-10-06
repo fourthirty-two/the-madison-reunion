@@ -7,6 +7,7 @@
     - {name: "frank productions", description: "frank productions", link: "http://frankproductions.com/", imageUrl: "frankproductions.jpg"}
     - {name: "Promega", description: "Promega", link: "http://www.promega.com/", imageUrl: "promega-logo.jpg"}
     - {name: "wisconsin historical society", description: "wisconsin historical society", link: "http://www.wisconsinhistory.org/", imageUrl: "wihistorical.png"}
+    - {name: "The Edgewater Hotel", description: "Stay, Dine & Spa on the Water", link: "https://www.theedgewater.com/", imageUrl: "edgewater-logo.jpg"}
     - {name: "UW Center for Jewish Studies", description: "UW Center for Jewish Studies", link: "https://jewishstudies.wisc.edu/", imageUrl: "uw-jewish-studies.png"}
 # -
 #   group: "With support of"
