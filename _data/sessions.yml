@@ -121,7 +121,7 @@
   title: "A Woman's Perspective"
   description: ""
   subtype: History 502
-  speakers: [44, 76]
+  speakers: [44, 76, 66]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -316,16 +316,16 @@
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 033
-  title: "Our Bodies Ourselves"
-  description: "Women's Health"
-  subtype: Social Studies 201
-  #speakers: []
-  #language: en
-  #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 033
+#   title: "Our Bodies Ourselves"
+#   description: "Women's Health"
+#   subtype: Social Studies 201
+#   #speakers: []
+#   #language: en
+#   #complexity: "Expert"
+#   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 034
   title: "Theories of Conspiracy"
