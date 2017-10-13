@@ -6,6 +6,23 @@ image: union-chairs-header.jpg
 isStaticPost: true
 permalink: /ticketed-events/
 ---
+<style>
+@media (min-width:726px) {
+  .post-body img {
+    display: block;
+    margin: 16px 20px 16px 0px;
+    float: left;
+    width: 46%;
+  }
+}
+@media (max-width:725px) {
+  .post-body img {
+    display: block;
+    margin: 16px 0;
+    width:100%;
+  }
+}
+</style>
 Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
 
 <dl class="dl-horizontal">
@@ -16,3 +33,8 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
 </dl>
 
 <a href="{{ site.registerLink }}">Conference registrants</a> will receive via email a discount code to purchase tickets for these shows once they are on sale.
+
+![Image 1](/img/people/group1.jpg)
+![Image 2](/img/people/group2.jpg)
+![Image 3](/img/people/group3.jpg)
+![Image 4](/img/people/group4.jpg)
