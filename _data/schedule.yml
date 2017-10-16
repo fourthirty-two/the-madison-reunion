@@ -40,7 +40,7 @@
     - {
         startTime: "3:00",
         endTime: "4:30",
-        sessionIds: [016, 043, 045, 025, 032]
+        sessionIds: [016, 043, 045, 025]
     }
 -
   date: "2018-06-16"
