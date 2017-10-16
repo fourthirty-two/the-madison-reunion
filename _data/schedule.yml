@@ -5,8 +5,8 @@
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
     - {title: "State Room", color: "#e91e63"}
-    - {title: "Main Lounge", color: "yellow"}
-    - {title: "Play Circle", color: "orange"}
+    - {title: "Main Lounge", color: "#ff0"}
+    - {title: "Play Circle", color: "#00f"}
   timeslots:
     - {
     	startTime: "1:00",
@@ -25,22 +25,22 @@
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
     - {title: "State Room", color: "#e91e63"}
-    - {title: "Main Lounge", color: "yellow"}
+    - {title: "Main Lounge", color: "#ff0"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "11:30",
-    	sessionIds: [009, 010, 028, 001]
+    	sessionIds: [009, 032, 006, 052]
     }
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [004, 027, 031, 001]
+    	sessionIds: [004, 059, 007, 039]
     }
     - {
         startTime: "3:00",
         endTime: "4:30",
-        sessionIds: [016, 043, 045, 025]
+        sessionIds: [016, 013, 026, 027]
     }
 -
   date: "2018-06-16"
@@ -49,7 +49,7 @@
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
     - {title: "State Room", color: "#e91e63"}
-    - {title: "Main Lounge", color: "yellow"}
+    - {title: "Main Lounge", color: "#ff0"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -73,7 +73,7 @@
 #     - {title: "Great Hall", color: "#90be4e"}
 #     - {title: "Tripp Commons", color: "#03a9f4"}
 #     - {title: "State Room", color: "#e91e63"}
-#     - {title: "Main Lounge", color: "yellow"}
+#     - {title: "Main Lounge", color: "#ff0"}
 #   timeslots:
 #     - {
 #     	startTime: "10:00",
