@@ -54,7 +54,7 @@
     - {
     	startTime: "10:00",
     	endTime: "11:30",
-    	sessionIds: [046, 033, 034, 001]
+    	sessionIds: [045, 011, 047, 001]
     }
     - {
     	startTime: "1:00",
@@ -64,7 +64,7 @@
     - {
         startTime: "3:00",
         endTime: "4:30",
-        sessionIds: [026, 015, 001, 001]
+        sessionIds: [026, 015, 001, 002]
     }
 # -
 #   date: "2018-06-17"
