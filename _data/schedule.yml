@@ -11,12 +11,12 @@
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [001, 006, 014, 039, 000]
+    	sessionIds: [001, 006, 014, 039, 001]
     }
     - {
     	startTime: "3:00",
     	endTime: "4:30",
-    	sessionIds: [017, 002, 013, 040, 000]
+    	sessionIds: [017, 002, 013, 040, 001]
     }
 -
   date: "2018-06-15"
