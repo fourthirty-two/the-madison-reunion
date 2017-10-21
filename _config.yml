@@ -45,7 +45,7 @@ registerLink: "https://uwmadison.eventsair.com/madison60s/register/Site/Register
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/reunion", text: "Reunion"}
- - {permalink: "/schedule", text: "Conference Panels"}
+ - {permalink: "/schedule", text: "Calendar"}
  - {permalink: "/speakers", text: "Conference Panelists"}
  - {permalink: "/hotels", text: "Hotels"}
  - {permalink: "https://uwmadison.eventsair.com/madison60s/register/Site/Register", text: "Register"}
