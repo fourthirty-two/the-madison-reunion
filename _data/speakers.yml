@@ -1,3 +1,4 @@
+#highest number 83
 -
   id: 5
   name: "Jim"
@@ -107,6 +108,20 @@
   bio: "Former Senior Lecturer at Brown University, he is the author or editor of 35 volumes including histories of radicalism in the United States and the Caribbean, studies of popular culture, and a series of nonfiction comic art volumes."
   thumbnailUrl: paul-buhle-2.jpg
   rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 83
+  name: "Kaleem"
+  surname: "Caire"
+  #company: ""
+  #title: ""
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
