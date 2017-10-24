@@ -485,7 +485,7 @@
   title: "Freedom Riding"
   description: "Personal memoirs"
   subtype: History 102
-  speakers: [60, 9, 63]
+  speakers: [60, 9, 63, 75]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
