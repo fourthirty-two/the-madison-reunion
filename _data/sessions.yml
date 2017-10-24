@@ -585,7 +585,7 @@
   title: "Reunion Blues Unplugged"
   description: "Ben, Boz and Tracey sitting around a piano with a guitar talking about music"
   subtype: Music 102
-  #speakers: [81]
+  speakers: [36, 31, 3]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
