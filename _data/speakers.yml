@@ -1,4 +1,4 @@
-#highest number 85
+#highest number 86
 -
   id: 5
   name: "Jim"
@@ -752,6 +752,20 @@
   bio: "Carolyn Purdy-Gordon has maintained her most frequent presence in horror outings, often directed by longtime husband Stuart Gordon."
   thumbnailUrl: carolyn-purdy-gordon.jpg
   rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 86
+  name: "Ron"
+  surname: "Radosh"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
