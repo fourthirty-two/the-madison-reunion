@@ -7,6 +7,34 @@ isStaticPost: true
 permalink: /concierge/
 ---
 <p>
+  <b>GETTING HERE</b> <br>
+  Of course we have flights into Madison's Dane County Regional Airport (MSN) <br>
+  Mainly Delta via many cities, not Chicago; Use United via Denver and Chicago, American via Dallas and Chicago, or Frontier
+</p>
+<p>
+  Flying into O'Hare in Chicago is often the cheapest way and then take the Van  Galder from O'Hareb to the Madison drop-off, 1 block from the Memorial Union, 3 hrs.
+</p>
+<p>
+  <b>Van Galder Bus Company | Schedules & Tickets - Coach USA</b> <a href="https://web.coachusa.com/vangalder/ss.tickets.asp">https://web.coachusa.com/vangalder/ss.tickets.asp</a>
+</p>
+<p>
+  Or fly into Milwaukee and take Badger Bus to Madison <a href="https://www.badgerbus.com/">https://www.badgerbus.com/</a>
+</p>
+<p>
+  Madison has cabs: <br>
+  <b>Union Cab of Madison Cooperative</b> <br>
+  <a href="https://www.unioncab.com/">https://www.unioncab.com/</a> <br>
+  <a href="https://greencabmadison.com/">https://greencabmadison.com/</a> <br>
+  <a href="https://www.madtaxi.com/order-taxi-cab-online">https://www.madtaxi.com/order-taxi-cab-online</a>
+</p>
+<p>
+  And Uber and Lyft
+</p>
+<p>
+  There's no need to have a car. Parking is tight and costly. Everything for the reunion is within walking distance of the hotels, many of which also have shuttle service.
+</p><hr>
+
+<p>
   <b>BOATING</b> <br>
   <a href="https://www.visitmadison.com/things-to-do/lakes/cruises-and-boat-rentals/">https://www.visitmadison.com/things-to-do/lakes/cruises-and-boat-rentals/</a> <br>
   Pontoon Porch…<a href="http://pontoonporch.com">pontoonporch.com</a><br>
@@ -41,7 +69,7 @@ permalink: /concierge/
   WI Historical Museum <br>
   Madison Museum of Contemporary Art (MMoca)… <a href="http://www.mmoca.org/">www.mmoca.org/</a> <br>
   Dane County Farmers Market <br>
-  Governor’s Mansion <br>
+  Governor's Mansion <br>
   State Capitol…<a href="https://capitol100th.wisconsin.gov/">https://capitol100th.wisconsin.gov/</a> <br>
   Monona Terrace…<a href="https://www.mononaterrace.com/">https://www.mononaterrace.com/</a> <br>
   Olbrich Botanical Gardens…<a href="http://www.olbrich.org/">http://www.olbrich.org/</a> <br>
