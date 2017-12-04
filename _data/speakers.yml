@@ -1,4 +1,4 @@
-#highest number 83
+#highest number 84
 -
   id: 5
   name: "Jim"
@@ -505,6 +505,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
+-
+  id: 84
+  name: "Gerald"
+  surname: "Lenoir"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Part of the Black student strikes that won the establishment of the Afro-American Studies Department, he was also a leader in the antiapartheid movement in the 1970s, the Executive Director of the Black Coalition on AIDS in San Francisco and the founding Executive Director of the Black Alliance for Just Immigration."
+  thumbnailUrl: gerald-lenoir.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 25
   name: "Stuart"

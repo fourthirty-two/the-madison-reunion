@@ -7,16 +7,18 @@
     - {title: "State Room", color: "#e91e63"}
     - {title: "Main Lounge", color: "#ff0"}
     - {title: "Play Circle", color: "#00f"}
+    - {title: "Festival Room", color: "#ccc"}
+
   timeslots:
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [001, 051, 007, 017, 058]
+    	sessionIds: [001, 051, 007, 017, 058, 057]
     }
     - {
     	startTime: "3:00",
     	endTime: "4:30",
-    	sessionIds: [049, 011, 014, 040, 057]
+    	sessionIds: [049, 011, 014, 040, 000, 000]
     }
 -
   date: "2018-06-15"
