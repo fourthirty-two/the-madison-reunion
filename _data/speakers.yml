@@ -1,4 +1,4 @@
-#highest number 87
+#highest number 88
 -
   id: 5
   name: "Jim"
@@ -36,6 +36,20 @@
   #title: ""
   bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for A Dangerous Business."
   thumbnailUrl: Lowell-Bergman.jpg
+  rockstar: true
+  # #ribbon:
+  #   #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 88
+  name: "Walt"
+  surname: "Bogdanich"
+  #company: ""
+  #title: ""
+  bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
+  thumbnailUrl: walt-bogdanich.jpg
   rockstar: true
   # #ribbon:
   #   #- {abbr: "", title: "", url: ""}
