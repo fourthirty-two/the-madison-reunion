@@ -1,4 +1,4 @@
-#highest number 86
+#highest number 87
 -
   id: 5
   name: "Jim"
@@ -155,6 +155,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
+-
+  id: 87
+  name: "Fred"
+  surname: "Ciporen"
+  #company: ""
+  #title: ""
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 50
   name: "Peter"
