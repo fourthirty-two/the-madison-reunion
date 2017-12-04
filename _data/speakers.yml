@@ -1,4 +1,4 @@
-#highest number 84
+#highest number 85
 -
   id: 5
   name: "Jim"
@@ -108,6 +108,20 @@
   bio: "Former Senior Lecturer at Brown University, he is the author or editor of 35 volumes including histories of radicalism in the United States and the Caribbean, studies of popular culture, and a series of nonfiction comic art volumes."
   thumbnailUrl: paul-buhle-2.jpg
   rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 85
+  name: "Tim"
+  surname: "Cahill"
+  #company: ""
+  #title: "tim-cahill"
+  bio: "The author of nine books, he was a founding editor of Outside Magazine and has won numerous awards, including the National Magazine Award and the Society of American Travel Writers Lowell Thomas Award. He also set a world record for driving the entire length of the American continents, from Ushuaia in Tierra del Fuego to Prudhoe Bay, Alaska in twenty-three days, twenty-two hours and forty-three minutes."
+  thumbnailUrl: tim-cahill.png
+  #rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
