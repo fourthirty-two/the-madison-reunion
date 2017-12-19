@@ -1,4 +1,4 @@
-#highest number 88
+#highest number 89
 -
   id: 5
   name: "Jim"
@@ -835,6 +835,20 @@
   #title: "Film director"
   bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program. Being a conscientious objector in the '60s changed his life; now he's working with others to change theirs."
   thumbnailUrl: jerry-rousseau.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 89
+  name: "Allen"
+  surname: "Ruff"
+  #company: ""
+  #title: "Film director"
+  bio: "Long-time Madison resident, author, activist and weekly radio host on WORT-fm, he received his PHD in History at the UW. His dissertation dealing with the history of the pre-World War I US Left was largely mentored by Harvey Goldberg."
+  thumbnailUrl: allen-ruff.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
