@@ -148,8 +148,8 @@
   #company: ""
   #title: ""
   bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: kaleem-caire.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
