@@ -1,4 +1,4 @@
-#highest number 89
+#highest number 90
 -
   id: 5
   name: "Jim"
@@ -191,6 +191,20 @@
   #title: "Novelist and poet"
   bio: "One of the founders of the Diggers, an anarchist improv group active in Haight-Ashbury during the mid-1960s, Coyote is an actor, writer and director, beginning with the San Francisco Mime Troupe and then in such films as E.T. The Extra-Terrestrial and is also the narrator of many films, including the Ken Burns PBS series."
   thumbnailUrl: peter-coyote.jpeg
+  #rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 90
+  name: "Nicholas V."
+  surname: "Cozzi"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Nicholas V. Cozzi, Ph.D. is a scientist and educator at the UW-Madison School of Medicine and Public Health. He holds a Ph.D. in Pharmacology and a B.S. in Pharmacology and Toxicology. Dr. Cozzi teaches pharmacology at the UW and he is a frequent guest lecturer at other academic institutions around the United States. Dr. Cozzi&#39;s research involves the design, chemical synthesis, and testing of substances with central nervous system activity. He is interested in how these agents act in the brain to enhance mood, improve cognition, and increase awareness, and in their clinical value for treating addiction, anxiety, depression, post-traumatic fear, and other mental health ailments. Dr. Cozzi is internationally recognized for his work in these areas."
+  thumbnailUrl: nicholas-cozzi.jpg
   #rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
