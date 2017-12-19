@@ -596,8 +596,8 @@
   #company: ""
   #title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
   bio: ""
-  thumbnailUrl: speaker-default.png
-  rockstar: false
+  thumbnailUrl: herb-lewis.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
