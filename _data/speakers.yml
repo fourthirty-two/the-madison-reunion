@@ -274,8 +274,8 @@
   #company: ""
   #title: ""
   bio: "Currently CEO and Executive Producer at Diversified Media Enterprises."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: frank-emspack.jpg
+  rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
