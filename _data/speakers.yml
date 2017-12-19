@@ -176,8 +176,8 @@
   #company: ""
   #title: ""
   bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: fred-ciporen.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
