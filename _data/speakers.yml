@@ -792,8 +792,8 @@
   #company: ""
   #title: "Novelist and poet"
   bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: ron-radosh.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
