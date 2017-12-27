@@ -41,3 +41,15 @@
 @import "partials/judges";
 @import "partials/prizes";
 @import "partials/hackathon-location";
+
+// horibble facebook video embed fix
+iframe.embed-responsive-item.fb-video-home {
+  @media (max-width: 767px) {
+    margin-top: -44px;
+  }
+}
+.embed-responsive.embed-responsive-16by9 {
+  @media (max-width: 375px) {
+    padding-bottom: 68.25%;
+  }
+}
