@@ -12,7 +12,7 @@ permalink: /concierge/
   Mainly Delta via many cities, not Chicago; Use United via Denver and Chicago, American via Dallas and Chicago, or Frontier
 </p>
 <p>
-  Flying into O'Hare in Chicago is often the cheapest way and then take the Van  Galder from O'Hareb to the Madison drop-off, 1 block from the Memorial Union, 3 hrs.
+  Flying into O'Hare in Chicago is often the cheapest way and then take the Van  Galder from O'Hare to the Madison drop-off, 1 block from the Memorial Union, 3 hrs.
 </p>
 <p>
   <b>Van Galder Bus Company | Schedules & Tickets - Coach USA</b> <a href="https://web.coachusa.com/vangalder/ss.tickets.asp">https://web.coachusa.com/vangalder/ss.tickets.asp</a>
