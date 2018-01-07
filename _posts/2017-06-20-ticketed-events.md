@@ -30,11 +30,17 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
   <dd>MOTOWN NIGHT; With THE TEMPTATIONS</dd>
   <dt>Friday, June 15, 2018</dt>
   <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
+  <dt>Saturday, June 16, 2018</dt>
+  <dd>Steely Dan with special guests, The Doobie Brothers <br>at <b>Breese Stevens Field</b><br>
+  <b>Doors:</b> 5:00 PM<br/>
+  <b>Show:</b> 6:30 PM<br>
+  <a href="http://www.ticketmaster.com/event/07005423BB6D43B6">Get Steely Dan tickets here</a>
+  </dd>
 </dl>
-
-Tickets can be purchased at special discount when <a href="{{ site.registerLink }}">registering for the Conference</a>.  Tickets to the general public will go on sale January 15, 2018. 
 
 ![Image 1](/img/people/group1.jpg)
 ![Image 2](/img/people/group2.jpg)
 ![Image 3](/img/people/group3.jpg)
 ![Image 4](/img/people/group4.jpg)
+![Image 5](/img/people/group5.jpg)
+![Image 6](/img/people/group6.jpg)
