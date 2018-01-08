@@ -1,4 +1,4 @@
-#highest number 90
+#highest number 91
 -
   id: 5
   name: "Jim"
@@ -463,6 +463,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
+-
+  id: 91
+  name: "John"
+  surname: "Herman"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Associate Chief of the Department of Psychiatry at Massachusetts General Hospital in Boston and associate Professor of Psychiatry at Harvard Medical School, he has consulted to individuals, governments and academic medical centers across the United States and internationally. Dr. Herman joined the staff of the MGH Psychopharmacology and Addiction clinics in 1984 and his teaching efforts since centered on helping clinicians and systems develop solutions to addiction. Dr. Herman grew up in Milwaukee and received his BA and MD from the University of Wisconsin."
+  thumbnailUrl: john-herman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 60
   name: "Paul"
