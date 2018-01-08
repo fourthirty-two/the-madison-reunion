@@ -24,7 +24,7 @@ permalink: /ticketed-events/
 }
 </style>
 Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
-
+Tickets go on sale to the general public February 16th.
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
   <dd>MOTOWN NIGHT; With THE TEMPTATIONS</dd>
@@ -45,3 +45,4 @@ Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
 ![Image 5](/img/people/group5.jpg)
 ![Image 6](/img/people/group6.jpg)
 ![Steely Dan](/img/other/steely-ig-madison.jpg)
+![Reunion Poster](/img/other/mad-reunion-concert-2018.jpg)
