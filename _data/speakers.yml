@@ -1,4 +1,4 @@
-#highest number 91
+#highest number 92
 -
   id: 5
   name: "Jim"
@@ -835,6 +835,20 @@
   #title: "Film director"
   bio: "The Director of Video Journalism and an associate professor in the Stony Brook University School of Journalism, he is a thirty year veteran of network broadcast television and a multiple Emmy Award winning former producer for CBS News' <i>60 Minutes</i>. He has worked at both NBC and ABC News, served as an editor for The Atlantic Magazine and as senior editor and executive producer of NPR's flagship news program &quot;All Things Considered.&quot; He was Editor-in-Chief of The Daily Cardinal from 1969 to 1970"
   thumbnailUrl: steven-reiner.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 92
+  name: ""
+  surname: "Reverend Billy and the Stop Shopping Choir"
+  #company: ""
+  title: "Concert:  Union Terrace, Thursday, June 14, 2018"
+  bio: "Reverend Billy and the Stop Shopping Choir is a New York City based radical performance community, with 50 performing members and a congregation in the thousands. We are wild anti-consumerist gospel shouters and Earth loving urban activists who have worked with communities on four continents defending community, life and imagination. Our Devils over the 15 years of our &quot;church&quot; have remained the same: Consumerism and Militarism. In this time of the Earth's crisis - we are especially mindful of the extractive imperatives of global capital."
+  thumbnailUrl: reverend-billy.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}

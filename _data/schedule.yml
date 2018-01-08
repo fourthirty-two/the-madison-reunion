@@ -6,19 +6,19 @@
     - {title: "Tripp Commons", color: "#03a9f4"}
     - {title: "State Room", color: "#e91e63"}
     - {title: "Main Lounge", color: "#ff0"}
-    - {title: "Play Circle", color: "#00f"}
-    - {title: "Festival Room", color: "#ccc"}
+    - {title: "Union Terrace", color: "#00f"}
+
 
   timeslots:
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [001, 051, 007, 017, 058, 057]
+    	sessionIds: [001, 051, 007, 017, 058]
     }
     - {
     	startTime: "3:00",
     	endTime: "4:30",
-    	sessionIds: [049, 011, 014, 040, 000, 000]
+    	sessionIds: [049, 011, 014, 040, 000]
     }
 -
   date: "2018-06-15"
@@ -28,21 +28,22 @@
     - {title: "Tripp Commons", color: "#03a9f4"}
     - {title: "State Room", color: "#e91e63"}
     - {title: "Main Lounge", color: "#ff0"}
+    - {title: "Festival Room", color: "#ccc"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "11:30",
-    	sessionIds: [009, 032, 006, 054]
+    	sessionIds: [009, 032, 006, 054, 000]
     }
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [004, 059, 031, 039]
+    	sessionIds: [004, 059, 031, 039, 057]
     }
     - {
-        startTime: "3:00",
-        endTime: "4:30",
-        sessionIds: [016, 013, 026, 027]
+      startTime: "3:00",
+      endTime: "4:30",
+      sessionIds: [016, 013, 026, 027, 000]
     }
 -
   date: "2018-06-16"
