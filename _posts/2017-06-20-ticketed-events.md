@@ -8,18 +8,26 @@ permalink: /ticketed-events/
 ---
 <style>
 @media (min-width:726px) {
-  .post-body img {
+
+  .post-body-image {
     display: block;
     margin: 16px 20px 16px 0px;
     float: left;
     width: 46%;
   }
+  .post-body-image img {
+    width: 100%;
+  }
 }
 @media (max-width:725px) {
-  .post-body img {
+
+  .post-body-image {
     display: block;
     margin: 16px 0;
     width:100%;
+  }
+  .post-body-image img {
+    width: 100%;
   }
 }
 </style>
@@ -37,12 +45,33 @@ Tickets go on sale to the general public February 16th.
   <a href="http://www.ticketmaster.com/event/07005423BB6D43B6">Get Steely Dan tickets here</a>
   </dd>
 </dl>
-
-![Image 1](/img/people/group1.jpg)
-![Image 2](/img/people/group2.jpg)
-![Image 3](/img/people/group3.jpg)
-![Image 4](/img/people/group4.jpg)
-![Image 5](/img/people/group5.jpg)
-![Image 6](/img/people/group6.jpg)
-![Steely Dan](/img/other/steely-ig-madison.jpg)
-![Reunion Poster](/img/other/mad-reunion-concert-2018.jpg)
+<div class="post-body-image">
+  <img src="/img/people/group1.jpg"/>
+  <span>THE TEMPTATIONS</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/people/group2.jpg"/>
+  <span>TRACY NELSON</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/people/group3.jpg"/>
+  <span>BOZ SCAGGS</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/people/group4.jpg"/>
+  <span>BEN SIDRAN</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/people/group5.jpg"/>
+  <span>STEELY DAN</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/people/group6.jpg"/>
+  <span>THE DOOBIE BROTHERS</span>
+</div>
+<div class="post-body-image">
+  <img src="/img/other/steely-ig-madison.jpg"/>
+</div>
+<div class="post-body-image">
+  <img src="/img/other/mad-reunion-concert-2018.jpg"/>
+</div>
