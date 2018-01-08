@@ -591,6 +591,16 @@
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 060
+  title: "Gold"
+  description: "Bob Levis' 1968 film starring improv guru Del Close (How to Speak Hip, Second City) with original music by the MC5 and Ramblin' Jack Elliott."
+  subtype: Music 102
+  #speakers: []
+  #language: en
+  #complexity: "Expert"
+  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
   id: 000
   title: "."
   description: "."
