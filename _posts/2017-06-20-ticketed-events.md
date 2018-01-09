@@ -38,12 +38,6 @@ Tickets go on sale to the general public February 16th.
   <dd>MOTOWN NIGHT; With THE TEMPTATIONS</dd>
   <dt>Friday, June 15, 2018</dt>
   <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
-  <dt>Saturday, June 16, 2018</dt>
-  <dd>Steely Dan with special guests, The Doobie Brothers <br>at <b>Breese Stevens Field</b><br>
-  <b>Doors:</b> 5:00 PM<br/>
-  <b>Show:</b> 6:30 PM<br>
-  <a href="http://www.ticketmaster.com/event/07005423BB6D43B6">Get Steely Dan tickets here</a>
-  </dd>
 </dl>
 
 At Breese Stevens Field
