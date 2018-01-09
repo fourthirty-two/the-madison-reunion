@@ -31,7 +31,7 @@ permalink: /ticketed-events/
   }
 }
 </style>
-Ticketed Events at UW Memorial Union-Shannon Hall (The University Theater)
+At Memorial Union-Shannon Hall (The University Theater)
 Tickets go on sale to the general public February 16th.
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
@@ -42,6 +42,14 @@ Tickets go on sale to the general public February 16th.
   <dd>Steely Dan with special guests, The Doobie Brothers <br>at <b>Breese Stevens Field</b><br>
   <b>Doors:</b> 5:00 PM<br/>
   <b>Show:</b> 6:30 PM<br>
+  <a href="http://www.ticketmaster.com/event/07005423BB6D43B6">Get Steely Dan tickets here</a>
+  </dd>
+</dl>
+
+At Breese Stevens Field
+<dl class="dl-horizontal">
+  <dt>Saturday, June 16, 2018</dt>
+  <dd>STEELY DAN with special guests, THE DOOBIE BROTHERS<br>
   <a href="http://www.ticketmaster.com/event/07005423BB6D43B6">Get Steely Dan tickets here</a>
   </dd>
 </dl>
