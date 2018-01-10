@@ -72,8 +72,5 @@ At Breese Stevens Field
   <span>THE DOOBIE BROTHERS</span>
 </div>
 <div class="post-body-image">
-  <img src="/img/other/steely-ig-madison.jpg"/>
-</div>
-<div class="post-body-image">
   <img src="/img/other/mad-reunion-concert-2018.jpg"/>
 </div>
