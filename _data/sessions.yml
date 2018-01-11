@@ -602,8 +602,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 000
-  title: "."
-  description: "."
+  title: "&nbsp;"
+  description: "&nbsp;"
   subtype: Music 102
   speakers: []
   #language: en
