@@ -911,20 +911,6 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 35
-#   name: "Jim"
-#   surname: "Rowen"
-#   #company: ""
-#   #title: "Film director"
-#   bio: "Former Deputy Mayor of Madison and currently a political writer and activist living in Milwaukee."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 58
   name: "Jesse"
@@ -961,6 +947,20 @@
   #title: ""
   bio: "A pioneer of video in the late 1960s and early 1970s, his video installation work and single channel tapes explored the manipulation of time, interactivity, and simultaneity as formal and conceptual devices. He was a participant in the landmark exhibition TV as a Creative Medium at the Howard Wise Gallery in 1969 and created several important early multi-channel video installations, including <i>Manhattan is an Island</i>, and <i>Time Zones</i>."
   thumbnailUrl: ira-schneider.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 35
+  name: "Ron"
+  surname: "Schutz"
+  #company: ""
+  #title: "Film director"
+  bio: "Ron Schutz is a peace activist in Madison and a member of the Madison Religious Society of Friends (Quakers). He served in the US Air Force reserves as a medic during the Viet Nam War. Ron is active in the National Campaign for a Peace Tax Fund."
+  thumbnailUrl: ron-schutz.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
