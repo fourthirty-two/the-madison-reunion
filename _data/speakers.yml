@@ -1024,20 +1024,6 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 39
-#   name: "Ellen"
-#   surname: "Sorrin"
-#   #company: ""
-#   #title: "Musician"
-#   bio: "Director of the George Balanchine Trust as well as Managing Director of the New York Choreographic Institute, an affiliate of New York City Ballet. She is president of The Hemsley Lighting Programs, a foundation dedicated to the transition of lighting design students from the academic to the professional world."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 40
   name: "Scott"
@@ -1145,6 +1131,20 @@
   bio: "An original founder of SDS at the University of Wisconsin."
   thumbnailUrl: marty-tandler.jpg
   rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 39
+  name: "Nick"
+  surname: "Thorkelson"
+  #company: ""
+  #title: "Musician"
+  bio: "Nick Thorkelson's graphic novel about Herbert Marcuse is coming soon from City Lights, and his stories have appeared in Paul Buhle's comics anthologies. He has done cartoons and comics for the Boston Globe and a number of peace and justice groups. He also played keys in Phil Buss's rock band."
+  thumbnailUrl: nick-thorkelson.jpg
+  #rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:

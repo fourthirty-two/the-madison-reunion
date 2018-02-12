@@ -171,7 +171,7 @@
   title: "The Legacy of Gilbert Helmsley"
   description: ""
   subtype: Theater 102
-  speakers: [39]
+  speakers: []
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -383,7 +383,7 @@
   title: "Beyond Zap: The History of the Graphic Novel"
   description: "Serious reading for the child in us all"
   subtype: History 503
-  speakers: [10, 46]
+  speakers: [10, 46, 39]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
