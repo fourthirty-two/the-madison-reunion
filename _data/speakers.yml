@@ -704,11 +704,11 @@
 -
   id: 71
   name: "Tony"
-  surname: "Michels"
+  surname: "Michaels"
   #company: ""
   #title: ""
   bio: "The George L. Mosse Professor of American Jewish History at the University of Wisconsin-Madison with a special emphasis on immigration, politics, and comparative ethnic history, as well as courses in labor history and radical political movements."
-  thumbnailUrl: tony-michels.jpg
+  thumbnailUrl: tony-michaels.jpg
   rockstar: true
   #ribbon:
   #   - {abbr: "", title: "", url: ""}
