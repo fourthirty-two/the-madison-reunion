@@ -291,7 +291,7 @@
   title: "Conscientious Objection"
   description: "Not in my name"
   subtype: Social Studies 101
-  speakers: [34, 53, 15, 16]
+  speakers: [34, 53, 15, 16, 20, 32]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

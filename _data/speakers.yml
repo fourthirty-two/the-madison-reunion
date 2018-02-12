@@ -463,20 +463,6 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 20
-#   name: "Henry"
-#   surname: "Haslach"
-#   #company: ""
-#   #title: "Private investigator"
-#   bio: "Prominent student activist at the University of Wisconsin during the '60s and featured participant in the film The War At Home."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 91
   name: "John"
@@ -487,6 +473,20 @@
   thumbnailUrl: john-herman.jpg
   rockstar: true
   ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 20
+  name: "Scott"
+  surname: "Herrick"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Scott Herrick worked as a &quot;Peace Intern&quot; on behalf of the American Friends Service Committee (Quakers) providing draft counseling in Madison and training of draft counselors in Madison and around Wisconsin from 1968 - 1970. He is a practicing attorney in Madison."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
@@ -785,20 +785,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 32
-#   name: "Lester"
-#   surname: "Pines"
-#   #company: ""
-#   #title: "Film director"
-#   bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 32
+  name: "John"
+  surname: "Parfrey"
+  #company: ""
+  #title: "Film director"
+  bio: "John Parfrey graduated from UW-Madison in 1969 and served his alternative service as a CO at Madison General Hospital from 1970-1972. He was an educator at the primary, secondary, and college levels and worked in financial education in the second half of his career. He is retired and lives in Colorado."
+  thumbnailUrl: john-parfrey.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 33
   name: "Jonathan"
