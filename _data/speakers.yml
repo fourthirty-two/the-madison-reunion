@@ -1,4 +1,4 @@
-#highest number 92
+#highest number 93
 -
   id: 5
   name: "Jim"
@@ -401,6 +401,20 @@
   #title: ""
   bio: "A longtime resident of Madison, she grew up in Anniston, Alabama and received a scholarship to Tougaloo College where she became part of the Student Nonviolent Coordinating Committee (SNCC); she participated in the Freedom Summer of 1964, an effort to register African Americans to vote in Mississippi, where Stokely Carmichael referred to her as a &quot;gutsy little sister.&quot;"
   thumbnailUrl: gwen-gillon.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 93
+  name: "Ann"
+  surname: "Gordon"
+  #company: ""
+  #title: ""
+  bio: "Historian, Research Professor Emerita, Rutgers University, she spent 30 years assembling, editing, & publishing papers of Elizabeth Cady Stanton & Susan B. Anthony. Then took up cause of contingent faculty. She arrived in Madison in 1966 for graduate school, sat in against Dow Chemical, wrote for Radical America, was an editor of Connections and a teaching assistant."
+  thumbnailUrl: ann-gordon.jpeg
   rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
