@@ -380,6 +380,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 94
+  name: "Christine"
+  surname: "George"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Associate Director for Research, Loyola University Chicago Center for Urban Research and Learning, focusing on collaborative community-university research partnerships on social justice issues that inform social policy and democratize knowledge. Previously, AFSCME union activist and staff, Harold Washington election campaign staff, Rising Up Angry leader, and Chicago Women's Liberation Union activist. Undergraduate Madison 1964-68. Secretary of Madison SDS chapter."
+  thumbnailUrl: christine-george.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 52
   name: "Peter"
   surname: "Gilbert"
