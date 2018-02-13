@@ -46,13 +46,13 @@
   id: 88
   name: "Walt"
   surname: "Bogdanich"
-  #company: ""
-  #title: ""
+  company: "The Daily Cardinal"
+  title: "Moderator"
   bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
   thumbnailUrl: walt-bogdanich.jpg
   rockstar: true
-  # #ribbon:
-  #   #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "Moderator", title: "The Daily Cardinal", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
