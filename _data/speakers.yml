@@ -272,13 +272,13 @@
   id: 53
   name: "Joe"
   surname: "Elder"
-  #company: ""
-  #title: ""
+  company: "Harvey Goldberg"
+  title: "Harvey Goldberg"
   bio: "Joe Elder is a Quaker peace activist with experience carrying messages between disputing parties in Kashmir, Vietnam, Korea, and Sri Lanka. He applied for CO status during the Korean War. An Emeritus Professor of Sociology & Languages & Cultures of Asia at UW-Madison, he received a 2009 Lifetime Achievement Award for Peacemaking from the Wisconsin Network for Peace and Justice."
   thumbnailUrl: joe-elder.jpg
   rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "Harvey Goldberg", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -510,13 +510,13 @@
   id: 60
   name: "Paul"
   surname: "Higginbotham"
-  #company: ""
-  #title: "Private investigator"
+  company: "Freedom Riding"
+  title: "Moderator"
   bio: "A Judge of the Wisconsin Court of Appeals, the first and only African American to serve on the court, he has been involved in the civil rights struggle since his teenage years when his father marched with Dr. Martin Luther King Jr. during the March on Washington for Jobs and Freedom."
   thumbnailUrl: paul-higginbotham.jpg
   rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "Freedom Riding", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -692,13 +692,13 @@
   id: 27
   name: "David"
   surname: "Maraniss"
-  #company: ""
-  #title: "Journalist and author"
+  company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
   bio: "Journalist and author, he currently serves as an associate editor for The Washington Post. He received a Pulitzer Prize for National Reporting in 1993 for his coverage of then-candidate Bill Clinton. Among his published works are best selling biographies of Barack Obama and Bill Clinton and the book They Marched into Sunlight: War and Peace, Vietnam and America, October 1967."
   thumbnailUrl: Dave-Maraniss.jpg
   rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -1170,13 +1170,13 @@
   id: 45
   name: "John"
   surname: "Tortorice"
-  #company: ""
-  #title: "Novelist and poet"
+  company: "George Mosse"
+  title: "Moderator"
   bio: "Director Emeritus, George L. Mosse Program in History, UW-Madison."
   thumbnailUrl: John-Tortorice.jpg
   rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "George Mosse", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -1184,13 +1184,13 @@
   id: 46
   name: "Dave"
   surname: "Wagner"
-  #company: ""
-  #title: "Novelist and poet"
+  company: "Beyond Zap"
+  title: "Moderator"
   bio: "Journalist, investigative reporter and author of The Politics of Murder: Organized Crime in Barry Goldwater&#39;s Arizona. He was a contributor to Tender Comrades, co-author of A Very Dangerous Citizen and a political editor at the Arizona Republic."
   thumbnailUrl: david-wagner.jpg
-  #rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
+  rockstar: true
+  ribbon:
+    - {abbr: "MC", title: "Beyond Zap", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
