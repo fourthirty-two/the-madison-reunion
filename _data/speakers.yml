@@ -537,13 +537,13 @@
   id: 68
   name: "Ben"
   surname: "Karlin"
-  #company: ""
-  #title: ""
+  company: "What's So Funny About Madison"
+  title: "Moderator"
   bio: "Wrote for The Onion from 1993-1996 and is currently an American television producer and writer who has won eight Emmy awards, and is best known for his work in The Daily Show with Jon Stewart and The Colbert Report (he was one of three co-creators of The Colbert Report along with Stephen Colbert and Jon Stewart)."
   thumbnailUrl: ben-karlin.jpg
   rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "Moderator", title: "What's So Funny About Madison", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}

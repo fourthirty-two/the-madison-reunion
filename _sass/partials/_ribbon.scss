@@ -31,6 +31,9 @@ $wt-ribbon-border-color: #72e1b3;
     .wt {
         border-right: 4px solid $wt-ribbon-border-color;
     }
+    .moderator {
+        border-right: 4px solid $gdgw-ribbon-border-color;
+    }
     .ribbon {
         font-size: 13px;
         font-weight: 300;
@@ -50,21 +53,21 @@ $wt-ribbon-border-color: #72e1b3;
     }
     .abbr {
         .ribbon-activator:hover & {
-            transform: translateX(100%); 
+            transform: translateX(100%);
             @media (max-width: 767px) {
-                transform: translateX(0);    
-            }   
-        }    
+                transform: translateX(0);
+            }
+        }
     }
     .full-title {
         clear: both;
         margin-top: -22px;
         transform: translateX(100%);
         .ribbon-activator:hover & {
-            transform: translateX(0);   
+            transform: translateX(0);
             @media (max-width: 767px) {
-                transform: translateX(100%);    
-            } 
-        } 
+                transform: translateX(100%);
+            }
+        }
     }
 }
