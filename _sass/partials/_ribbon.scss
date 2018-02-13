@@ -34,13 +34,16 @@ $wt-ribbon-border-color: #72e1b3;
     .moderator {
         border-right: 4px solid $gdgw-ribbon-border-color;
     }
+    .mc {
+        border-right: 4px solid $gdgw-ribbon-border-color;
+    }
     .ribbon {
         font-size: 13px;
         font-weight: 300;
         line-height: 22px;
         display: inline-block;
         float: right;
-        min-width: 44px;
+        min-width: 34px;
         height: 22px;
         margin: 0;
         padding: 0 7px;

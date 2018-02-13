@@ -52,7 +52,7 @@
   thumbnailUrl: walt-bogdanich.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Moderator", title: "The Daily Cardinal", url: ""}
+    - {abbr: "MC", title: "The Daily Cardinal", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -117,13 +117,14 @@
   id: 10
   name: "Paul"
   surname: "Buhle"
-  #company: ""
-  #title: ""
+  company: "Radical Pedagogy, William A. Williams"
+  title: "Moderator"
   bio: "Former Senior Lecturer at Brown University, he is the author or editor of 35 volumes including histories of radicalism in the United States and the Caribbean, studies of popular culture, and a series of nonfiction comic art volumes."
   thumbnailUrl: paul-buhle-2.jpg
   rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "Radical Pedagogy", url: ""}
+    - {abbr: "MC", title: "William A. Williams", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -473,7 +474,7 @@
   thumbnailUrl: Jeff-Greenfield.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Moderator", title: "The State of the 4th Estate", url: ""}
+    - {abbr: "MC", title: "The State of the 4th Estate", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -557,7 +558,7 @@
   thumbnailUrl: ben-karlin.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Moderator", title: "What's So Funny About Madison", url: ""}
+    - {abbr: "MC", title: "What's So Funny About Madison", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
@@ -999,13 +1000,14 @@
   id: 3
   name: "Ben"
   surname: "Sidran"
-  #company: "Google Poland"
-  #title: "Musician, writer, journalist and teacher"
+  company: "Searching for the Maharishi Within, Ecstasy and the Meaning of the Blues"
+  title: "Moderator"
   bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
   thumbnailUrl: Ben.jpg
   rockstar: true
-  # #ribbon:
-  #   - {abbr: "MUS", title: "Musician", url: ""}
+  ribbon:
+    - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
+    - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
   #   - {abbr: "WTR", title: "Writer", url: ""}
   #   - {abbr: "TCH", title: "Teacher", url: ""}
   # social:
