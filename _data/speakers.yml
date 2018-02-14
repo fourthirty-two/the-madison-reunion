@@ -436,20 +436,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 17
-  name: "Stuart"
-  surname: "Gordon"
-  #company: ""
-  #title: "Private investigator"
-  bio: "Original co-founder of Madison's Broom Street Theater, which produced the infamous anti-war version of Peter Pan, he is currently a writer and producer of films and plays."
-  thumbnailUrl: stuart-gordon-02.jpg
-  rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 17
+#   name: "Stuart"
+#   surname: "Gordon"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Original co-founder of Madison's Broom Street Theater, which produced the infamous anti-war version of Peter Pan, he is currently a writer and producer of films and plays."
+#   thumbnailUrl: stuart-gordon-02.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 18
   name: "Peter"
@@ -828,20 +828,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 61
-  name: "Carolyn"
-  surname: "Purdy-Gordon"
-  #company: ""
-  #title: "Film director"
-  bio: "Carolyn Purdy-Gordon has maintained her most frequent presence in horror outings, often directed by longtime husband Stuart Gordon."
-  thumbnailUrl: carolyn-purdy-gordon.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 61
+#   name: "Carolyn"
+#   surname: "Purdy-Gordon"
+#   #company: ""
+#   #title: "Film director"
+#   bio: "Carolyn Purdy-Gordon has maintained her most frequent presence in horror outings, often directed by longtime husband Stuart Gordon."
+#   thumbnailUrl: carolyn-purdy-gordon.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 86
   name: "Ron"
