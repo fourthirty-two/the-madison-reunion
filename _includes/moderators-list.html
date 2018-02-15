@@ -2,23 +2,24 @@
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-          <h3>Panelists, Speakers and Presenters</h3>
+          <h3>Moderators</h3>
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
+                {% if speaker.title == 'Moderator' %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                             <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                                 <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
-                                <!-- <ul class="ribbon-wrapper">
+                                <ul class="ribbon-wrapper">
                                     {% for ribbon in speaker.ribbon %}
                                     <li class="{{ ribbon["abbr"] | downcase }}">
                                         <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
                                         <p class="ribbon full-title">{{ ribbon["title"] }}</p>
                                     </li>
                                     {% endfor %}
-                                </ul> -->
+                                </ul>
                                 {% endif %}
                                 {% if site.showSessions %}
                                 <figcaption>
@@ -62,6 +63,7 @@
                         </div>
                     </div>
                 </div>
+                {% endif %}
                 {% endfor %}
             </div>
           <!-- {% include share.html %} -->
