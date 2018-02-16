@@ -536,7 +536,8 @@
   title: "William Appelman Williams, Studies on the Left and Radical America"
   description: ""
   subtype: Theater 102
-  speakers: [86, 87, 10]
+  speakers: [86, 87]
+  moderators: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -556,7 +557,8 @@
   title: "Radical Pedagogy"
   description: "The TAA strike, The Teach In and the Black Students Strike"
   subtype: History 102
-  speakers: [10, 82, 53, 84, 93, 94]
+  speakers: [82, 53, 84, 93, 94]
+  moderators: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

@@ -39,6 +39,25 @@
                               {{ speaker.title }}
                             </p>
                             {% endif %}
+                            {% if speaker.title == "Moderator" %}
+                            <ul class="slider">
+                              {% assign sessionsNumber = 0 %}
+                              {% if site.showSessions %}
+                              {% for session in site.data.sessions %}
+                              {% for session_speaker in session.moderators %}
+                              {% if session_speaker == speaker.id %}
+                              {% assign sessionsNumber = sessionsNumber | plus: 1 %}
+                              <li class="title">{{ session.title }}</li>
+                              {% endif %}
+                              {% endfor %}
+                              {% endfor %}
+                              {% else %}
+                              <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                              <p class="position">{{ speaker.company }}</p>
+                              {% endif %}
+                            </ul>
+
+                            {% endif %}
                             <p>
                               <b>Panels:</b>
                             <ul class="slider">
