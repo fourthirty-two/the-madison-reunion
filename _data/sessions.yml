@@ -580,6 +580,7 @@
   description: "Experimental video"
   subtype: History 102
   speakers: [81]
+  moderators: [8]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

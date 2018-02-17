@@ -70,21 +70,6 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-
-# -
-#   id: 8
-#   name: "Rita"
-#   surname: "Braver"
-#   #company: ""
-#   #title: ""
-#   bio: "Graduated from the University of Wisconsin with a degree in political science, she joined CBS in 1972 as a producer, has served as CBS News&#39;s chief law correspondent and since 1998 has been chief national correspondent for Sunday Morning."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   social:
-#     - {name: "google-plus", link: ""}
-#     - {name: "site", link: ""}
 -
   id: 9
   name: "Paul"
@@ -179,6 +164,20 @@
   bio: ""
   thumbnailUrl: fred-ciporen.jpg
   rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 8
+  name: "Laurie Beth"
+  surname: "Clark"
+  #company: ""
+  title: "Moderator"
+  bio: "Since the 1980s Clark has made large-scale, site-specific installations and solo and collaborative performances, single-channel and multi-channel video works, and virtual environments. Early on her work was featured as historically significant venues including Franklin Furnace, Randolph Street Gallery, WARM Gallery, and the Cleveland Public Theater Performance Art Festival. Since that time she has done 139 shows and performances in 35 countries on five continents. Her work has been recognized with funding from the Art Matters, Arts Midwest, Film in the Cities, Jerome Foundation, McKnight Foundation, NEA and Wisconsin Art Board."
+  thumbnailUrl: laurie-beth-clark.jpg
+  #rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
