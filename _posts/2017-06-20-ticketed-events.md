@@ -31,7 +31,7 @@ permalink: /ticketed-events/
   }
 }
 </style>
-At Memorial Union-Shannon Hall (The University Theater)<br>
+At Memorial Union-Wisconsin Union Theater, Shannon Hall<br>
 Tickets go on sale to the general public February 16th.
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
