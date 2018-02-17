@@ -1,4 +1,4 @@
-#highest number 95
+#highest number 96
 -
   id: 5
   name: "Jim"
@@ -766,6 +766,20 @@
   title: "Concert:  Shannon Hall, Friday, June 15, 2018"
   bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone,&quot; was nominated for a Grammy Award."
   thumbnailUrl: Tracy-Nelson.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 96
+  name: "John"
+  surname: "Nichols"
+  #company: ""
+  title: "Moderator"
+  bio: "A liberal / progressive American journalist and author, he is Washington correspondent for The Nation and associate editor of The Capital Times. Books authored or co-authored by Nichols include The Genius of Impeachment and The Death and Life of American Journalism. He is a regular contributor to In These Times and The Progressive. He appears in the documentary films Outfoxed, Unprecedented: The 2000 Presidential Election, Orwell Rolls in His Grave, and Call It Democracy. Nichols is co-founder, with Robert McChesney and Josh Silver, of Free Press."
+  thumbnailUrl: john-nichols.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}

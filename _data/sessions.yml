@@ -267,6 +267,7 @@
   description: "How music kept them alive in Vietnam"
   subtype: Music 203
   speakers: [48, 77]
+  moderators: [96]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
