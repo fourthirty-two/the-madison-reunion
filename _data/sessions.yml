@@ -32,6 +32,7 @@
   description: ""
   subtype: History 203
   speakers: [38, 66, 50, 75]
+  moderators: [95]
   #language: en
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"

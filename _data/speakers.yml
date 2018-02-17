@@ -1,4 +1,4 @@
-#highest number 93
+#highest number 95
 -
   id: 5
   name: "Jim"
@@ -895,6 +895,20 @@
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 95
+  name: "Matt"
+  surname: "Rothschild"
+  #company: ""
+  title: "Moderator"
+  bio: "The executive director of the Wisconsin Democracy Campaign. Prior to joining the Democracy Campaign at the start of 2015, he worked at The Progressive magazine for 32 years, for most of those years, he was the editor and publisher. Author of a book entitled You Have No Rights: Stories of America in an Age of Repression and editor of the anthology called Democracy in Print: The Best of The Progressive, 1909-2009, his opinion pieces have run in the Chicago Tribune, the LA Times, the Miami Herald and a host of other newspapers."
+  thumbnailUrl: matt-rothschild.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "MC", title: "Moderator", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
