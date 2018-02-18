@@ -4,6 +4,7 @@
   description: "An over-view of the city of Madison, the University of Wisconsin and their ongoing pas de duex."
   subtype: History 101
   speakers: [25]
+  moderators: [97]
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -85,6 +86,7 @@
   description: "The Legacy of Gaylord Nelson and its origins in the social protest movement of the '60s"
   subtype: History 401
   speakers: [30, 57]
+  moderators: [98]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -435,6 +437,7 @@
   description: "On the road"
   subtype: Music 205
   speakers: [18, 85]
+  moderators: [28]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

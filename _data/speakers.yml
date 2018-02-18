@@ -1,4 +1,4 @@
-#highest number 96
+#highest number 98
 -
   id: 5
   name: "Jim"
@@ -366,6 +366,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 97
+  name: "Roberta"
+  surname: "Gassman"
+  #company: ""
+  title: "Moderator"
+  bio: "Former Secretary, Wisconsin Department of Workforce Development, 2003-2010 and top aide to Dane County Executive and Mayor of Madison, 1989-1997, she was Wisconsin Governor's Policy Advisor on Employment and Women's Issues, 1983-1987 and a former commissioner, vice president, president, Madison Equal Opportunities Commission."
+  thumbnailUrl: roberta-gassman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 16
   name: "Chris"
   surname: "Gargan"
@@ -701,20 +715,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 28
-#   name: "Alfred"
-#   surname: "McCoy"
-#   #company: ""
-#   #title: "Journalist and author"
-#   bio: "Holds a Ph.D. in South Asian History from Yale and is currently a professor at the University of Wisconsin and Director of the Harvey Goldberg Center."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 98
+  name: "Ron"
+  surname: "McCrea"
+  # company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
+  bio: "Former Press Secretary for Wisconsin's governor in 1980 and News Editor of the Madison Capitol Times for many years, his most recent work is the book Building Taliesin: Frank Lloyd Wright's Home of Love and Loss. Through letters, memoirs, contemporary documents, and a stunning assemblage of photographs - many of which have never before been published - author Ron McCrea tells the fascinating story of the building of Frank Lloyd Wright's Taliesin, which would be the architect's principal residence for the rest of his life."
+  thumbnailUrl: ron-mccrea.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 71
   name: "Tony"
@@ -726,6 +740,20 @@
   rockstar: true
   #ribbon:
   #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 28
+  name: "Doug"
+  surname: "Moe"
+  #company: ""
+  title: "Moderator"
+  bio: "The author of numerous critically-acclaimed non-fiction books, as well as thousands of newspaper columns and magazine articles, he writes corporate, foundation and personal histories, all with a signature storytelling style that has earned him a devoted following across nearly four decades."
+  thumbnailUrl: doug-moe.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
