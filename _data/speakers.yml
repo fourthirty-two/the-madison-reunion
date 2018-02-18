@@ -533,20 +533,6 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
-# -
-#   id: 22
-#   name: "Danny"
-#   surname: "Kalb"
-#   #company: ""
-#   #title: "Private investigator"
-#   bio: "An American blues guitarist and vocalist, he was a student of Dave Van Ronk and an original member of the 1960s group The Blues Project."
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 68
   name: "Ben"
@@ -558,6 +544,20 @@
   rockstar: true
   ribbon:
     - {abbr: "MC", title: "What's So Funny About Madison", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 22
+  name: "Vance"
+  surname: "Kepley"
+  #company: ""
+  title: "Moderator"
+  bio: "His work over the years has concerned the relationship between film and social history, considering how major films have addressed their socio-historical contexts. This interest in the social dimension of cinema has also informed his more recent research projects on documentary film. He has recently assumed the role of Director of the Wisconsin Center for Film and Theater Research, which manages one of the nation's largest, most valuable research archives on the history of broadcasting, theater and film."
+  thumbnailUrl: vance-kepley.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
