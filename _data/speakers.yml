@@ -1,4 +1,4 @@
-#highest number 99
+#highest number 100
 -
   id: 5
   name: "Jim"
@@ -947,6 +947,20 @@
   #title: "Novelist and poet"
   bio: "Dr. Ken Robbins; board certified in internal medicine and psychiatry with a master's in public health, he has been on the clinical faculty at the University of Wisconsin School of Medicine and Public Health for over 30 years and is the past Medical Director of the Mendota Mental Health Institute. Dr. Robbins has had a longstanding interest in what leads people, particularly those with psychiatric illnesses, to use alcohol and drugs."
   thumbnailUrl: ken-robbins.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 100
+  name: "Hannah"
+  surname: "Rosenthal"
+  #company: ""
+  title: "Moderator"
+  bio: "Served as a Special Envoy and as the head of the Office to Monitor and Combat Anti-Semitism in the Obama Administration for three years. She also has been a commissioner of the U.S. Commission on International Religious Freedom and served as the founding executive director of the Wisconsin Women's Council, 1985-1992. The former head of the Jewish Council for Public Affairs (JCPA), and former executive director of the Chicago Foundation for Women, she served on the advisory council of J Street and J Street PAC. In 1995, Rosenthal was appointed by the Clinton Administration to serve as Midwest regional director of the U.S. Department of Health and Human Services. In 2005, she was named one of the Forward 50, a list of the most influential Jews selected by The Forward newspaper."
+  thumbnailUrl: hannah-rosenthal.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
