@@ -1291,17 +1291,17 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 51
-#   name: "M."
-#   surname: "Usadel"
-#   #company: ""
-#   #title: "Novelist and poet"
-#   bio: ""
-#   thumbnailUrl: speaker-default.png
-#   #rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 51
+  name: "Sue"
+  surname: "Zaeske"
+  #company: ""
+  title: "Moderator"
+  bio: "Associate Dean for Advancement, Arts & Humanities, College of Letters & Science, University of Wisconsin, her scholarship focuses on rhetoric, gender, and political culture, exploring how American women who petitioned against slavery not only contributed to the abolitionist movement, but also renegotiated their status as citizens. She is currently collecting and analyzing examples of appropriations of the Old Testament heroine Esther in order to explain why this tale possesses such enduring appeal."
+  thumbnailUrl: sue-zaeske.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
