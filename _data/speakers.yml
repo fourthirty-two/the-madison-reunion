@@ -478,6 +478,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 21
+  name: "Neil"
+  surname: "Heinen"
+  #company: ""
+  title: "Moderator"
+  bio: "Editorial Director at WISC-TV and regular opinion contributor to Madison Magazine."
+  thumbnailUrl: neil-heinen.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 91
   name: "John"
   surname: "Herman"
@@ -519,20 +533,6 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 21
-#   name: "Jim"
-#   surname: "Hougan"
-#   #company: ""
-#   #title: "Private investigator"
-#   bio: "An investigative reporter and best-selling novelist, best known for Secret Agenda, perhaps the first investigative work to question the orthodox narrative of the Watergate scandal as propounded by the Washington Post."
-#   thumbnailUrl: Jim-Hougan.jpeg
-#   rockstar: true
-#   ##ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
 -
   id: 68
   name: "Ben"

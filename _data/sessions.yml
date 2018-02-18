@@ -518,6 +518,7 @@
   description: "Psychopharmacology, from the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions."
   subtype: History 102
   speakers: [55, 72, 90, 91]
+  moderators: [21]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
