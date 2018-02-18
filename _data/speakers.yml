@@ -1,4 +1,4 @@
-#highest number 98
+#highest number 99
 -
   id: 5
   name: "Jim"
@@ -850,6 +850,20 @@
   bio: "John Parfrey graduated from UW-Madison in 1969 and served his alternative service as a CO at Madison General Hospital from 1970-1972. He was an educator at the primary, secondary, and college levels and worked in financial education in the second half of his career. He is retired and lives in Colorado."
   thumbnailUrl: john-parfrey.jpg
   #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 99
+  name: "Lester"
+  surname: "Pines"
+  #company: ""
+  title: "Moderator"
+  bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate. In his over 40 years of practice, he has appeared in trial and appellate courts throughout Wisconsin, in numerous federal district courts, and before the federal 7th Circuit Court of Appeals. His criminal defense work has involved many high profile cases, especially involving teachers, police officers and other public employees. He is counsel to Madison Teachers Inc., which represents the employees of the Madison Metropolitan School District."
+  thumbnailUrl: lester-pines.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
