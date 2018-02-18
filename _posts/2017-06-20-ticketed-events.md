@@ -35,7 +35,9 @@ At Memorial Union-Wisconsin Union Theater, Shannon Hall<br>
 Tickets go on sale to the general public February 16th.
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
-  <dd>MOTOWN NIGHT; With THE TEMPTATIONS</dd>
+  <dd>MOTOWN NIGHT; With THE TEMPTATIONS<br>
+  <a href="https://uwim-internet.choicecrm.net/templates/UWIM/index.php?&event_ids=4306,0&cts_legacy_app">Get tickets for The Temptations here</a>
+  </dd>
   <dt>Friday, June 15, 2018</dt>
   <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
 </dl>
