@@ -1,4 +1,4 @@
-#highest number 100
+#highest number 101
 -
   id: 5
   name: "Jim"
@@ -1091,6 +1091,22 @@
   ribbon:
     - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
     - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
+  #   - {abbr: "WTR", title: "Writer", url: ""}
+  #   - {abbr: "TCH", title: "Teacher", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+-
+  id: 101
+  name: "Leo"
+  surname: "Sidran"
+  #company: "Searching for the Maharishi Within, Ecstasy and the Meaning of the Blues"
+  title: "Moderator"
+  bio: "A musician, composer, performer, and producer whose credits include co-producing the Oscar-winning song &quot;Al Otro Lado Del Rio&quot; for the soundtrack to the movie The Motorcycle Diaries, Sidran began his career in music early, having learned to play the drums from funk-jazz percussionist Clyde Stubblefield, and touring as a teenager with veteran rock star Steve Miller. He currently lives in Brooklyn, hosts the podcast The Third Story which features long form conversations with creative types of all stripes, and produces music for film, television, commercials and various recording artists, including his own signature recordings."
+  thumbnailUrl: leo-sidran.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
+  #   - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
   #   - {abbr: "WTR", title: "Writer", url: ""}
   #   - {abbr: "TCH", title: "Teacher", url: ""}
   # social:
