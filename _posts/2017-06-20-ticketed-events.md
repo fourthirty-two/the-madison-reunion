@@ -39,7 +39,9 @@ Tickets go on sale to the general public February 16th.
   <a href="https://uwim-internet.choicecrm.net/templates/UWIM/index.php?&event_ids=4306,0&cts_legacy_app">Get tickets for The Temptations here</a>
   </dd>
   <dt>Friday, June 15, 2018</dt>
-  <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.</dd>
+  <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.<br>
+  <a href="https://uwim-internet.choicecrm.net/templates/UWIM/index.php?&event_ids=4305,0&cts_legacy_app">Get Reunion Blues tickets here</a>
+  </dd>
 </dl>
 
 At Breese Stevens Field
