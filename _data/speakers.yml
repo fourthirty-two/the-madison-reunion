@@ -1,4 +1,4 @@
-#highest number 101
+#highest number 102
 -
   id: 5
   name: "Jim"
@@ -1315,6 +1315,20 @@
   #title: "Novelist and poet"
   bio: "Trained as a geographer, he was Chancellor of the University of Wisconsin from 1993 to 2001, then president of the American Council on Education from 2001 to 2008, and again served as the Interim Chancellor of the UW-Madison in 2011."
   thumbnailUrl: david-ward.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 102
+  name: "Howard"
+  surname: "Waxman"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Playwright, novelist, and director he is a veteran of the San Francisco Mime Troupe, a founding member of Madison's Broom Street Theater, and, notably, played Tinkerbell in the UW production of Peter Pan."
+  thumbnailUrl: howard-waxman.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}

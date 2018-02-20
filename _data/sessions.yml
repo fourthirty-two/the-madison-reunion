@@ -170,7 +170,7 @@
   title: "Peter Pan and Virginia Woolf"
   description: "Madison's radical theater tradition"
   subtype: Theater 101
-  speakers: [14]
+  speakers: [14, 102]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
