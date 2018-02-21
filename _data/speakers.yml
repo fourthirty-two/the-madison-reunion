@@ -436,6 +436,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 103
+  name: "Michael"
+  surname: "Goldberg"
+  #company: ""
+  title: "Moderator"
+  bio: "Now retired after enjoying a 40-year career as an arts presenter and administrator, he has run 3 extraordinary venues (WI Union Theater, Overture Center, Coronado PAC). Opera directing credits include works by Britten, Gilbert & Sullivan, Rossini and Stravinsky."
+  thumbnailUrl: michael-goldberg.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 93
   name: "Ann"
   surname: "Gordon"
