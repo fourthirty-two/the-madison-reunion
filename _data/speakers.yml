@@ -1363,20 +1363,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 59
-#   name: "Ben"
-#   surname: "Wikler"
-#   #company: ""
-#   #title: "Novelist and poet"
-#   bio: "The Washington Director of MoveOn.org, the nation's largest grassroots progressive organization, he led the group's award-winning work to oppose the repeal of Obamacare. Previously, he held senior leadership roles at the world's two largest online activist networks, Change.org and Avaaz.org, and worked as a writer and producer for Al Franken before his entry into politics. A Madison native, he started contributing to The Onion while a student at West High School in the 90's and continued as a student at Harvard."
-#   thumbnailUrl: ben-wikler.jpg
-#   rockstar: true
-#   #ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 59
+  name: "Ben"
+  surname: "Wikler"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "The Washington Director of MoveOn.org, the nation's largest grassroots progressive organization, he led the group's award-winning work to oppose the repeal of Obamacare. Previously, he held senior leadership roles at the world's two largest online activist networks, Change.org and Avaaz.org, and worked as a writer and producer for Al Franken before his entry into politics. A Madison native, he started contributing to The Onion while a student at West High School in the 90's and continued as a student at Harvard."
+  thumbnailUrl: ben-wikler.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 49
   name: "John"
