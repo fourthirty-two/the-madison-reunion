@@ -32,7 +32,7 @@
   title: "The Day of DOW"
   description: ""
   subtype: History 203
-  speakers: [38, 66, 50, 75]
+  speakers: [38, 66, 75]
   moderators: [95]
   #language: en
   #complexity: "Beginner"
