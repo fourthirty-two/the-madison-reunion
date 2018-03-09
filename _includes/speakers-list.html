@@ -33,7 +33,30 @@
                               <a style="display:block; text-align:right;" href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">read more »</a>
                             </p>
 
-                            {% if speaker.title != null %}
+                            <p>
+                              <b>Panels:</b>
+                              <ul class="slider">
+                                  {% assign sessionsNumber = 0 %}
+                                  {% if site.showSessions %}
+                                      {% for session in site.data.sessions %}
+                                          {% for session_speaker in session.speakers %}
+                                              {% if session_speaker == speaker.id %}
+                                              {% assign sessionsNumber = sessionsNumber | plus: 1 %}
+                                                  <li class="title">{{ session.title }}</li>
+                                              {% endif %}
+                                          {% endfor %}
+                                      {% endfor %}
+                                  {% else %}
+                                      <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                      <p class="position">{{ speaker.company }}</p>
+                                  {% endif %}
+                              </ul>
+                            </p>
+                            {% if speaker.title == "Moderator" %}
+                            <p>
+                              <b>{{ speaker.title }}:</b>
+                            </p>
+                            {% else speaker.title != null %}
                             <p>
                               {{ speaker.title }}
                             </p>
@@ -57,25 +80,6 @@
                             </ul>
 
                             {% endif %}
-                            <p>
-                              <b>Panels:</b>
-                            <ul class="slider">
-                                {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %}
-                                    {% for session in site.data.sessions %}
-                                        {% for session_speaker in session.speakers %}
-                                            {% if session_speaker == speaker.id %}
-                                            {% assign sessionsNumber = sessionsNumber | plus: 1 %}
-                                                <li class="title">{{ session.title }}</li>
-                                            {% endif %}
-                                        {% endfor %}
-                                    {% endfor %}
-                                {% else %}
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
-                                {% endif %}
-                            </ul>
-                            </p>
                             <!-- <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a> -->
                         </div>
                     </div>
