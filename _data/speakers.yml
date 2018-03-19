@@ -1144,7 +1144,7 @@
   name: "Paul"
   surname: "Soglin"
   #company: ""
-  #title: "Musician"
+  title: "Moderator"
   bio: "Mayor of Madison for more than two decades, including stints in the 1970's, '80s, '90s and the 21st century; a former UW anti-war student activist."
   thumbnailUrl: Paul-Soglin.jpg
   rockstar: true
