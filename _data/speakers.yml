@@ -239,20 +239,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 14
-  name: "Andr&eacute;"
-  surname: "De Shields"
-  #company: ""
-  #title: ""
-  bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin,' which earned him a 1978 Drama Desk nomination for his performance."
-  thumbnailUrl: Andre-DeShields.jpg
-  rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 14
+#   name: "Andr&eacute;"
+#   surname: "De Shields"
+#   #company: ""
+#   #title: ""
+#   bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin,' which earned him a 1978 Drama Desk nomination for his performance."
+#   thumbnailUrl: Andre-DeShields.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 69
   name: "Hasia"
