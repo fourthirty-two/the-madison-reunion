@@ -1,4 +1,4 @@
-#highest number 102
+#highest number 104
 -
   id: 5
   name: "Jim"
@@ -864,6 +864,20 @@
   bio: "John Parfrey graduated from UW-Madison in 1969 and served his alternative service as a CO at Madison General Hospital from 1970-1972. He was an educator at the primary, secondary, and college levels and worked in financial education in the second half of his career. He is retired and lives in Colorado."
   thumbnailUrl: john-parfrey.jpg
   #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 104
+  name: "Steve"
+  surname: "Paulson"
+  #company: ""
+  title: "Moderator"
+  bio: "the Executive Producer and one of the founders of To The Best Of Our Knowledge, he has been a contributing writer for Salon and Nautilus and has written for Slate, Huffington Post and The Atlantic. He often explores the connections between science, philosophy and spirituality. His book Atoms and Eden: Conversations on Religion and Science was published by Oxford University Press."
+  thumbnailUrl: steve-paulson.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
