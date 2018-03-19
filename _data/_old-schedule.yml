@@ -9,19 +9,14 @@
     - {title: "Union Terrace", color: "#00f"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "11:30",
-    	sessionIds: [051, 000, 000, 000, 000]
-    }
-    - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [049, 001, 017, 040, 000]
+    	sessionIds: [001, 051, 007, 017, 000]
     }
     - {
     	startTime: "3:00",
     	endTime: "4:30",
-    	sessionIds: [000, 011, 040, 007, 058]
+    	sessionIds: [049, 011, 014, 040, 058]
     }
 -
   date: "2018-06-15"
@@ -36,17 +31,17 @@
     - {
     	startTime: "10:00",
     	endTime: "11:30",
-    	sessionIds: [000, 013, 027, 006, 000]
+    	sessionIds: [009, 032, 006, 054, 000]
     }
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [004, 026, 031, 032, 057]
+    	sessionIds: [004, 059, 031, 039, 057]
     }
     - {
       startTime: "3:00",
       endTime: "4:30",
-      sessionIds: [043, 014, 054, 015, 060]
+      sessionIds: [016, 013, 026, 027, 060]
     }
 -
   date: "2018-06-16"
@@ -60,17 +55,17 @@
     - {
     	startTime: "10:00",
     	endTime: "11:30",
-    	sessionIds: [046, 009, 030, 010]
+    	sessionIds: [046, 043, 010, 030]
     }
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [053, 052, 028, 045]
+    	sessionIds: [053, 015, 056, 052]
     }
     - {
         startTime: "3:00",
         endTime: "4:30",
-        sessionIds: [050, 055, 056, 039]
+        sessionIds: [050, 045, 055, 028]
     }
 # -
 #   date: "2018-06-17"
