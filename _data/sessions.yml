@@ -409,6 +409,7 @@
   description: "How the tales we tell were shaped by the Madison we knew; a writers' workshop"
   subtype: Writing 503
   speakers: [40, 43, 23]
+  moderators: [105]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

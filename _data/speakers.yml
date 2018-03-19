@@ -1,4 +1,4 @@
-#highest number 104
+#highest number 105
 -
   id: 5
   name: "Jim"
@@ -1203,6 +1203,20 @@
   #title: "Musician"
   bio: "A Wisconsin criminal defense attorney known to the general public for his appearance in the Netflix series Making a Murderer."
   thumbnailUrl: Dean-Strang.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 105
+  name: "Anne"
+  surname: "Strainchamps"
+  #company: ""
+  title: "Moderator"
+  bio: "host and cofounder of Wisconsin Public Radio's To The Best Of Our Knowledge, she has been a featured interviewer on the program for more than a decade. She has worked in public broadcasting at WAMU in Washington, DC, and at NPR, as a reporter, producer, news director, live talk show host, a food and wine columnist, and—in a former life—was a chocolatier."
+  thumbnailUrl: aanne-strainchamps.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
