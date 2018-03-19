@@ -1,4 +1,4 @@
-#highest number 106
+#highest number 107
 -
   id: 5
   name: "Jim"
@@ -863,6 +863,20 @@
   #title: ""
   bio: "A lifelong resident of Madison, Wisconsin, he played varsity soccer for the Badgers men's soccer team, worked as an Assembly Page for the Wisconsin State Legislature and staffed the Joint Committee on Finance. In February of 2008, Governor Doyle appointed Ozanne to be the Executive Assistant for the Department of Corrections and in 2010, Governor Doyle appointed him to be the Dane County District Attorney, the first African American District Attorney in Wisconsin's history."
   thumbnailUrl: ismael-ozanne.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 107
+  name: "Dennis"
+  surname: "Paoli"
+  #company: ""
+  #title: ""
+  bio: "has written for film, TV, the stage, and the internet. His feature films include adaptations of H. P. Lovecraft's Re-Animator, From Beyond, and Dagon, and the stage play Nevermore: An Evening with Edgar Allan Poe. He is also an academic, a teacher and administrator at Hunter College of the City University of New York."
+  thumbnailUrl: dennis-paoli.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
