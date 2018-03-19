@@ -1,4 +1,4 @@
-#highest number 105
+#highest number 106
 -
   id: 5
   name: "Jim"
@@ -261,6 +261,20 @@
   #title: ""
   bio: "A graduate of the University of Wisconsin, Class of 1968, Hasia Diner is the Paul S. and Sylvia Steinberg Professor of American Jewish History at New York University. She also directs the Goldstein-Goren Center for American Jewish History and is the author of a number of books which explore aspects of American Jewish history, American immigration history, and the history of American women."
   thumbnailUrl: hasia-diner.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 106
+  name: "Jackie"
+  surname: "DiSalvo"
+  #company: ""
+  #title: ""
+  bio: "associate Professor, Marxist-Feminist literary scholar at Baruch College, after being red-baited out of Rutgers. An activist from Mississippi Freedom Summer and SDS to helping found Occupy, she is now a militant delegate of her CUNY AFT faculty union and its anti-war committee."
+  thumbnailUrl: jackie-disalvo.jpg
   rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
