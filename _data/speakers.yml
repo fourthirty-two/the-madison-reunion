@@ -1145,7 +1145,7 @@
   thumbnailUrl: Ben.jpg
   rockstar: true
   ribbon:
-    - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
+    # - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
     - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
   #   - {abbr: "WTR", title: "Writer", url: ""}
   #   - {abbr: "TCH", title: "Teacher", url: ""}
