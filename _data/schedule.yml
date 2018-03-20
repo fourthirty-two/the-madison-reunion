@@ -65,12 +65,12 @@
     - {
     	startTime: "1:00",
     	endTime: "2:30",
-    	sessionIds: [053, 052, 028, 045]
+    	sessionIds: [053, 052, 056, 045]
     }
     - {
         startTime: "3:00",
         endTime: "4:30",
-        sessionIds: [050, 055, 056, 039]
+        sessionIds: [050, 055, 028, 039]
     }
 # -
 #   date: "2018-06-17"
