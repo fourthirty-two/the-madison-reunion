@@ -351,20 +351,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 66
-  name: "Vicki"
-  surname: "Gabriner"
-  #company: ""
-  #title: ""
-  bio: "Long time Civil Rights and Anti-War activist, she was the first person arrested during the Dow demonstration in 1967."
-  thumbnailUrl: vicki-gabriner.jpg
-  #rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 66
+#   name: "Vicki"
+#   surname: "Gabriner"
+#   #company: ""
+#   #title: ""
+#   bio: "Long time Civil Rights and Anti-War activist, she was the first person arrested during the Dow demonstration in 1967."
+#   thumbnailUrl: vicki-gabriner.jpg
+#   #rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 97
   name: "Roberta"

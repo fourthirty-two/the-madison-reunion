@@ -32,7 +32,7 @@
   title: "The Day of DOW"
   description: ""
   subtype: History 203
-  speakers: [38, 66, 75]
+  speakers: [38, 75]
   moderators: [95]
   #language: en
   #complexity: "Beginner"
@@ -128,7 +128,7 @@
   title: "Roots of the Women’s Movement"
   description: ""
   subtype: History 502
-  speakers: [44, 76, 66]
+  speakers: [44, 76]
   moderators: [51]
   #language: en
   #complexity: "Expert"
