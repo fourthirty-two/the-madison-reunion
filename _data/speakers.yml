@@ -1,4 +1,4 @@
-#highest number 102
+#highest number 107
 -
   id: 5
   name: "Jim"
@@ -261,6 +261,20 @@
   #title: ""
   bio: "A graduate of the University of Wisconsin, Class of 1968, Hasia Diner is the Paul S. and Sylvia Steinberg Professor of American Jewish History at New York University. She also directs the Goldstein-Goren Center for American Jewish History and is the author of a number of books which explore aspects of American Jewish history, American immigration history, and the history of American women."
   thumbnailUrl: hasia-diner.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 106
+  name: "Jackie"
+  surname: "DiSalvo"
+  #company: ""
+  #title: ""
+  bio: "associate Professor, Marxist-Feminist literary scholar at Baruch College, after being red-baited out of Rutgers. An activist from Mississippi Freedom Summer and SDS to helping found Occupy, she is now a militant delegate of her CUNY AFT faculty union and its anti-war committee."
+  thumbnailUrl: jackie-disalvo.jpg
   rockstar: true
   ##ribbon:
     #- {abbr: "", title: "", url: ""}
@@ -856,6 +870,20 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 107
+  name: "Dennis"
+  surname: "Paoli"
+  #company: ""
+  #title: ""
+  bio: "has written for film, TV, the stage, and the internet. His feature films include adaptations of H. P. Lovecraft's Re-Animator, From Beyond, and Dagon, and the stage play Nevermore: An Evening with Edgar Allan Poe. He is also an academic, a teacher and administrator at Hunter College of the City University of New York."
+  thumbnailUrl: dennis-paoli.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 32
   name: "John"
   surname: "Parfrey"
@@ -864,6 +892,20 @@
   bio: "John Parfrey graduated from UW-Madison in 1969 and served his alternative service as a CO at Madison General Hospital from 1970-1972. He was an educator at the primary, secondary, and college levels and worked in financial education in the second half of his career. He is retired and lives in Colorado."
   thumbnailUrl: john-parfrey.jpg
   #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 104
+  name: "Steve"
+  surname: "Paulson"
+  #company: ""
+  title: "Moderator"
+  bio: "the Executive Producer and one of the founders of To The Best Of Our Knowledge, he has been a contributing writer for Salon and Nautilus and has written for Slate, Huffington Post and The Atlantic. He often explores the connections between science, philosophy and spirituality. His book Atoms and Eden: Conversations on Religion and Science was published by Oxford University Press."
+  thumbnailUrl: steve-paulson.jpg
+  rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
   # social:
@@ -1189,6 +1231,20 @@
   #title: "Musician"
   bio: "A Wisconsin criminal defense attorney known to the general public for his appearance in the Netflix series Making a Murderer."
   thumbnailUrl: Dean-Strang.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 105
+  name: "Anne"
+  surname: "Strainchamps"
+  #company: ""
+  title: "Moderator"
+  bio: "host and cofounder of Wisconsin Public Radio's To The Best Of Our Knowledge, she has been a featured interviewer on the program for more than a decade. She has worked in public broadcasting at WAMU in Washington, DC, and at NPR, as a reporter, producer, news director, live talk show host, a food and wine columnist, and—in a former life—was a chocolatier."
+  thumbnailUrl: aanne-strainchamps.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
