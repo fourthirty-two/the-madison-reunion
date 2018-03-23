@@ -36,11 +36,11 @@ Tickets go on sale to the general public February 16th.
 <dl class="dl-horizontal">
   <dt>Thursday, June 14, 2018</dt>
   <dd>MOTOWN NIGHT; With THE TEMPTATIONS<br>
-  <a href="https://go.wisc.edu/849pe0">Get tickets for The Temptations here</a>
+  <a href="https://union.wisc.edu/events-and-activities/event-calendar/event/the-temptations/">Get tickets for The Temptations here</a>
   </dd>
   <dt>Friday, June 15, 2018</dt>
   <dd>REUNION BLUES; With BOZ SCAGGS, TRACY NELSON, BEN SIDRAN, and more.<br>
-  <a href="https://go.wisc.edu/j8z285">Get Reunion Blues tickets here</a>
+  <a href="https://union.wisc.edu/events-and-activities/event-calendar/event/the-reunion-blues-with-boz-scaggs-ben-sidran-and-tracy-nelson/">Get Reunion Blues tickets here</a>
   </dd>
 </dl>
 
