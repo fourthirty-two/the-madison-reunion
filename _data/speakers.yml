@@ -1,4 +1,4 @@
-#highest number 107
+#highest number 108
 -
   id: 5
   name: "Jim"
@@ -912,12 +912,26 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
+  id: 108
+  name: "Gerald"
+  surname: "Peary"
+  #company: ""
+  # title: "Moderator"
+  bio: "a Ph.D. From UW-Madison in Communications, he is a retired film professor from Suffolk University-Boston, a long-time film critic for the Boston Phoenix, and the author of eight books on cinema. He programs the Boston University Cinematheque, and is a writer-director of feature documentaries including For the Love of Movies: the Story of American Film Criticism."
+  thumbnailUrl: gerald-peary.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
   id: 99
   name: "Lester"
   surname: "Pines"
   #company: ""
   title: "Moderator"
-  bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate. In his over 40 years of practice, he has appeared in trial and appellate courts throughout Wisconsin, in numerous federal district courts, and before the federal 7th Circuit Court of Appeals. His criminal defense work has involved many high profile cases, especially involving teachers, police officers and other public employees. He is counsel to Madison Teachers Inc., which represents the employees of the Madison Metropolitan School District."
+  bio: "a civil rights and criminal litigator in practice in Madison for over forty years, he was a student of Harvey Goldberg, George Mosse, Stanley Kutler, and Michael Hakeem. He is a fellow of the American College of Trial Lawyers, known for defending Planned Parenthood, marriage equality, public education and challenging voter ID and limits on collective bargaining. He also represented three of the four defendants charged with bombing the Army Math Research Center on campus."
   thumbnailUrl: lester-pines.jpg
   rockstar: true
   #ribbon:
