@@ -607,16 +607,16 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 059
-  title: "Reunion Blues Unplugged"
-  description: "Ben, Boz and Tracy sitting around a piano with a guitar talking about music"
-  subtype: Music 102
-  speakers: [36, 31, 3]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 059
+#   title: "Reunion Blues Unplugged"
+#   description: "Ben, Boz and Tracy sitting around a piano with a guitar talking about music"
+#   subtype: Music 102
+#   speakers: [36, 31, 3]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 060
   title: "Gold"
