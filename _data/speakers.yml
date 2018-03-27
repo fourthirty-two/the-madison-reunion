@@ -1,4 +1,4 @@
-#highest number 108
+#highest number 109
 -
   id: 5
   name: "Jim"
@@ -1129,6 +1129,20 @@
   #title: "Film director"
   bio: "Ron Schutz is a peace activist in Madison and a member of the Madison Religious Society of Friends (Quakers). He served in the US Air Force reserves as a medic during the Viet Nam War. Ron is active in the National Campaign for a Peace Tax Fund."
   thumbnailUrl: ron-schutz.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 109
+  name: "Scott"
+  surname: "Seyforth"
+  #company: ""
+  #title: "Film director"
+  bio: "Scott Seyforth holds a PhD in Educational Leadership and Policy Analysis from the University of Wisconsin – Madison. He is in his 23rd year of work in University Housing where he is an Assistant Director of Residence Life. For over a decade Seyforth has been actively involved in collecting and archiving the history of the local LGBTQ community. He is one of the founders of the Madison LGBTQ Oral History Project and the Madison LGBTQ Archive at the UW-Madison Archives."
+  thumbnailUrl: scott-seyforth.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
