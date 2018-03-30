@@ -9,6 +9,23 @@
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
+            <li>
+              <a href="/">HOME</a>
+            </li>
+            <li class="dropdown">
+              <span>CONFERENCE <i class="arrow down"></i></span>
+              <div class="dropdown-content">
+                <p>
+                  <a href="/schedule">Shedule</a>
+                </p>
+                <p>
+                  <a href="/panels-list">Panels</a>
+                </p>
+                <p>
+                  <a href="/speakers">Panelists</a>
+                </p>
+              </div>
+            </li>
             {% for navigationLink in site.navigationLinks %}
             <li>
                  <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>

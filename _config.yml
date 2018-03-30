@@ -43,11 +43,11 @@ registerLink: "https://uwmadison.eventsair.com/madison60s/register/Site/Register
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ #- {permalink: "/", text: "Home"}
  - {permalink: "/reunion", text: "Reunion"}
- - {permalink: "/schedule", text: "Conference Shedule"}
- - {permalink: "/panels-list", text: "Conference Panels"}
- - {permalink: "/speakers", text: "Conference Panelists"}
+ # - {permalink: "/schedule", text: "Conference Shedule"}
+ # - {permalink: "/panels-list", text: "Conference Panels"}
+ # - {permalink: "/speakers", text: "Conference Panelists"}
  - {permalink: "/hotels", text: "Hotels"}
  - {permalink: "https://uwmadison.eventsair.com/madison60s/register/Site/Register", text: "Register"}
  - {permalink: "/ticketed-events", text: "Ticketed Events"}
