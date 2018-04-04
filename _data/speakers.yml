@@ -1,4 +1,4 @@
-#highest number 109
+#highest number 110
 -
   id: 5
   name: "Jim"
@@ -794,6 +794,20 @@
   bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
   thumbnailUrl: errol-morris.jpg
   rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 110
+  name: "Kalleen"
+  surname: "Mortensen"
+  #company: ""
+  #title: "Film director"
+  bio: "a retired librarian from the UW-Madison, School of Education Library with specialization in Archives, founded the Madison Lesbian Herstory Project in 1991. The group produced the MLHP Slide Presentation documenting Madison lesbian herstory through photography. Currently participating on the board of the UW-Madison LGBTQ Archives."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
   #ribbon:
   #   - {abbr: "", title: "", url: ""}
   # social:
