@@ -11,9 +11,9 @@
     - {name: "Wisconsin Union Theatre", description: "Wisconsin Union Theatre", link: "https://union.wisc.edu/visit/wisconsin-union-theater/", imageUrl: "wisconsin-union-theater.png"}
     - {name: "The Edgewater Hotel", description: "Stay, Dine & Spa on the Water", link: "https://www.theedgewater.com/", imageUrl: "edgewater-logo.jpg"}
     - {name: "Madison Arts Commission", description: "Madison Arts Commission", link: "http://www.cityofmadison.com/mac", imageUrl: "madison-arts-commission.jpg"}
+    - {name: "Exact Sciences", description: "Exact Sciences", link: "http://www.exactsciences.com/", imageUrl: "exact-sciences.png"}
     - {name: "Wisconsin Union", description: "Wisconsin Union", link: "https://union.wisc.edu/", imageUrl: "wisconsin-union-logo.jpg"}
     - {name: "MG&E", description: "MG&E", link: "https://www.mge.com", imageUrl: "mge-logo.jpg"}
-    - {name: "Exact Sciences", description: "Exact Sciences", link: "http://www.exactsciences.com/", imageUrl: "exact-sciences.png"}
 
 # -
 #   group: "With support of"
