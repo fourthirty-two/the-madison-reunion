@@ -1,4 +1,4 @@
-#highest number 110
+#highest number 111
 -
   id: 5
   name: "Jim"
@@ -365,6 +365,19 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
+-
+  id: 111
+  name: "Michael"
+  surname: "Feldman"
+  #company: ""
+  title: "Moderator"
+  bio: "an American radio personality, his <i>Michael Feldman's Whad'Ya Know?</i>, distributed by Public Radio International, was carried on dozens, if not hundreds of radio stations across the country for more than thirty years and spun off books, clothing and even a television program. He has given himself the title of &quot;Producer Internationale,&quot; refers to Public Radio International as &quot;The International House of Radio,&quot; and, since the demise of radio, he is currently producing <i>Whad'Ya Know</i> as a podcast."
+  thumbnailUrl: michael-feldman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "site", link: "https://whadyaknow.net"}
 # -
 #   id: 66
 #   name: "Vicki"
