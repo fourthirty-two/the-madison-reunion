@@ -64,7 +64,7 @@
   title: "The Legacy of George Mosse"
   description: ""
   subtype: History 302
-  speakers: [9, 69, 70]
+  speakers: [69, 70]
   moderators: [45]
   #language: en
   #complexity: "Expert"
@@ -504,7 +504,7 @@
   title: "Freedom Riding"
   description: "Personal memoirs"
   subtype: History 102
-  speakers: [9, 63, 75]
+  speakers: [63, 75]
   moderators: [60]
   #language: en
   #complexity: "Expert"
