@@ -1,4 +1,4 @@
-#highest number 111
+#highest number 112
 -
   id: 5
   name: "Jim"
@@ -960,6 +960,20 @@
   title: "Moderator"
   bio: "a civil rights and criminal litigator in practice in Madison for over forty years, he was a student of Harvey Goldberg, George Mosse, Stanley Kutler, and Michael Hakeem. He is a fellow of the American College of Trial Lawyers, known for defending Planned Parenthood, marriage equality, public education and challenging voter ID and limits on collective bargaining. He also represented three of the four defendants charged with bombing the Army Math Research Center on campus."
   thumbnailUrl: lester-pines.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 112
+  name: "Odessa"
+  surname: "Piper"
+  #company: ""
+  title: "Moderator"
+  bio: "following cooking and farming in Wisconsin's driftless region, Odessa Piper founded Madison's pioneering farm to table restaurant L'Etoile in 1976 and ran it for 30 years. She continues to advocate for the gastronomy of the snowbelt, its seasons, farmers and artisans and is currently developing a Food Artisan Program for Taliesin Preservation Inc. in Spring Green Wisconsin."
+  thumbnailUrl: odessa-piper.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
