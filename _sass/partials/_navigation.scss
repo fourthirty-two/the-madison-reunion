@@ -179,6 +179,7 @@ nav {
 }
 
 // dropdown navs
+li.dropdown {font-size:inherit;} // nav font would change size
 @media (min-width: 767px) {
 
   .dropdown {
