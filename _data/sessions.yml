@@ -629,10 +629,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 061
-  title: "Food for People Not for Profit"
-  # description: "Experimental video"
+  title: "Food for People, Not for Profit:"
+  description: "How Mifflin Grocery Coop ignited our regional food movement"
   subtype: History 102
-  speakers: []
+  speakers: [114]
   moderators: [112]
   #language: en
   #complexity: "Expert"

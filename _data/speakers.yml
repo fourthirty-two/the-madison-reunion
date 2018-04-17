@@ -1,4 +1,4 @@
-#highest number 113
+#highest number 114
 -
   id: 5
   name: "Jim"
@@ -585,6 +585,20 @@
   rockstar: true
   ribbon:
     - {abbr: "MC", title: "Freedom Riding", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 114
+  name: "Jonathan"
+  surname: "Kauffman"
+  # company: "Freedom Riding"
+  # title: "Moderator"
+  bio: "is a reporter for the San Francisco Chronicle food section and the author of Hippie Food, a narrative history of how Americans came to eat brown rice, tofu, whole-wheat bread, and granola."
+  thumbnailUrl: jonathan-kauffman.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Freedom Riding", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
