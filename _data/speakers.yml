@@ -1,4 +1,4 @@
-#highest number 114
+#highest number 115
 -
   id: 5
   name: "Jim"
@@ -1058,6 +1058,20 @@
   title: "Concert:  Union Terrace, Thursday, June 14, 2018"
   bio: "Reverend Billy and the Stop Shopping Choir is a New York City based radical performance community, with 50 performing members and a congregation in the thousands. We are wild anti-consumerist gospel shouters and Earth loving urban activists who have worked with communities on four continents defending community, life and imagination. Our Devils over the 15 years of our &quot;church&quot; have remained the same: Consumerism and Militarism. In this time of the Earth's crisis - we are especially mindful of the extractive imperatives of global capital."
   thumbnailUrl: reverend-billy.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 115
+  name: "Anne"
+  surname: "Reynolds"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "consults on board leadership, cooperative start-ups, and organizational development, having served for decades at the University of Wisconsin Center for Cooperatives, where she led the Center’s outreach, education and development program. She has worked with organizations in all sectors, including food systems, housing, agriculture, grocery, energy and worker-owned."
+  thumbnailUrl: anne-reynolds.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
