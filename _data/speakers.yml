@@ -1,4 +1,4 @@
-#highest number 112
+#highest number 113
 -
   id: 5
   name: "Jim"
@@ -378,20 +378,20 @@
     #- {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "site", link: "https://whadyaknow.net"}
-# -
-#   id: 66
-#   name: "Vicki"
-#   surname: "Gabriner"
-#   #company: ""
-#   #title: ""
-#   bio: "Long time Civil Rights and Anti-War activist, she was the first person arrested during the Dow demonstration in 1967."
-#   thumbnailUrl: vicki-gabriner.jpg
-#   #rockstar: true
-#   ##ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 113
+  name: "Jerry"
+  surname: "Fortier"
+  #company: ""
+  #title: ""
+  bio: "had a bird’s eye view of every performance of “Peter Pan” while pumping psychedelic effects out of the Play Circle projection booth and the back of B10 Commerce and has since been engaged in integrating projection and performance in many productions and venues."
+  thumbnailUrl: jerome-fortier.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 97
   name: "Roberta"
