@@ -1,4 +1,4 @@
-#highest number 115
+#highest number 116
 -
   id: 5
   name: "Jim"
@@ -384,7 +384,7 @@
   surname: "Fortier"
   #company: ""
   #title: ""
-  bio: "had a bird’s eye view of every performance of “Peter Pan” while pumping psychedelic effects out of the Play Circle projection booth and the back of B10 Commerce and has since been engaged in integrating projection and performance in many productions and venues."
+  bio: "had a bird's eye view of every performance of “Peter Pan” while pumping psychedelic effects out of the Play Circle projection booth and the back of B10 Commerce and has since been engaged in integrating projection and performance in many productions and venues."
   thumbnailUrl: jerome-fortier.jpg
   rockstar: true
   ##ribbon:
@@ -650,7 +650,7 @@
   surname: "Lawton"
   #company: ""
   #title: "Private investigator"
-  bio: "Barbara Lawton served two terms as Wisconsin’s first woman to be elected lt. governor, and later co-founded Issue One, dedicated to reducing the influence of money on politics."
+  bio: "Barbara Lawton served two terms as Wisconsin's first woman to be elected lt. governor, and later co-founded Issue One, dedicated to reducing the influence of money on politics."
   thumbnailUrl: barbara-lawton.jpg
   rockstar: true
   ##ribbon:
@@ -1070,7 +1070,7 @@
   surname: "Reynolds"
   #company: ""
   #title: "Novelist and poet"
-  bio: "consults on board leadership, cooperative start-ups, and organizational development, having served for decades at the University of Wisconsin Center for Cooperatives, where she led the Center’s outreach, education and development program. She has worked with organizations in all sectors, including food systems, housing, agriculture, grocery, energy and worker-owned."
+  bio: "consults on board leadership, cooperative start-ups, and organizational development, having served for decades at the University of Wisconsin Center for Cooperatives, where she led the Center's outreach, education and development program. She has worked with organizations in all sectors, including food systems, housing, agriculture, grocery, energy and worker-owned."
   thumbnailUrl: anne-reynolds.jpg
   rockstar: true
   #ribbon:
@@ -1538,6 +1538,20 @@
   #title: "Novelist and poet"
   bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
   thumbnailUrl: John-Wiley.png
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 116
+  name: "Carla"
+  surname: "Wright"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "serves on the board of Midwest Organic Services Association and President of the Board for the Midwest Organic and Sustainable Education Service, host of the nation's largest organic farming conference. MOSES hosts numerous field days and provides other resources and expertise to help farmers grow organic."
+  thumbnailUrl: carla-wright.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
