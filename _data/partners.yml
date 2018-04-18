@@ -14,6 +14,7 @@
     - {name: "Exact Sciences", description: "Exact Sciences", link: "http://www.exactsciences.com/", imageUrl: "exact-sciences.png"}
     - {name: "Wisconsin Union", description: "Wisconsin Union", link: "https://union.wisc.edu/", imageUrl: "wisconsin-union-logo.jpg"}
     - {name: "MG&E", description: "MG&E", link: "https://www.mge.com", imageUrl: "mge-logo.jpg"}
+    - {name: "CAMPUS AND VISITOR RELATIONS", description: "CAMPUS AND VISITOR RELATIONS", link: "https://info.wisc.edu", imageUrl: "campus-visitor.jpg"}
 
 # -
 #   group: "With support of"
