@@ -33,12 +33,12 @@ Free Music nightly on the Memorial Union Terrace:
   </dd>
   <dt>Friday, June 15</dt>
   <dd>
-    5:00 – 7:00PM <b>The Fabulous Imitations.</b><br>
+    5:30 - 7:30PM <b>The Fabulous Imitations.</b><br>
     9 – 11PM <b>Paul Cebar</b>; "They play two songs: one is the blues, the other one isn't"
   </dd>
   <dt>Saturday, June 16</dt>
   <dd>
     5:00 – 7:00PM <b>Gerri DiMaggio Jazz Quartet</b> <br>
-    7:30 - 10PM A <b>'60s Sing-Along</b> featuring <b>The Dueling Pianos</b> (They take requests and the lyrics will be projected overhead!) <br>
+    7:30 - 10PM A <b>'60s Sing-Along</b> featuring <b>The Dueling Pianos</b> (They take requests!) <br>
   </dd>
 </dl>
