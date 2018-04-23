@@ -15,6 +15,7 @@
     - {name: "Wisconsin Union", description: "Wisconsin Union", link: "https://union.wisc.edu/", imageUrl: "wisconsin-union-logo.jpg"}
     - {name: "MG&E", description: "MG&E", link: "https://www.mge.com", imageUrl: "mge-logo.jpg"}
     - {name: "CAMPUS AND VISITOR RELATIONS", description: "CAMPUS AND VISITOR RELATIONS", link: "https://info.wisc.edu", imageUrl: "campus-visitor.jpg"}
+    - {name: "George L. Mosse", description: "Mosse Program In History", link: "https://mosseprogram.wisc.edu", imageUrl: "mosse-logo.jpg"}
 
 # -
 #   group: "With support of"
