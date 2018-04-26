@@ -1,20 +1,22 @@
+<div class="col-lg-8 col-md-10 col-md-offset-1" style="margin-bottom:20px;">
+  <h3 class="text-left">Conference schedule</h3>
+  <p class="text-left">Click the button to print the current page.</p>
+
+  <p class="text-left">
+    <button onclick="myFunction()" class="btn btn-primary waves-effect waves-button waves-light waves-float">Print this page</button>
+  </p>
+
+  <script>
+  function myFunction() {
+    window.print();
+  }
+  </script>
+</div>
+
 {% for day in site.data.schedule %}
 <div class="">
-  <div class="col-lg-8 col-md-10 col-md-offset-1" style="margin-bottom:20px;">
-    <h3 class="text-left">Conference schedule</h3>
-    <p class="text-left">Click the button to print the current page.</p>
 
-    <p class="text-left">
-      <button onclick="myFunction()" class="btn btn-primary waves-effect waves-button waves-light waves-float">Print this page</button>
-    </p>
-
-    <script>
-    function myFunction() {
-      window.print();
-    }
-    </script>
-  </div>
-    <h4 class="">{{ day.dateReadable }}</h4>
+    <h2 class="">{{ day.dateReadable }}</h2>
     <div class="timeslot track-header stick-header">
         <div class="track-header-label">Day {{ forloop.index }}</div>
         <div class="timeslot-elements flexbox-wrapper">
