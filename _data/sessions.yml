@@ -640,8 +640,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 000
-  title: "&nbsp;"
-  description: "&nbsp;"
+  title: "No Session"
+  description: "Empty conference room"
   subtype: Music 102
   speakers: []
   #language: en
