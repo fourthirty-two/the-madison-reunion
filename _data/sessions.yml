@@ -597,16 +597,16 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 058
-  title: "Reverend Billy and the Stop Shopping Choir"
-  #description: "Experimental video"
-  subtype: Music 102
-  speakers: [92]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 058
+#   title: "Reverend Billy and the Stop Shopping Choir"
+#   #description: "Experimental video"
+#   subtype: Music 102
+#   speakers: [92]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 # -
 #   id: 059
 #   title: "Reunion Blues Unplugged"
@@ -640,8 +640,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 000
-  title: "No Session"
-  description: "Empty conference room"
+  title: "<div class='visible-print-inline-block'>No Session</div>"
+  description: "<div class='visible-print-inline-block'>Empty conference room</div>"
   subtype: Music 102
   speakers: []
   #language: en
