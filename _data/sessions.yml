@@ -640,8 +640,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 000
-  title: "<div class='visible-print-inline-block'>No Session</div>"
-  description: "<div class='visible-print-inline-block'>Empty conference room</div>"
+  title: "&nbsp;"
+  description: "&nbsp;"
   subtype: Music 102
   speakers: []
   #language: en
