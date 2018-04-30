@@ -304,7 +304,8 @@
   title: "Conscientious Objection"
   description: "Not in my name"
   subtype: Social Studies 101
-  speakers: [34, 15, 16, 20, 32, 35, 53]
+  speakers: [15, 16, 20, 32, 35, 53]
+  moderators: [34]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -314,7 +315,8 @@
   title: "The Beginning of the LGBT Movement"
   description: ""
   subtype: Social Studies 102
-  speakers: [47, 64, 109, 110]
+  speakers: [64, 109, 110]
+  moderators: [47]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

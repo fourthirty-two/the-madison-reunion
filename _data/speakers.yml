@@ -1125,7 +1125,7 @@
   name: "Jerry"
   surname: "Rousseau"
   #company: ""
-  #title: "Film director"
+  title: "Moderator"
   bio: "Jerry Rousseau graduated from UW-Madison in 1970 and served his alternative service as a CO at Madison General Hospital on an inpatient psychiatric unit from 1970-1972. He is a UW-Milwaukee Emeritus Clinical Associate Professor of Social Work & Licensed Clinical Social Worker with 47 years of mental health clinical work."
   thumbnailUrl: jerry-rousseau.jpg
   rockstar: true
@@ -1464,8 +1464,8 @@
   id: 47
   name: "Dick"
   surname: "Wagner"
-  #company: ""
-  #title: "Novelist and poet"
+  company: "Beginning of the LGBT Movement"
+  title: "Moderator"
   bio: "Long time Madison activist in the LGBT community, he just completed a book about the gay history of Wisconsin."
   thumbnailUrl: Dick-Wagner.jpg
   rockstar: true
