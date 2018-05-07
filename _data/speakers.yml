@@ -351,20 +351,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 56
-  name: "Russ"
-  surname: "Feingold"
-  #company: ""
-  #title: "Private investigator"
-  bio: "U.S. Senator from Wisconsin from 1993 to 2011, he received the John F. Kennedy Profile in Courage Award and was the only Senator to vote against the Patriot Act on the first ballot."
-  thumbnailUrl: feingold.jpg
-  rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 56
+#   name: "Russ"
+#   surname: "Feingold"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "U.S. Senator from Wisconsin from 1993 to 2011, he received the John F. Kennedy Profile in Courage Award and was the only Senator to vote against the Patriot Act on the first ballot."
+#   thumbnailUrl: feingold.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 111
   name: "Michael"
