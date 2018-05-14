@@ -1,4 +1,4 @@
-#highest number 116
+#highest number 117
 -
   id: 5
   name: "Jim"
@@ -183,20 +183,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
-# -
-#   id: 50
-#   name: "Peter"
-#   surname: "Coyote"
-#   #company: ""
-#   #title: "Novelist and poet"
-#   bio: "One of the founders of the Diggers, an anarchist improv group active in Haight-Ashbury during the mid-1960s, Coyote is an actor, writer and director, beginning with the San Francisco Mime Troupe and then in such films as E.T. The Extra-Terrestrial and is also the narrator of many films, including the Ken Burns PBS series."
-#   thumbnailUrl: peter-coyote.jpeg
-#   #rockstar: true
-#   ##ribbon:
-#     #- {abbr: "", title: "", url: ""}
-#   # social:
-#   #   - {name: "google-plus", link: ""}
-#   #   - {name: "site", link: ""}
+-
+  id: 50
+  name: "John"
+  surname: "Coatsworth"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "John Coatsworth is the Provost of Columbia University, as well as Professor of International and Public Affairs and of History.  He is a leading scholar of Latin American economic and international history, a member of the American Academy of Arts and Sciences, the Council on Foreign Relations, and the former president of the American Historical Association.  He received his BA in History from Wesleyan University, and his MA and PhD in Economic History from the University of Wisconsin-Madison."
+  thumbnailUrl: john-coatsworth.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 90
   name: "Nicholas V."
