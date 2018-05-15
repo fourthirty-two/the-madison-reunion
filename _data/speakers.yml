@@ -1,4 +1,4 @@
-#highest number 117
+#highest number 118
 -
   id: 5
   name: "Jim"
@@ -1314,6 +1314,20 @@
   #title: ""
   bio: "A Professor at the University of Maryland School Law School, her career has focused on regulatory systems particularly health, worker safety, environmental, and financial service regulation (BP, Deepwater Horizon, Texas City Refinery, Tesoro Refinery, Upper Big Branch Mine, New England Compounding Center); she is also a past editor of the UW Daily Cardinal."
   thumbnailUrl: rena-steinzor.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 118
+  name: "Norman"
+  surname: "Stockwell"
+  #company: ""
+  title: "Moderator"
+  bio: "Norman Stockwell, publisher of The Progressive, for over 20 years, served as WORT Community Radio’s Operations Coordinator in Madison, Wisconsin. He also coordinated the IraqJournal website in 2002-2003. In 2011, he regularly reported on protests in Madison for Iran’s PressTV and other outlets. His reports and interviews have appeared on Free Speech Radio News, DemocracyNow!, and AirAmerica, and in print in Z Magazine, the Capital Times, AlterNet, Toward Freedom, the Tico Times, the Feminist Connection, and elsewhere."
+  thumbnailUrl: norman-stockwell.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
