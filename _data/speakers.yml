@@ -1,4 +1,4 @@
-#highest number 118
+#highest number 119
 -
   id: 5
   name: "Jim"
@@ -835,6 +835,20 @@
   bio: "a retired librarian from the UW-Madison, School of Education Library with specialization in Archives, founded the Madison Lesbian Herstory Project in 1991. The group produced the MLHP Slide Presentation documenting Madison lesbian herstory through photography. Currently participating on the board of the UW-Madison LGBTQ Archives."
   thumbnailUrl: speaker-default.png
   #rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 119
+  name: "Justine"
+  surname: "Nagan"
+  #company: ""
+  #title: "Film director"
+  bio: "Justine Nagan; the Executive Director of American Documentary, Inc., and an Executive Producer onPOV (PBS) and America Reframed (World Channel in Partnership with WGBH).  Before moving to American Documentary, Nagan served for more than a decade as Executive Director at Kartemquin, a Chicago-based production company celebrated for its socially conscious work. While at Kartemquin, Nagan directed Typeface, an award-winning film on typography, and produced many acclaimed works such as Life Itself, The Interrupters, and The Trials of Muhammad Ali. Nagan majored in Journalism and Communication Arts at UW-Madisonand, received a certificate in Non-Profit Management from Harvard Business School and a Masters from the University of Chicago in the Humanities/Cinema and Media Studies."
+  thumbnailUrl: justine-nagan.jpg
+  rockstar: true
   #ribbon:
   #   - {abbr: "", title: "", url: ""}
   # social:
