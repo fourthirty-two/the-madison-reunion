@@ -1558,20 +1558,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 49
-  name: "John"
-  surname: "Wiley"
-  #company: ""
-  #title: "Novelist and poet"
-  bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
-  thumbnailUrl: John-Wiley.png
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 49
+#   name: "John"
+#   surname: "Wiley"
+#   #company: ""
+#   #title: "Novelist and poet"
+#   bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
+#   thumbnailUrl: John-Wiley.png
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 116
   name: "Carla"
