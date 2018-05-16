@@ -140,7 +140,7 @@
   description: ""
   subtype: Film 101
   speakers: [52, 119]
-  moderators: [22]
+  # moderators: [22]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
