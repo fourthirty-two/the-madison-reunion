@@ -96,7 +96,7 @@
   title: "The Politics of Resentment"
   description: "Looking for the Wisconsin Idea in the idea of Wisconsin"
   subtype: History 402
-  speakers: [12]
+  speakers: [12, 120]
   moderators: [38]
   #language: en
   #complexity: "Expert"
@@ -465,7 +465,7 @@
   title: "Growing Up Madison"
   description: "MoveOn, Upworthy and the Makers Movement. The 60s roots of today's social movements"
   subtype: Writing 503
-  speakers: [59, 74, 83]
+  speakers: [59, 74, 83, 120]
   moderators: [101]
   #language: en
   #complexity: "Expert"

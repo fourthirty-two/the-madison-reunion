@@ -1,4 +1,4 @@
-#highest number 119
+#highest number 120
 -
   id: 5
   name: "Jim"
@@ -585,6 +585,20 @@
   rockstar: true
   ribbon:
     - {abbr: "MC", title: "Freedom Riding", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 120
+  name: "Dan"
+  surname: "Kaufman"
+  # company: "Freedom Riding"
+  # title: "Moderator"
+  #bio: "A Judge of the Wisconsin Court of Appeals, the first and only African American to serve on the court, he has been involved in the civil rights struggle since his teenage years when his father marched with Dr. Martin Luther King Jr. during the March on Washington for Jobs and Freedom."
+  thumbnailUrl: speaker-default.png
+  # rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Freedom Riding", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
