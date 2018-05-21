@@ -1204,20 +1204,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 35
-  name: "Ron"
-  surname: "Schutz"
-  #company: ""
-  #title: "Film director"
-  bio: "Ron Schutz is a peace activist in Madison and a member of the Madison Religious Society of Friends (Quakers). He served in the US Air Force reserves as a medic during the Viet Nam War. Ron is active in the National Campaign for a Peace Tax Fund."
-  thumbnailUrl: ron-schutz.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 35
+#   name: "Ron"
+#   surname: "Schutz"
+#   #company: ""
+#   #title: "Film director"
+#   bio: "Ron Schutz is a peace activist in Madison and a member of the Madison Religious Society of Friends (Quakers). He served in the US Air Force reserves as a medic during the Viet Nam War. Ron is active in the National Campaign for a Peace Tax Fund."
+#   thumbnailUrl: ron-schutz.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 109
   name: "Scott"
