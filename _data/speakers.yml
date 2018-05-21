@@ -786,12 +786,12 @@
   #   - {name: "site", link: ""}
 -
   id: 121
-  name: "Al"
+  name: "Alfred"
   surname: "McCoy"
   # company: "What's Left of the Wisconsin Idea"
   title: "Moderator"
-  bio: ""
-  thumbnailUrl: speaker-default.png
+  bio: "Alfred William McCoy; holds the Harrington Chair in History and is the J.R.W. Smail Professor of History at the University of Wisconsin–Madison.  He is the author of numerous books and has written about, and testified before Congress, about the politics of heroin, the world of crime syndicates, international political surveillance, and, most recently, <i>The Rise and Decline of U.S. Global Power.</i>"
+  thumbnailUrl: al-mccoy.jpg
   #rockstar: true
   # ribbon:
   #   - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
