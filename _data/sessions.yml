@@ -54,7 +54,7 @@
   description: ""
   subtype: History 301
   speakers: [54, 3, 78, 89]
-  moderators: [53]
+  moderators: [53, 121]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -282,8 +282,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
-  title: "More Groucho than Karl"
-  description: "Fudge bottom pie and free jazz; a fine old Friday tradition at the Memorial Union with the Paul Hastil trio."
+  title: "More Groucho than Karl: Jazz and Fudge Bottom Pie;"
+  description: "a fine old Friday afternoon Union tradition, up from the Rat with the Paul Hastil Trio."
   subtype: Science 101
   # speakers: [49]
   #language: en

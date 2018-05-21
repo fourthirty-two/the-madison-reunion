@@ -1,4 +1,4 @@
-#highest number 120
+#highest number 121
 -
   id: 5
   name: "Jim"
@@ -781,6 +781,20 @@
   rockstar: true
   ribbon:
     - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 121
+  name: "Al"
+  surname: "McCoy"
+  # company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
+  bio: ""
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
