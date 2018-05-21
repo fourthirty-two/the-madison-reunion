@@ -305,7 +305,7 @@
   title: "Conscientious Objection"
   description: "Not in my name"
   subtype: Social Studies 101
-  speakers: [15, 16, 20, 32, 53]
+  speakers: [15, 20, 32, 53]
   moderators: [34]
   #language: en
   #complexity: "Expert"

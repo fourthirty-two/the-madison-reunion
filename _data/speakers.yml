@@ -406,20 +406,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 16
-  name: "Chris"
-  surname: "Gargan"
-  #company: ""
-  #title: "Private investigator"
-  bio: "Chris Gargan began his alternative service as a CO at a Boston Hospital in January of 1970 at age 18. He moved to Albuquerque, NM in December of 1970 and completed his alternative service in a residential methadone program where he worked with heroin addicts until June of 1972."
-  thumbnailUrl: chris-gargan.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 16
+#   name: "Chris"
+#   surname: "Gargan"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Chris Gargan began his alternative service as a CO at a Boston Hospital in January of 1970 at age 18. He moved to Albuquerque, NM in December of 1970 and completed his alternative service in a residential methadone program where he worked with heroin addicts until June of 1972."
+#   thumbnailUrl: chris-gargan.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 94
   name: "Christine"
