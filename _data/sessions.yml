@@ -305,7 +305,7 @@
   title: "Conscientious Objection"
   description: "Not in my name"
   subtype: Social Studies 101
-  speakers: [15, 20, 32, 53]
+  speakers: [15, 20, 32]
   moderators: [34]
   #language: en
   #complexity: "Expert"
@@ -583,7 +583,7 @@
   title: "Radical Pedagogy"
   description: "The TAA strike, The Teach In and the Black Students Strike"
   subtype: History 102
-  speakers: [82, 53, 84, 93, 94, 106]
+  speakers: [82, 84, 93, 94, 106]
   moderators: [10]
   #language: en
   #complexity: "Expert"
