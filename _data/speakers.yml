@@ -281,20 +281,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 53
-  name: "Joe"
-  surname: "Elder"
-  company: "Harvey Goldberg"
-  title: "Moderator"
-  bio: "Joe Elder is a Quaker peace activist with experience carrying messages between disputing parties in Kashmir, Vietnam, Korea, and Sri Lanka. He applied for CO status during the Korean War. An Emeritus Professor of Sociology & Languages & Cultures of Asia at UW-Madison, he received a 2009 Lifetime Achievement Award for Peacemaking from the Wisconsin Network for Peace and Justice."
-  thumbnailUrl: joe-elder.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "MC", title: "Harvey Goldberg", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 53
+#   name: "Joe"
+#   surname: "Elder"
+#   # company: "Harvey Goldberg"
+#   # title: "Moderator"
+#   bio: "Joe Elder is a Quaker peace activist with experience carrying messages between disputing parties in Kashmir, Vietnam, Korea, and Sri Lanka. He applied for CO status during the Korean War. An Emeritus Professor of Sociology & Languages & Cultures of Asia at UW-Madison, he received a 2009 Lifetime Achievement Award for Peacemaking from the Wisconsin Network for Peace and Justice."
+#   thumbnailUrl: joe-elder.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "MC", title: "Harvey Goldberg", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 67
   name: "Frank"

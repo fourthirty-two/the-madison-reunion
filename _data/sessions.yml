@@ -54,7 +54,7 @@
   description: ""
   subtype: History 301
   speakers: [54, 3, 78, 89]
-  moderators: [53, 121]
+  moderators: [121]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
