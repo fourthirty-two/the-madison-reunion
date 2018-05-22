@@ -572,8 +572,8 @@
   title: "The Daily Cardinal"
   description: ""
   subtype: History 102
-  speakers: [18, 19, 76, 79, 80]
-  moderators: [88]
+  speakers: [18, 19, 76, 88, 80]
+  moderators: [79]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

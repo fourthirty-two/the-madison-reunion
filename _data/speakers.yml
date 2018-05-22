@@ -47,7 +47,7 @@
   name: "Walt"
   surname: "Bogdanich"
   company: "The Daily Cardinal"
-  title: "Moderator"
+  # title: "Moderator"
   bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
   thumbnailUrl: walt-bogdanich.jpg
   rockstar: true
@@ -1083,7 +1083,7 @@
   name: "Steven"
   surname: "Reiner"
   #company: ""
-  #title: "Film director"
+  title: "Moderator"
   bio: "The Director of Video Journalism and an associate professor in the Stony Brook University School of Journalism, he is a thirty year veteran of network broadcast television and a multiple Emmy Award winning former producer for CBS News' <i>60 Minutes</i>. He has worked at both NBC and ABC News, served as an editor for The Atlantic Magazine and as senior editor and executive producer of NPR's flagship news program &quot;All Things Considered.&quot; He was Editor-in-Chief of The Daily Cardinal from 1969 to 1970"
   thumbnailUrl: steven-reiner.jpeg
   rockstar: true
