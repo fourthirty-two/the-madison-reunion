@@ -869,20 +869,6 @@
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
 -
-  id: 119
-  name: "Justine"
-  surname: "Nagan"
-  #company: ""
-  #title: "Film director"
-  bio: "Justine Nagan; the Executive Director of American Documentary, Inc., and an Executive Producer onPOV (PBS) and America Reframed (World Channel in Partnership with WGBH).  Before moving to American Documentary, Nagan served for more than a decade as Executive Director at Kartemquin, a Chicago-based production company celebrated for its socially conscious work. While at Kartemquin, Nagan directed Typeface, an award-winning film on typography, and produced many acclaimed works such as Life Itself, The Interrupters, and The Trials of Muhammad Ali. Nagan majored in Journalism and Communication Arts at UW-Madisonand, received a certificate in Non-Profit Management from Harvard Business School and a Masters from the University of Chicago in the Humanities/Cinema and Media Studies."
-  thumbnailUrl: justine-nagan.jpg
-  rockstar: true
-  #ribbon:
-  #   - {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
--
   id: 30
   name: "Tia"
   surname: "Nelson"
@@ -1429,6 +1415,20 @@
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 119
+  name: "Mary"
+  surname: "Sweeney"
+  #company: ""
+  #title: "Film director"
+  bio: "Mary Sweeney is a feature film director, producer, writer, and editor. She has a long history of creative collaboration with David Lynch, beginning with Blue Velvet in 1986. She edited Twin Peaks Television (1990), Twin Peaks Fire Walk With Me (1992), Hotel Room, HBO, (1993), Lost Highway (1996), The Straight Story (2000) and Mulholland Drive (2001.) Her producing credits date to 1995 with Nadja, and include Lost Highway, The Straight Story, Mulholland Drive and Inland Empire (2006), directed by Lynch, and Baraboo (2009) her directorial debut based on her original screenplay. She is the Dino and Martha De Laurentiis Endowed Professor of film at USC and is a Madison native."
+  thumbnailUrl: mary-sweeny.jpg
+  rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
