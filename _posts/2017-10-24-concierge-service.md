@@ -199,5 +199,7 @@ permalink: /concierge/
 
   The University Club 803 State St.<br>
 
-  Wando’s  602 University Ave.<br>
+  Wando's  602 University Ave.<br>
+
+  The Nitty Gritty, 223 N. Frances St.
 </p><hr>
