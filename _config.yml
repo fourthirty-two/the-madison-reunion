@@ -30,7 +30,7 @@ organizerLink: "http://madisonreunion.com"
 
 # Head
 metaKeywords: "Madison Reunion 2018"
-#twitterAccount: "@"
+twitterAccount: "@reunion_madison"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -179,8 +179,8 @@ subscribeInfo: ""
 # Footer
 socialLinks:
  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- #- {link: "https://twitter.com/intent/user?screen_name=madisonreunion", icon: "twitter"}
- #- {link: "https://facebook.com/madisonreunion", icon: "facebook"}
+ - {link: "https://twitter.com/reunion_madison", icon: "twitter"}
+ - {link: "https://facebook.com/madisonreunion", icon: "facebook"}
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  # -
