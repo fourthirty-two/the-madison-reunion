@@ -1,4 +1,4 @@
-#highest number 121
+#highest number 122
 -
   id: 5
   name: "Jim"
@@ -1356,6 +1356,20 @@
   title: "Moderator"
   bio: "Norman Stockwell, publisher of The Progressive, for over 20 years, served as WORT Community Radio’s Operations Coordinator in Madison, Wisconsin. He also coordinated the IraqJournal website in 2002-2003. In 2011, he regularly reported on protests in Madison for Iran’s PressTV and other outlets. His reports and interviews have appeared on Free Speech Radio News, DemocracyNow!, and AirAmerica, and in print in Z Magazine, the Capital Times, AlterNet, Toward Freedom, the Tico Times, the Feminist Connection, and elsewhere."
   thumbnailUrl: norman-stockwell.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 122
+  name: "Nora"
+  surname: "Stone"
+  #company: ""
+  title: "Moderator"
+  bio: "Nora Stone; a Ph.D. candidate in film in the Department of Communication Arts, University of Wisconsin-Madison, her dissertation explores the creation of a multi-layered market for documentary films between 1960 and the early 2000s. Her short film &quot;Mommy Moments&quot; screened at the Virginia Film Festival and Driftless Film Festival. She teaches courses in film studies and advanced film production."
+  thumbnailUrl: nora-stone.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
