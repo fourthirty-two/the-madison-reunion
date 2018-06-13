@@ -644,20 +644,20 @@
 #   # social:
 #   #   - {name: "google-plus", link: ""}
 #   #   - {name: "site", link: ""}
--
-  id: 23
-  name: "Ann"
-  surname: "Lauterbach"
-  #company: ""
-  #title: "Private investigator"
-  bio: "Poet, essayist, and professor, she has received fellowships from the Guggenheim Foundation, the Ingram Merrill Foundation, the John D. and Catherine T. MacArthur Foundation. Since 1991 she has taught at Bard College and is currently Professor of Languages and Literature there."
-  thumbnailUrl: ann-lauterbach.jpg
-  rockstar: true
-  ##ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 23
+#   name: "Ann"
+#   surname: "Lauterbach"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Poet, essayist, and professor, she has received fellowships from the Guggenheim Foundation, the Ingram Merrill Foundation, the John D. and Catherine T. MacArthur Foundation. Since 1991 she has taught at Bard College and is currently Professor of Languages and Literature there."
+#   thumbnailUrl: ann-lauterbach.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 65
   name: "Barbara"
@@ -1320,20 +1320,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 40
-  name: "Scott"
-  surname: "Spencer"
-  #company: ""
-  #title: "Musician"
-  bio: "Graduate of the University of Wisconsin, he has written eleven novels, two of which, Endless Love and Waking the Dead, were adapted into films. He has also worked as a journalist who has published in The New York Times, The New Yorker and Harpers Magazine. He is a regular contributor to Rolling Stone."
-  thumbnailUrl: Scott-Spencer.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 40
+#   name: "Scott"
+#   surname: "Spencer"
+#   #company: ""
+#   #title: "Musician"
+#   bio: "Graduate of the University of Wisconsin, he has written eleven novels, two of which, Endless Love and Waking the Dead, were adapted into films. He has also worked as a journalist who has published in The New York Times, The New Yorker and Harpers Magazine. He is a regular contributor to Rolling Stone."
+#   thumbnailUrl: Scott-Spencer.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 76
   name: "Rena"
@@ -1390,20 +1390,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 105
-  name: "Anne"
-  surname: "Strainchamps"
-  #company: ""
-  title: "Moderator"
-  bio: "host and cofounder of Wisconsin Public Radio's To The Best Of Our Knowledge, she has been a featured interviewer on the program for more than a decade. She has worked in public broadcasting at WAMU in Washington, DC, and at NPR, as a reporter, producer, news director, live talk show host, a food and wine columnist, and—in a former life—was a chocolatier."
-  thumbnailUrl: aanne-strainchamps.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 105
+#   name: "Anne"
+#   surname: "Strainchamps"
+#   #company: ""
+#   title: "Moderator"
+#   bio: "host and cofounder of Wisconsin Public Radio's To The Best Of Our Knowledge, she has been a featured interviewer on the program for more than a decade. She has worked in public broadcasting at WAMU in Washington, DC, and at NPR, as a reporter, producer, news director, live talk show host, a food and wine columnist, and—in a former life—was a chocolatier."
+#   thumbnailUrl: aanne-strainchamps.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 42
   name: "Evan"
@@ -1418,20 +1418,20 @@
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}
--
-  id: 43
-  name: "Peter"
-  surname: "Straub"
-  #company: ""
-  #title: "Novelist and poet"
-  bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
-  thumbnailUrl: Peter-Straub.jpg
-  rockstar: true
-  #ribbon:
-    #- {abbr: "", title: "", url: ""}
-  # social:
-  #   - {name: "google-plus", link: ""}
-  #   - {name: "site", link: ""}
+# -
+#   id: 43
+#   name: "Peter"
+#   surname: "Straub"
+#   #company: ""
+#   #title: "Novelist and poet"
+#   bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
+#   thumbnailUrl: Peter-Straub.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 119
   name: "Mary"

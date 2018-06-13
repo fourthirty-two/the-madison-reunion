@@ -406,17 +406,17 @@
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 040
-  title: "Madison and After: Becoming a Writer"
-  description: "a writers' workshop"
-  subtype: Writing 503
-  speakers: [40, 43, 23]
-  moderators: [105]
-  #language: en
-  #complexity: "Expert"
-  ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 040
+#   title: "Madison and After: Becoming a Writer"
+#   description: "a writers' workshop"
+#   subtype: Writing 503
+#   speakers: [40, 43, 23]
+#   moderators: [105]
+#   #language: en
+#   #complexity: "Expert"
+#   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 041
   title: "Mowtown on the Terrace"
