@@ -64,7 +64,7 @@
   title: "The Legacy of George Mosse"
   description: ""
   subtype: History 302
-  speakers: [69, 70, 7]
+  speakers: [69, 70, 7, 123]
   moderators: [45]
   #language: en
   #complexity: "Expert"
@@ -282,10 +282,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 028
-  title: "More Groucho than Karl: Jazz and Fudge Bottom Pie;"
-  description: "a fine old Friday afternoon Union tradition, up from the Rat with the Paul Hastil Trio."
+  title: "From '60s Madison to Hollywood Today"
+  description: "Two film-makers discuss the path"
   subtype: Science 101
-  # speakers: [49]
+  speakers: [123, 119]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

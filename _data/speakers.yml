@@ -1,4 +1,4 @@
-#highest number 122
+#highest number 123
 -
   id: 5
   name: "Jim"
@@ -764,6 +764,20 @@
   #title: ""
   bio: "Served in the Wisconsin State Assembly from 1977 until 1991 and was speaker of the Assembly; he was then appointed by president Bill Clinton to be United States Ambassador to Norway where he served until 1997; in 2005, he was appointed by Wisconsin Governor Jim Doyle to the University of Wisconsin System Board of Regents."
   thumbnailUrl: tom-loftus.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 123
+  name: "Michael"
+  surname: "Mann"
+  #company: ""
+  #title: ""
+  bio: "Michael Mann; an American film director, screenwriter, and producer of film and television who is best known for his distinctive brand of stylized crime drama. For his work, he has received nominations from international organizations and juries, including those at the British Academy of Film and Television Arts, Cannes and the Academy of Motion Picture Arts and Sciences. His most acclaimed works are the crime film Heat (1995) and the docudrama The Insider (1999)."
+  thumbnailUrl: michael-mann.jpg
   rockstar: true
   #ribbon:
     #- {abbr: "", title: "", url: ""}
