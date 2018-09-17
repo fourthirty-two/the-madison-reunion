@@ -9,10 +9,13 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h2>{{ heroText[0] }} <br>
               <!--span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span-->{{ heroText[1] }}</h2>
+              <p>{{ site.eventDate }}</p>
             <p style="width:50%; margin: 20px auto; line-height: 1.25em;">
-              The Madison Reunion hosted over 1000 people for three days of music, meet-ups and deep diving into topics of meaning and importance. We are happy to share these videos of our panels with you (more  on the way.)  Click Here
+              The Madison Reunion hosted over 1000 people for three days of music, meet-ups and deep diving into topics of meaning and importance. We are happy to share these videos of our panels with you (more  on the way.)
             </p>
-            <p>{{ site.eventDate }}</p>
+            <p>
+              <a href="/videos/" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>Watch Videos Here</a>
+            </p>
             <!-- {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %} -->
