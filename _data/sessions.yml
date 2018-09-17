@@ -37,7 +37,7 @@
   #language: en
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "https://player.vimeo.com/video/289139014"
+  #video: "https://player.vimeo.com/video/289139014"
 -
   id: 005
   title: "Taking It To The Streets"
@@ -58,7 +58,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289015504"
+  #video: "https://player.vimeo.com/video/289015504"
 -
   id: 007
   title: "The Legacy of George Mosse"
@@ -69,7 +69,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/288892206"
+  #video: "https://player.vimeo.com/video/288892206"
 -
   id: 008
   title: "The Legacy of Gerda Lerner"
@@ -90,7 +90,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289389436"
+  #video: "https://player.vimeo.com/video/289389436"
 -
   id: 010
   title: "The Politics of Resentment"
@@ -101,7 +101,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289366060"
+  #video: "https://player.vimeo.com/video/289366060"
 -
   id: 011
   title: "Tikkun Olam"
@@ -112,7 +112,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/288898624"
+  #video: "https://player.vimeo.com/video/288898624"
 -
   id: 012
   title: "The Rise of the Right Wing"
@@ -133,7 +133,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289163041"
+  #video: "https://player.vimeo.com/video/289163041"
 -
   id: 014
   title: "Capturing the Truth: Documentary Films"
@@ -144,7 +144,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289523159"
+  #video: "https://player.vimeo.com/video/289523159"
 -
   id: 015
   title: "The War at Home"
@@ -166,7 +166,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289283759"
+  #video: "https://player.vimeo.com/video/289283759"
 -
   id: 017
   title: "Peter Pan and Virginia Woolf"
@@ -268,7 +268,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289209185"
+  #video: "https://player.vimeo.com/video/289209185"
 -
   id: 027
   title: "We Gotta Get Out of This Place"
@@ -279,7 +279,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289081513"
+  #video: "https://player.vimeo.com/video/289081513"
 -
   id: 028
   title: "From '60s Madison to Hollywood Today"
@@ -289,7 +289,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289254661"
+  #video: "https://player.vimeo.com/video/289254661"
 -
   id: 029
   title: "Social Activism and the Science of Kindness"
@@ -321,7 +321,7 @@
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289207803"
+  #video: "https://player.vimeo.com/video/289207803"
 -
   id: 032
   title: "Civil Rights, Social Justice and the Law"
@@ -449,7 +449,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289102450"
+  #video: "https://player.vimeo.com/video/289102450"
 # -
 #   id: 044
 #   title: "The Writer's Workshop"
@@ -470,7 +470,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289466583"
+  #video: "https://player.vimeo.com/video/289466583"
 -
   id: 046
   title: "Searching for the Maharishi Within"
@@ -481,7 +481,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289265509"
+  #video: "https://player.vimeo.com/video/289265509"
 -
   id: 047
   title: "What Madison Meant to the Movement"
@@ -523,7 +523,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289482012"
+  #video: "https://player.vimeo.com/video/289482012"
 -
   id: 051
   title: "Why We Get High"
@@ -534,7 +534,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/288800404"
+  #video: "https://player.vimeo.com/video/288800404"
 -
   id: 052
   title: "Open Mic: Stories From the Trenches"
@@ -555,7 +555,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289346189"
+  #video: "https://player.vimeo.com/video/289346189"
 -
   id: 054
   title: "William Appelman Williams, Studies on the Left and Radical America"
@@ -577,7 +577,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289165201"
+  #video: "https://player.vimeo.com/video/289165201"
 -
   id: 056
   title: "Radical Pedagogy"
@@ -588,7 +588,7 @@
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "https://player.vimeo.com/video/289413589"
+  #video: "https://player.vimeo.com/video/289413589"
 -
   id: 057
   title: "The Raindance Experience"
