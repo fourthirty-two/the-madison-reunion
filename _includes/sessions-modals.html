@@ -20,7 +20,8 @@
 						{% endif %}
 						{% if session.video %}
 						<div id="movie-area" class="theme-video embed-responsive embed-responsive-16by9">
-						    <iframe class="embed-responsive-item" src="{{ session.video }}?quality=720p" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+                <a class="embed-responsive-item" style="display: block; text-align: center; padding-top: 25%;" href="{{ session.video }}">&#9658; Watch Video</a>
 						</div>
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
