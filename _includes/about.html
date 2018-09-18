@@ -15,9 +15,7 @@
                     <a href="/panels-list/" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>Watch The Videos</a>
                   </p>
                   <hr>
-                  <p class="lead">
-                    {{ site.aboutDescription }}
-                  </p>
+
                 </div>
 
                 {% assign animationDelay = 0 %}
@@ -25,15 +23,18 @@
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12">
                   <div class="well well-lg">
+                    <p class="lead">
+                      {{ site.aboutDescription }}
+                    </p>
 
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                       <h5>The Madison Reunion Comic</h5>
-                      <div class="theme-video embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1FpEzzD0xBhsHzEHhSITM3sAGyJAEqu4R/preview" width="640" height="480"></iframe>
-                      </div>
+                      <a href="https://drive.google.com/file/d/1FpEzzD0xBhsHzEHhSITM3sAGyJAEqu4R/view">
+                        <img style="width:100%;" src="/img/comic-page.png" alt="">
+                      </a>
                     </div>
                     <p class="" style="    margin-top: 20px; margin-left: 10px;">
-                      <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
+                      <a href="https://drive.google.com/file/d/1FpEzzD0xBhsHzEHhSITM3sAGyJAEqu4R/view" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
                     </p>
 
                   </div>
