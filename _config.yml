@@ -44,13 +44,13 @@ registerLink: "https://goo.gl/forms/l8qIEsZZshAn1VhQ2"
 # Navigation
 navigationLinks:
  #- {permalink: "/", text: "Home"}
- - {permalink: "/reunion", text: "Reunion"}
+ # - {permalink: "/reunion", text: "Reunion"}
  # - {permalink: "/schedule", text: "Conference Shedule"}
  # - {permalink: "/panels-list", text: "Conference Panels"}
  # - {permalink: "/speakers", text: "Conference Panelists"}
- - {permalink: "/hotels", text: "Hotels"}
- - {permalink: "https://goo.gl/forms/l8qIEsZZshAn1VhQ2", text: "Register"}
- - {permalink: "/ticketed-events", text: "Ticketed Events"}
+ - {permalink: "/videos/", text: "Videos"}
+ #- {permalink: "https://goo.gl/forms/l8qIEsZZshAn1VhQ2", text: "Register"}
+ #- {permalink: "/ticketed-events", text: "Ticketed Events"}
  - {permalink: "mailto:info@madisonreunion.com", text: "Contact"}
 bottomNavigationLinks:
  #- {link: "", text: "Become a speaker"}
