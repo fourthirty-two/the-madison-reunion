@@ -10,7 +10,7 @@
                   </p>
                 </div>
 
-                <!-- {% assign animationDelay = 0 %}
+                {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12">
@@ -18,12 +18,9 @@
 
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                       <h5>{{ about.title }}</h5>
-                      <p class="about-disc">{{ about.disclaimer }}</p><br>
-                      <img class="img" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="auto" alt="{{ about.title }}">
-                      <p class="about-desc" style="text-align:left;">{{ about.text }}</p>
-                      <p class="about-menus text-left">
-                        {{ about.menus }}
-                      </p>
+                      <div class="theme-video embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1FpEzzD0xBhsHzEHhSITM3sAGyJAEqu4R/preview" width="640" height="480"></iframe>
+                      </div>
                     </div>
                     <p class="text-left" style="margin-left: 10px;">
                       <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
@@ -35,7 +32,7 @@
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %} -->
+                {% endfor %}
 
                 <!-- <div class="share-home col-xs-12">
                   <p><b>Share this</b></p>
