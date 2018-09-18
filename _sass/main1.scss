@@ -56,3 +56,9 @@ iframe.embed-responsive-item.fb-video-home {
 #movie-area {
 	background: black;
 }
+// video buttons
+.post-body ul li a {
+  @extend .btn;
+  @extend .btn-primary;
+  margin-top: 10px;
+}
