@@ -1,13 +1,13 @@
 -
   id: 001
   title: "The Illustrated Sixties:"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: History 101
   speakers: [25]
   moderators: [97]
   #language: en
   #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290076643"
 -
   id: 002
   title: "SDS; Three personal memoirs"
@@ -148,14 +148,14 @@
 -
   id: 015
   title: "The War at Home"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: Film 102
   speakers: [37, 42, 67, 50]
   moderators: [118]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290725665"
 -
   id: 016
   title: "What's so Funny About Madison?"
@@ -170,14 +170,14 @@
 -
   id: 017
   title: "Peter Pan and Virginia Woolf"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: Theater 101
   speakers: [102, 107, 113]
   moderators: [103]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290618522"
 -
   id: 018
   title: "The Legacy of Gilbert Helmsley"
@@ -303,14 +303,14 @@
 -
   id: 030
   title: "Conscientious Objection"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: Social Studies 101
   speakers: [15, 20, 32]
   moderators: [34]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290404270"
 -
   id: 031
   title: "The Beginning of the LGBT Movement"
@@ -325,14 +325,14 @@
 -
   id: 032
   title: "Civil Rights, Social Justice and the Law"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: Social Studies 104
   speakers: [41, 62]
   moderators: [99]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290615818"
 # -
 #   id: 033
 #   title: "Our Bodies Ourselves"
@@ -398,14 +398,14 @@
 -
   id: 039
   title: "Beyond Zap: The History of the Graphic Novel"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: History 503
   speakers: [10, 39]
   moderators: [46]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290068499"
 -
   id: 040
   title: "Zen for Beginners"
@@ -505,14 +505,14 @@
 -
   id: 049
   title: "Freedom Riding"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   subtype: History 102
   speakers: [63, 75]
   moderators: [60]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290701313"
 -
   id: 050
   title: "What's Left of the Wisconsin Idea"
