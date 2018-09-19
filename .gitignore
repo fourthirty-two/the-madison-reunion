@@ -2,5 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .DS_Store
+files/madcomic.pdf
+files/madcomic.zip
 
 s3_website.yml
