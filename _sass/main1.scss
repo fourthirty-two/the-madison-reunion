@@ -54,7 +54,9 @@ iframe.embed-responsive-item.fb-video-home {
   }
 }
 #movie-area {
-	background: black;
+	background: url(/img/other/modal-bg-video-img.jpg);
+  background-size: cover;
+  a {color: #fff;}
 }
 // video buttons
 .post-body ul li a {
