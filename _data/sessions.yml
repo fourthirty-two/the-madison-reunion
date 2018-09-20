@@ -286,6 +286,7 @@
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: Science 101
   speakers: [123, 119]
+  moderators: [124]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
