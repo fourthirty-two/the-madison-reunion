@@ -40,18 +40,19 @@ li#session-48 {
                                                     {% if session_speaker == speaker.id %}
 
                                                     <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a>,
-                                                        <!-- <span class="speaker-position">{{ speaker.title }}</span> -->
+
 
 
                                                     {% endif %}
                                                 {% endfor %}
                                             {% endfor %}
-                                            <br>
+                                            
                                             {% for speaker in site.data.speakers %}
                                             {% for session_moderator in session.moderators %}
                                             {% if session_moderator == speaker.id %}
 
                                             <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a> <small>(Moderator)</small>.
+
 
 
 
