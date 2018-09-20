@@ -10,7 +10,7 @@
   video: "https://vimeo.com/290076643"
 -
   id: 002
-  title: "SDS; Three personal memoirs"
+  title: "SDS; Three personal memoirs;"
   description: ""
   #subtype:
   speakers: []
@@ -20,7 +20,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Vietnam and the Anti War Movement"
+  title: "Vietnam and the Anti War Movement;"
   description: ""
   #subtype: History 201
   speakers: []
@@ -40,7 +40,7 @@
   video: "https://vimeo.com/289139014"
 -
   id: 005
-  title: "Taking It To The Streets"
+  title: "Taking It To The Streets;"
   description: ""
   #subtype: History 204
   speakers: []
@@ -72,7 +72,7 @@
   video: "https://vimeo.com/288892206"
 -
   id: 008
-  title: "The Legacy of Gerda Lerner"
+  title: "The Legacy of Gerda Lerner;"
   description: ""
   #subtype: History 303
   #speakers: []
@@ -115,7 +115,7 @@
   video: "https://vimeo.com/288898624"
 -
   id: 012
-  title: "The Rise of the Right Wing"
+  title: "The Rise of the Right Wing;"
   description: ""
   #subtype: History 501
   speakers: [24]
@@ -180,7 +180,7 @@
   video: "https://vimeo.com/290618522"
 -
   id: 018
-  title: "The Legacy of Gilbert Helmsley"
+  title: "The Legacy of Gilbert Helmsley;"
   description: ""
   #subtype: Theater 102
   speakers: []
@@ -230,7 +230,7 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 023
-  title: "Keep On Truckin"
+  title: "Keep On Truckin;"
   description: ""
   #subtype: Journalism 202
   speakers: []
@@ -240,7 +240,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 024
-  title: "Madison Music Scene in the 60s"
+  title: "Madison Music Scene in the 60s;"
   description: ""
   #subtype: Music 101
   speakers: []
@@ -250,7 +250,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 025
-  title: "Discount Records; Retail as Revolution"
+  title: "Discount Records; Retail as Revolution;"
   description: ""
   #subtype: Music 102
   speakers: []
@@ -282,7 +282,7 @@
   video: "https://vimeo.com/289081513"
 -
   id: 028
-  title: "From '60s Madison to Hollywood Today"
+  title: "From '60s Madison to Hollywood Today;"
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: Science 101
   speakers: [123, 119]
@@ -293,7 +293,7 @@
   video: "https://vimeo.com/289254661"
 -
   id: 029
-  title: "Social Activism and the Science of Kindness"
+  title: "Social Activism and the Science of Kindness;"
   description: ""
   #subtype: Psych 101
   speakers: []
@@ -346,7 +346,7 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 034
-  title: "Theories of Conspiracy"
+  title: "Theories of Conspiracy;"
   description: ""
   #subtype: Social Studies 203
   speakers: []
@@ -356,7 +356,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 035
-  title: "The Romance Of It All"
+  title: "The Romance Of It All;"
   description: ""
   #subtype: English Lit. 301
   speakers: []
@@ -366,7 +366,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 036
-  title: "The Poetry Of It All"
+  title: "The Poetry Of It All;"
   description: ""
   #subtype: English Lit. 302
   speakers: []
@@ -376,7 +376,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 037
-  title: "The Horror Of It All"
+  title: "The Horror Of It All;"
   description: ""
   #subtype: English Lit. 303
   speakers: []
@@ -386,7 +386,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 038
-  title: "Jam Session In The Rat"
+  title: "Jam Session In The Rat;"
   place: Rathskeller
   service: true
   description: ""
@@ -463,7 +463,7 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
-  title: "Growing Up Madison"
+  title: "Growing Up Madison;"
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: Writing 503
   speakers: [59, 74, 83, 120]
@@ -485,7 +485,7 @@
   video: "https://vimeo.com/289265509"
 -
   id: 047
-  title: "What Madison Meant to the Movement"
+  title: "What Madison Meant to the Movement;"
   description: ""
   # #subtype: Psychology
   speakers: []
@@ -516,7 +516,7 @@
   video: "https://vimeo.com/290701313"
 -
   id: 050
-  title: "What's Left of the Wisconsin Idea"
+  title: "What's Left of the Wisconsin Idea;"
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: History 102
   speakers: [65, 73]
@@ -538,7 +538,7 @@
   video: "https://vimeo.com/288800404"
 -
   id: 052
-  title: "Open Mic: Stories From the Trenches"
+  title: "Open Mic: Stories From the Trenches;"
   description: ""
   #subtype: History 102
   speakers: [58]
@@ -559,7 +559,7 @@
   video: "https://vimeo.com/289346189"
 -
   id: 054
-  title: "William Appelman Williams, Studies on the Left and Radical America"
+  title: "William Appelman Williams, Studies on the Left and Radical America;"
   description: ""
   #subtype: Theater 102
   speakers: [86, 87, 108]
@@ -570,7 +570,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 055
-  title: "The Daily Cardinal"
+  title: "The Daily Cardinal;"
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: History 102
   speakers: [18, 19, 76, 88, 80]
@@ -581,7 +581,7 @@
   video: "https://vimeo.com/289165201"
 -
   id: 056
-  title: "Radical Pedagogy"
+  title: "Radical Pedagogy;"
   description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: History 102
   speakers: [82, 84, 93, 94, 106]
@@ -592,7 +592,7 @@
   video: "https://vimeo.com/289413589"
 -
   id: 057
-  title: "The Raindance Experience"
+  title: "The Raindance Experience;"
   description: ""
   #subtype: History 102
   speakers: [81]
