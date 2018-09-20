@@ -25,7 +25,9 @@
 										{% endif %}
 										{% if session.video %}
 										<div id="movie-area" class="theme-video embed-responsive embed-responsive-16by9">
-										    <a class="embed-responsive-item" style="display: block; text-align: center; padding-top: 25%;" href="{{ session.video }}">&#9658; Watch Video</a>
+										    <a class="embed-responsive-item" style="display: block; text-align: center; padding-top: 25%;" href="{{ session.video }}">
+                          <img src="/img/other/play-button.png" style="height: 25%;" alt="">
+                        </a>
 										</div>
 										{% endif %}
 										<p class="theme-description">{{ session.subtype }}</p>
