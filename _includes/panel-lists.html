@@ -1,6 +1,8 @@
 <!-- Begin Schedule Section -->
 <style>
-li#session-0 {
+li#session-0,
+li#session-32,
+li#session-48 {
     display: none;
 }
 </style>
@@ -54,7 +56,7 @@ li#session-0 {
                                                 {% endfor %}
                                             {% endfor %}
                                             <br>
-                                            <a href="{{ session.video }}">{{ session.description }}</a>
+                                            <a class="btn btn-link" style="margin-top: 10px;" href="{{ session.video }}">{{ session.description }}</a>
                                 </li>
                                 {% elsif slot == session.id and session.service != null %}{% endif %}
                             {% endfor %}
