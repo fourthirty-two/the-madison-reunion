@@ -45,15 +45,18 @@ li#session-48 {
 
                                                     {% endif %}
                                                 {% endfor %}
-                                                {% for session_moderator in session.moderators %}
-                                                    {% if session_moderator == speaker.id %}
+                                            {% endfor %}
+                                            <br>
+                                            {% for speaker in site.data.speakers %}
+                                            {% for session_moderator in session.moderators %}
+                                            {% if session_moderator == speaker.id %}
 
-                                                    <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a> <small>(Moderator)</small>,
+                                            <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a> <small>(Moderator)</small>.
 
 
 
-                                                    {% endif %}
-                                                {% endfor %}
+                                            {% endif %}
+                                            {% endfor %}
                                             {% endfor %}
                                             <br>
                                             <a class="btn btn-link" style="margin-top: 10px;" href="{{ session.video }}">{{ session.description }}</a>
