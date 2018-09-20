@@ -1,0 +1,82 @@
+<!-- Begin Schedule Section -->
+<style>
+li#session-0 {
+    display: none;
+}
+</style>
+<section id="list" class="schedule">
+
+
+    <div class="content-wrapper">
+
+      <div class="schedule-list-section" style="display: block; float: left; margin-bottom: 61px; margin-top: 30px;">
+
+        <div class="col-lg-8 col-md-10 col-md-offset-1" style="text-align:left;">
+
+          <ul>
+        {% for day in site.data.schedule %}
+
+
+            {% for timeslot in day.timeslots %}
+
+
+                    {% for slot in timeslot.sessionIds %}
+                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                        {% assign slotIndex = forloop.index0 %}
+                        {% if slot != 404 %}
+                            {% for session in site.data.sessions %}
+                                {% if slot == session.id and session.service == null %}
+                                <li id="session-{{ session.id }}" class="col-xs-12 flexbox-item-height">
+
+
+                                        <b>{{ session.title }}</b> {{ session.subtype }} {{session.language | upcase}} with
+
+
+
+                                            {% for speaker in site.data.speakers %}
+                                                {% for session_speaker in session.speakers %}
+                                                    {% if session_speaker == speaker.id %}
+
+                                                    <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a>,
+                                                        <!-- <span class="speaker-position">{{ speaker.title }}</span> -->
+
+
+                                                    {% endif %}
+                                                {% endfor %}
+                                                {% for session_moderator in session.moderators %}
+                                                    {% if session_moderator == speaker.id %}
+
+                                                    <a href="#" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">{{ speaker.name }} {{ speaker.surname }}</a> <small>(Moderator)</small>,
+
+
+
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% endfor %}
+                                            <br>
+                                            <a href="{{ session.video }}">{{ session.description }}</a>
+                                </li>
+                                {% elsif slot == session.id and session.service != null %}{% endif %}
+                            {% endfor %}
+                        {% else %}
+
+                        {% endif %}
+                    {% endfor %}
+
+
+            {% endfor %}
+
+        {% endfor %}
+</ul>
+
+
+<br>
+<br>
+
+</div>
+</div>
+
+
+</div>
+</section>
+<!-- End Schedule Section -->
