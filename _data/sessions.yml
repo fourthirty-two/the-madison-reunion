@@ -560,14 +560,14 @@
 -
   id: 054
   title: "William Appelman Williams, Studies on the Left and Radical America;"
-  description: ""
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
   #subtype: Theater 102
   speakers: [86, 87, 108]
   moderators: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290716868"
 -
   id: 055
   title: "The Daily Cardinal;"
