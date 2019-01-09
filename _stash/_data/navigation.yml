@@ -1,7 +1,0 @@
-# remember to remove hashtag from the include 'navigation.html' when ready.
-- name: About
-  link: learn-more
-- name: Panels
-  link: plan
-- name: Where & When
-  link: history
