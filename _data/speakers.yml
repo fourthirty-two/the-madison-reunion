@@ -1,4 +1,4 @@
-#highest number 123
+#highest number 124
 -
   id: 5
   name: "Jim"
@@ -53,6 +53,20 @@
   rockstar: true
   ribbon:
     - {abbr: "MC", title: "The Daily Cardinal", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 124
+  name: "David"
+  surname: "Bordwell"
+  company: ""
+  title: "Moderator"
+  #bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
+  thumbnailUrl: speaker-default.png
+  #rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "The Daily Cardinal", url: ""}
   # social:
   #   - {name: "google-plus", link: ""}
   #   - {name: "site", link: ""}

@@ -1,40 +1,45 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
-      <!-- <div class="row">
-        <div class="col-md-6 col-md-offset-3">
-          <div class="embed-responsive embed-responsive-16by9" style="margin-top: 40px;">
-            <iframe class="embed-responsive-item fb-video-home" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbensidranpage%2Fvideos%2F10159803294225201%2F&width=500&show_text=false&appId=235500563131804&height=280" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-          </div><br><br>
-        </div>
-      </div> -->
+
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row about-details">
                 <div class="col-xs-12">
                   <p class="lead">
-                    {{ site.aboutDescription }}
+                    The Madison Reunion was a "together again for the first time" gathering on June 14 - 16, 2018, at the (newly-renovated) Memorial Union and at venues on campus and around town.
                   </p>
+                  <p class="lead">
+                    The Reunion hosted 1000 people for three days of music, meet-ups and deep diving into topics of meaning and importance at the Conference on Madison in the 60's.
+                  </p>
+                  <p class="lead">
+                    We are happy to announce the posting of videos of all panels from the conference – more than 40 hours capturing topics from war to comedy, music to history, journalism to theater and beyond.
+                  </p>
+                  <p>
+                    <a href="/panels-list/" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>Watch The Videos</a>
+                  </p>
+                  <hr>
+
                 </div>
-                <!-- <div style="margin-bottom: 40px;" class="page-header col-xs-12">
-                  <h5>The <b>Reunion</b> is free and open to all; the <b>Conference</b> is by registration only.</h5>
-                </div> -->
+
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12">
                   <div class="well well-lg">
-
+                    <p class="lead">
+                      They say, "If you remember it, you weren't there," but most of us who passed through Madison in the '60s have deep and lasting memories of the time and place.
+                    </p>
+                    <p class="lead">
+                      But nobody could have experienced it all and so this bird’s-eye graphic history served as part of the program for the <i>Conference on Madison in the 60's.</i>
+                    </p>
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                      <h5>{{ about.title }}</h5>
-                      <p class="about-disc">{{ about.disclaimer }}</p><br>
-                      <img class="img" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="auto" alt="{{ about.title }}">
-                      <p class="about-desc" style="text-align:left;">{{ about.text }}</p>
-                      <p class="about-menus text-left">
-                        {{ about.menus }}
-                      </p>
+                      <!-- <h5>The Madison Reunion Comic</h5> -->
+                      <a href="https://drive.google.com/file/d/0ByfNQynp7vYkMnNESVkwQ0lWYWM2R2lwc2E4RXZ2eGFkOVdV/view">
+                        <img style="width:100%;" src="/img/comic-page.jpg" alt="">
+                      </a>
                     </div>
-                    <p class="text-left" style="margin-left: 10px;">
-                      <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
+                    <p class="" style="margin-bottom: 20px; margin-top: 20px; margin-left: 10px;">
+                      <a href="https://drive.google.com/file/d/0ByfNQynp7vYkMnNESVkwQ0lWYWM2R2lwc2E4RXZ2eGFkOVdV/view" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
                     </p>
 
                   </div>

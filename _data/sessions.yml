@@ -1,18 +1,18 @@
 -
   id: 001
   title: "The Illustrated Sixties:"
-  description: "A slide show of the decade's greatest hits, on campus and off."
-  subtype: History 101
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: A slide show of the decade's greatest hits, on campus and off,
   speakers: [25]
   moderators: [97]
   #language: en
   #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290076643"
 -
   id: 002
-  title: "SDS; Three personal memoirs"
-  description: "Three personal memoirs."
-  subtype: History 102
+  title: "SDS; Three personal memoirs;"
+  description: ""
+  #subtype:
   speakers: []
   #language: en
   #complexity: "Intermediate"
@@ -20,29 +20,29 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Vietnam and the Anti War Movement"
+  title: "Vietnam and the Anti War Movement;"
   description: ""
-  subtype: History 201
+  #subtype: History 201
   speakers: []
   #language: en
   #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "The Day of DOW"
-  description: ""
-  subtype: History 203
+  title: "The Day of DOW;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 203
   speakers: [38, 75, 78]
   moderators: [95]
   #language: en
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289139014"
 -
   id: 005
-  title: "Taking It To The Streets"
+  title: "Taking It To The Streets;"
   description: ""
-  subtype: History 204
+  #subtype: History 204
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -50,31 +50,31 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
-  title: "Talking Harvey Goldberg"
-  description: ""
-  subtype: History 301
+  title: "Talking Harvey Goldberg;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 301
   speakers: [54, 3, 78, 89]
   moderators: [121]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289015504"
 -
   id: 007
-  title: "The Legacy of George Mosse"
-  description: ""
-  subtype: History 302
+  title: "The Legacy of George Mosse;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 302
   speakers: [69, 70, 7, 123]
   moderators: [45]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/288892206"
 -
   id: 008
-  title: "The Legacy of Gerda Lerner"
+  title: "The Legacy of Gerda Lerner;"
   description: ""
-  subtype: History 303
+  #subtype: History 303
   #speakers: []
   #language: en
   #complexity: "Expert"
@@ -82,42 +82,42 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
-  title: "Earth Day"
-  description: "The Legacy of Gaylord Nelson and its origins in the social protest movement of the '60s"
-  subtype: History 401
+  title: "Earth Day;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: The Legacy of Gaylord Nelson and its origins in the social protest movement of the '60s,
   speakers: [30, 57]
   moderators: [98]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289389436"
 -
   id: 010
-  title: "The Politics of Resentment"
-  description: "Looking for the Wisconsin Idea in the idea of Wisconsin"
-  subtype: History 402
+  title: "The Politics of Resentment;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Looking for the Wisconsin Idea in the idea of Wisconsin
   speakers: [12, 120]
   moderators: [95]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289366060"
 -
   id: 011
-  title: "Tikkun Olam"
-  description: "Why Madison was a magnet for the Jewish Diaspora during the 20th century."
-  subtype: History 403
+  title: "Tikkun Olam;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Why Madison was a magnet for the Jewish Diaspora during the 20th century,
   speakers: [33, 71, 69]
   moderators: [100]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/288898624"
 -
   id: 012
-  title: "The Rise of the Right Wing"
+  title: "The Rise of the Right Wing;"
   description: ""
-  subtype: History 501
+  #subtype: History 501
   speakers: [24]
   #language: en
   #complexity: "Expert"
@@ -125,64 +125,64 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
-  title: "Roots of the Women’s Movement"
-  description: ""
-  subtype: History 502
+  title: "Roots of the Women’s Movement;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 502
   speakers: [44, 76]
   moderators: [51]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289163041"
 -
   id: 014
-  title: "Capturing the Truth: Documentary Films"
-  description: ""
-  subtype: Film 101
+  title: "Capturing the Truth: Documentary Films;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Film 101
   speakers: [52, 119]
   moderators: [122]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289523159"
 -
   id: 015
-  title: "The War at Home"
-  description: ""
-  subtype: Film 102
+  title: "The War at Home;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Film 102
   speakers: [37, 42, 67, 50]
   moderators: [118]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290725665"
 -
   id: 016
   title: "What's so Funny About Madison?"
-  description: "The Comedy Connection"
-  subtype: Film 201
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: The Comedy Connection,
   speakers: [5, 6]
   moderators: [111]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289283759"
 -
   id: 017
-  title: "Peter Pan and Virginia Woolf"
-  description: "Madison's radical theater tradition"
-  subtype: Theater 101
+  title: "Peter Pan and Virginia Woolf;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Madison's radical theater tradition,
   speakers: [102, 107, 113]
   moderators: [103]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290618522"
 -
   id: 018
-  title: "The Legacy of Gilbert Helmsley"
+  title: "The Legacy of Gilbert Helmsley;"
   description: ""
-  subtype: Theater 102
+  #subtype: Theater 102
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -192,7 +192,7 @@
 #   id: 019
 #   title: "The News as History"
 #   description: "What we knew and when we knew it"
-#   subtype: Journalism 101
+#   #subtype: Journalism 101
 #   speakers: [19]
 #   #language: en
 #   #complexity: "Expert"
@@ -202,7 +202,7 @@
 #   id: 020
 #   title: "History as News"
 #   description: "What we knew and how we knew it"
-#   subtype: Journalism 102
+#   #subtype: Journalism 102
 #   speakers: [27]
 #   #language: en
 #   #complexity: "Expert"
@@ -212,7 +212,7 @@
 #   id: 021
 #   title: "Network News"
 #   description: "What was the unblinking eye looking for"
-#   subtype: Journalism 102
+#   #subtype: Journalism 102
 #   speakers: [7]
 #   #language: en
 #   #complexity: "Expert"
@@ -222,7 +222,7 @@
 #   id: 022
 #   title: "Theories of Conspiracy"
 #   description: "From the Kennedy Assassination to Russiagate; what was once unthinkable is now on everybody's mind."
-#   subtype: Journalism 201
+#   #subtype: Journalism 201
 #   speakers: [21]
 #   #language: en
 #   #complexity: "Expert"
@@ -230,9 +230,9 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 023
-  title: "Keep On Truckin"
+  title: "Keep On Truckin;"
   description: ""
-  subtype: Journalism 202
+  #subtype: Journalism 202
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -240,9 +240,9 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 024
-  title: "Madison Music Scene in the 60s"
+  title: "Madison Music Scene in the 60s;"
   description: ""
-  subtype: Music 101
+  #subtype: Music 101
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -250,9 +250,9 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 025
-  title: "Discount Records; Retail as Revolution"
+  title: "Discount Records; Retail as Revolution;"
   description: ""
-  subtype: Music 102
+  #subtype: Music 102
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -260,41 +260,42 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 026
-  title: "Ecstasy and the Meaning of the Blues"
-  description: "The neurological connection between altered states and digging the music"
-  subtype: Music 201
+  title: "Ecstasy and the Meaning of the Blues;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: The neurological connection between altered states and digging the music,
   speakers: [26]
   moderators: [3]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289209185"
 -
   id: 027
-  title: "We Gotta Get Out of This Place"
-  description: "How music kept them alive in Vietnam"
-  subtype: Music 203
+  title: "We Gotta Get Out of This Place;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: How music kept them alive in Vietnam
   speakers: [48, 77]
   moderators: [96]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289081513"
 -
   id: 028
-  title: "From '60s Madison to Hollywood Today"
-  description: "Two film-makers discuss the path"
-  subtype: Science 101
+  title: "From '60s Madison to Hollywood Today;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Science 101
   speakers: [123, 119]
+  moderators: [124]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289254661"
 -
   id: 029
-  title: "Social Activism and the Science of Kindness"
+  title: "Social Activism and the Science of Kindness;"
   description: ""
-  subtype: Psych 101
+  #subtype: Psych 101
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -302,42 +303,42 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 030
-  title: "Conscientious Objection"
-  description: "Not in my name"
-  subtype: Social Studies 101
+  title: "Conscientious Objection;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Not in my name,
   speakers: [15, 20, 32]
   moderators: [34]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290404270"
 -
   id: 031
-  title: "The Beginning of the LGBT Movement"
-  description: ""
-  subtype: Social Studies 102
+  title: "The Beginning of the LGBT Movement;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Social Studies 102
   speakers: [64, 109, 110]
   moderators: [47]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289207803"
 -
   id: 032
-  title: "Civil Rights, Social Justice and the Law"
-  description: "Sixty years later, the story that won't go away"
-  subtype: Social Studies 104
+  title: "Civil Rights, Social Justice and the Law;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Sixty years later, the story that won't go away,
   speakers: [41, 62]
   moderators: [99]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290615818"
 # -
 #   id: 033
 #   title: "Our Bodies Ourselves"
 #   description: "Women's Health"
-#   subtype: Social Studies 201
+#   #subtype: Social Studies 201
 #   #speakers: []
 #   #language: en
 #   #complexity: "Expert"
@@ -345,9 +346,9 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 034
-  title: "Theories of Conspiracy"
+  title: "Theories of Conspiracy;"
   description: ""
-  subtype: Social Studies 203
+  #subtype: Social Studies 203
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -355,9 +356,9 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 035
-  title: "The Romance Of It All"
+  title: "The Romance Of It All;"
   description: ""
-  subtype: English Lit. 301
+  #subtype: English Lit. 301
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -365,9 +366,9 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 036
-  title: "The Poetry Of It All"
+  title: "The Poetry Of It All;"
   description: ""
-  subtype: English Lit. 302
+  #subtype: English Lit. 302
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -375,9 +376,9 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 037
-  title: "The Horror Of It All"
+  title: "The Horror Of It All;"
   description: ""
-  subtype: English Lit. 303
+  #subtype: English Lit. 303
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -385,11 +386,11 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 038
-  title: "Jam Session In The Rat"
+  title: "Jam Session In The Rat;"
   place: Rathskeller
   service: true
   description: ""
-  subtype: Music 204
+  #subtype: Music 204
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -397,20 +398,20 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 039
-  title: "Beyond Zap: The History of the Graphic Novel"
-  description: "Serious reading for the child in us all"
-  subtype: History 503
+  title: "Beyond Zap: The History of the Graphic Novel;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Serious reading for the child in us all,
   speakers: [10, 39]
   moderators: [46]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290068499"
 -
   id: 040
   title: "Zen for Beginners"
 #   description: ""
-#   subtype: Writing 503
+#   #subtype: Writing 503
 #   speakers: [40, 43, 23]
 #   moderators: [105]
 #   #language: en
@@ -422,8 +423,8 @@
   title: "Mowtown on the Terrace"
   place: Terrace
   service: true
-  description: "TBA"
-  subtype: Music 205
+  description: ""
+  #subtype: Music 205
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -433,7 +434,7 @@
 #   id: 042
 #   title: "The Rose Bowl ‘63:"
 #   description: "The best of times, the worst of times"
-#   subtype: Music 205
+#   #subtype: Music 205
 #   speakers: []
 #   #language: en
 #   #complexity: "Expert"
@@ -441,20 +442,20 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 043
-  title: "How You Travel Is Who You Are"
-  description: "On the road"
-  subtype: Music 205
+  title: "How You Travel Is Who You Are;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: On the road
   speakers: [18, 85]
   moderators: [28]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289102450"
 # -
 #   id: 044
 #   title: "The Writer's Workshop"
 #   description: ""
-#   subtype: Writing 503
+#   #subtype: Writing 503
 #   speakers: [23]
 #   #language: en
 #   #complexity: "Expert"
@@ -462,31 +463,31 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 045
-  title: "Growing Up Madison"
-  description: "MoveOn, Upworthy and the Makers Movement. The 60s roots of today's social movements"
-  subtype: Writing 503
+  title: "Growing Up Madison;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Writing 503
   speakers: [59, 74, 83, 120]
   moderators: [101]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289466583"
 -
   id: 046
-  title: "Searching for the Maharishi Within"
-  description: "The radical nature of compassion"
-  subtype: Psychology
+  title: "Searching for the Maharishi Within;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: The radical nature of compassion
   speakers: [13]
   moderators: [104]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289265509"
 -
   id: 047
-  title: "What Madison Meant to the Movement"
+  title: "What Madison Meant to the Movement;"
   description: ""
-  # subtype: Psychology
+  # #subtype: Psychology
   speakers: []
   #language: en
   #complexity: "Expert"
@@ -496,7 +497,7 @@
 #   id: 048
 #   title: "The Writer's Workshop"
 #   description: ""
-#   subtype: Writing 503
+#   #subtype: Writing 503
 #   speakers: [43]
 #   #language: en
 #   #complexity: "Expert"
@@ -504,42 +505,42 @@
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 049
-  title: "Freedom Riding"
-  description: "Personal memoirs"
-  subtype: History 102
+  title: "Freedom Riding;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Personal memoirs,
   speakers: [63, 75]
   moderators: [60]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290701313"
 -
   id: 050
-  title: "What's Left of the Wisconsin Idea"
-  description: ""
-  subtype: History 102
+  title: "What's Left of the Wisconsin Idea;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 102
   speakers: [65, 73]
   moderators: [27]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289482012"
 -
   id: 051
-  title: "Why We Get High"
-  description: "Psychopharmacology, from the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions."
-  subtype: History 102
+  title: "Why We Get High;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  subtype: Psychopharmacology, from the pursuit of pleasure to the treatment of pain, from lifestyle choice to end of life decisions,
   speakers: [55, 72, 90, 91]
   moderators: [21]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//player.vimeo.com/video/288263322"
+  video: "https://vimeo.com/288800404"
 -
   id: 052
-  title: "Open Mic: Stories From the Trenches"
+  title: "Open Mic: Stories From the Trenches;"
   description: ""
-  subtype: History 102
+  #subtype: History 102
   speakers: [58]
   #language: en
   #complexity: "Expert"
@@ -547,53 +548,53 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 053
-  title: "The State of the 4th Estate"
-  description: ""
-  subtype: History 102
+  title: "The State of the 4th Estate;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 102
   speakers: [27, 7, 88]
   moderators: [19]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289346189"
 -
   id: 054
-  title: "William Appelman Williams, Studies on the Left and Radical America"
-  description: ""
-  subtype: Theater 102
+  title: "William Appelman Williams, Studies on the Left and Radical America;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: Theater 102
   speakers: [86, 87, 108]
   moderators: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/290716868"
 -
   id: 055
-  title: "The Daily Cardinal"
-  description: ""
-  subtype: History 102
+  title: "The Daily Cardinal;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 102
   speakers: [18, 19, 76, 88, 80]
   moderators: [79]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289165201"
 -
   id: 056
-  title: "Radical Pedagogy"
-  description: "The TAA strike, The Teach In and the Black Students Strike"
-  subtype: History 102
+  title: "Radical Pedagogy;"
+  description: "<img src='/img/other/video-screen-button.jpg'/><br>▶ Watch Video"
+  #subtype: History 102
   speakers: [82, 84, 93, 94, 106]
   moderators: [10]
   #language: en
   #complexity: "Expert"
   ##presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://vimeo.com/289413589"
 -
   id: 057
-  title: "The Raindance Experience"
-  description: "Experimental video"
-  subtype: History 102
+  title: "The Raindance Experience;"
+  description: ""
+  #subtype: History 102
   speakers: [81]
   moderators: [8]
   #language: en
@@ -604,7 +605,7 @@
 #   id: 058
 #   title: "Reverend Billy and the Stop Shopping Choir"
 #   #description: "Experimental video"
-#   subtype: Music 102
+#   #subtype: Music 102
 #   speakers: [92]
 #   #language: en
 #   #complexity: "Expert"
@@ -614,7 +615,7 @@
 #   id: 059
 #   title: "Reunion Blues Unplugged"
 #   description: "Ben, Boz and Tracy sitting around a piano with a guitar talking about music"
-#   subtype: Music 102
+#   #subtype: Music 102
 #   speakers: [36, 31, 3]
 #   #language: en
 #   #complexity: "Expert"
@@ -623,8 +624,8 @@
 -
   id: 060
   title: "Gold"
-  description: "Bob Levis' experimental 1968 film featuring Del Close."
-  subtype: Music 102
+  description: ""
+  #subtype: Music 102
   #speakers: []
   #language: en
   #complexity: "Expert"
@@ -633,8 +634,8 @@
 -
   id: 061
   title: "Food for People, Not for Profit:"
-  description: "How Mifflin Grocery Coop ignited our regional food movement"
-  subtype: History 102
+  description: ""
+  #subtype: History 102
   speakers: [114, 115, 116]
   moderators: [112]
   #language: en
@@ -645,7 +646,7 @@
   id: 000
   title: "&nbsp;"
   description: "&nbsp;"
-  subtype: Music 102
+  #subtype: Music 102
   speakers: []
   #language: en
   #complexity: "Expert"
