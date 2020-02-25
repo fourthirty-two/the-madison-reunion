@@ -1,8 +1,22 @@
 -
-  group: "General sponsor"
+  group: "Institutional and Corporate Partners"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "evjue-captimes.jpeg"}
-    #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "evjue captimes", description: "evjue captimes", link: "https://www.tgci.com/funding-sources/funders/evjue-foundation-inc", imageUrl: "evjue-captimes.jpeg"}
+    - {name: "cinematheque", description: "cinematheque", link: "http://cinema.wisc.edu/", imageUrl: "cinematheque.png"}
+    - {name: "dane arts", description: "dane arts", link: "http://danearts.com/", imageUrl: "danearts.png"}
+    - {name: "frank productions", description: "frank productions", link: "http://frankproductions.com/", imageUrl: "frankproductions.jpg"}
+    - {name: "Promega", description: "Promega", link: "http://www.promega.com/", imageUrl: "promega-logo.jpg"}
+    - {name: "wisconsin historical society", description: "wisconsin historical society", link: "http://www.wisconsinhistory.org/", imageUrl: "wihistorical.png"}
+    - {name: "UW Center for Jewish Studies", description: "UW Center for Jewish Studies", link: "https://jewishstudies.wisc.edu/", imageUrl: "uw-jewish-studies.png"}
+    - {name: "Wisconsin Union Theatre", description: "Wisconsin Union Theatre", link: "https://union.wisc.edu/visit/wisconsin-union-theater/", imageUrl: "wisconsin-union-theater.png"}
+    - {name: "The Edgewater Hotel", description: "Stay, Dine & Spa on the Water", link: "https://www.theedgewater.com/", imageUrl: "edgewater-logo.jpg"}
+    - {name: "Madison Arts Commission", description: "Madison Arts Commission", link: "http://www.cityofmadison.com/mac", imageUrl: "madison-arts-commission.jpg"}
+    - {name: "Exact Sciences", description: "Exact Sciences", link: "http://www.exactsciences.com/", imageUrl: "exact-sciences.png"}
+    - {name: "Wisconsin Union", description: "Wisconsin Union", link: "https://union.wisc.edu/", imageUrl: "wisconsin-union-logo.jpg"}
+    - {name: "MG&E", description: "MG&E", link: "https://www.mge.com", imageUrl: "mge-logo.jpg"}
+    - {name: "CAMPUS AND VISITOR RELATIONS", description: "CAMPUS AND VISITOR RELATIONS", link: "https://info.wisc.edu", imageUrl: "campus-visitor.jpg"}
+    - {name: "George L. Mosse", description: "Mosse Program In History", link: "https://mosseprogram.wisc.edu", imageUrl: "mosse-logo.jpg"}
+
 # -
 #   group: "With support of"
 #   elements:

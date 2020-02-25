@@ -19,11 +19,12 @@
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						{% endif %}
 						{% if session.video %}
-						<div class="theme-video embed-responsive embed-responsive-16by9">
-						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
+						<div id="movie-area" class="theme-video embed-responsive embed-responsive-16by9">
+
+                <a class="embed-responsive-item" style="display: block; text-align: center; padding-top: 25%;" href="{{ session.video }}"><img src="/img/other/play-button.png" style="height: 25%;" alt=""></a>
 						</div>
 						{% endif %}
-						<p class="theme-description">{{ session.description }}</p>
+						<!-- <p class="theme-description">{{ session.description }}</p> -->
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
@@ -38,15 +39,48 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+												<!-- <span class="position">{{ speaker.title }}, {{ speaker.company }}</span> -->
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <!-- <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a> -->
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
+											<p class="about">{{ speaker.bio }}</p>
+											<ul class="social">
+												{% for social in speaker.social %}
+													<li>
+														<a href="{{ social["link"] }}" target="_blank">
+															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+															</svg>
+														</a>
+													</li>
+												{% endfor %}
+											</ul>
+										</div>
+									</div>
+									{% endif %}
+								{% endfor %}
+                {% for session_moderator in session.moderators %}
+									{% if session_moderator == speaker.id %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2">
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+										</div>
+										<div class="col-md-10 col-sm-10 details">
+											<p class="name">{{ speaker.name }} {{ speaker.surname }}
+												<!-- <span class="position">{{ speaker.title }}, {{ speaker.company }}</span> -->
+											</p>
+
+											<div class="modal-ribbon-wrapper">
+
+					                               <div class="modal-ribbon"><b>Moderator</b></div>
+
+					                        </div>
+
 											<p class="about">{{ speaker.bio }}</p>
 											<ul class="social">
 												{% for social in speaker.social %}

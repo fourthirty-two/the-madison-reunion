@@ -1,127 +1,75 @@
 -
-  date: "2018-07-14"
-  dateReadable: "July 14"
+  date: "2018-06-14"
+  dateReadable: "June 14"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
-    - {title: "Play Circle", color: "#e91e63"}
-    - {title: "Old Madison Room", color: "yellow"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
+    # - {title: "Union Terrace", color: "#00f"}
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "12:00",
-    	sessionIds: [407]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "1:00",
-        sessionIds: [507]
-    }
-    - {
     	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [001, 006, 014, 039]
+    	endTime: "2:30",
+    	sessionIds: [051, 001, 017, 007]
     }
     - {
-    	startTime: "3:00",
+    	startTime: "3:30",
     	endTime: "5:00",
-    	sessionIds: [017, 002, 013, 040]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [603]
-    }
-    - {
-    	startTime: "7:00",
-    	endTime: "8:00",
-    	sessionIds: [038]
-    }
-    - {
-    	startTime: "8:00",
-    	endTime: "11:00",
-    	sessionIds: [041]
+    	sessionIds: [049, 027, 057, 011]
     }
 -
-  date: "2018-07-15"
-  dateReadable: "July 15"
+  date: "2018-06-15"
+  dateReadable: "June 15"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
-    - {title: "Play Circle", color: "#e91e63"}
-    - {title: "Old Madison Room", color: "yellow"}
-    - {title: "State Room", color: "pink"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
+    - {title: "Festival Room", color: "#ccc"}
+    - {title: "Wisconsin Historical Society Auditorium", color: "#000"}
   timeslots:
     - {
+    	startTime: "8:30",
+      endTime: "10:00",
+    	sessionIds: [000, 000, 000, 000, 000, 061]
+    }
+    - {
     	startTime: "10:00",
-    	endTime: "12:00",
-    	sessionIds: [009, 010, 028, 042, 044]
+    	endTime: "11:30",
+    	sessionIds: [006, 043, 040, 032, 000, 000]
     }
     - {
     	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [004, 019, 022, 027, 031]
+    	endTime: "2:30",
+    	sessionIds: [004, 013, 031, 026, 000, 000]
     }
     - {
-        startTime: "3:00",
-        endTime: "5:00",
-        sessionIds: [016, 043, 045, 025, 032]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [603, 038]
-    }
-    - {
-    	startTime: "8:00",
-    	endTime: "10:00",
-    	sessionIds: [610]
+      startTime: "3:30",
+      endTime: "5:00",
+      sessionIds: [016, 015, 054, 028, 060, 000]
     }
 -
-  date: "2018-07-16"
-  dateReadable: "July 16"
+  date: "2018-06-16"
+  dateReadable: "June 16"
   tracks:
     - {title: "Great Hall", color: "#90be4e"}
     - {title: "Tripp Commons", color: "#03a9f4"}
-    - {title: "Play Circle", color: "#e91e63"}
-    - {title: "Old Madison Room", color: "yellow"}
-    #- {title: "State Room", color: "pink"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "12:00",
-    	sessionIds: [046, 021, 033, 034]
+    	endTime: "11:30",
+    	sessionIds: [046, 009, 030, 010]
     }
     - {
     	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [045, 011, 047, 008]
+    	endTime: "2:30",
+    	sessionIds: [053, 052, 056, 045]
     }
     - {
-        startTime: "3:00",
+        startTime: "3:30",
         endTime: "5:00",
-        sessionIds: [020, 026, 015, 048]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "7:00",
-    	sessionIds: [603, 038]
-    }
-    - {
-    	startTime: "7:00",
-    	endTime: "10:00",
-    	sessionIds: [611]
-    }
--
-  date: "2018-07-17"
-  dateReadable: "July 17"
-  tracks:
-    - {title: "&nbsp;", color: "#90be4e"}
-    # - {title: "&nbsp;", color: "#03a9f4"}
-    # - {title: "&nbsp;", color: "#e91e63"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "8:00",
-    	sessionIds: [612]
+        sessionIds: [050, 055, 014, 039]
     }

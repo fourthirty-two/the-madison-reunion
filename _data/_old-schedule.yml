@@ -1,0 +1,93 @@
+-
+  date: "2018-06-14"
+  dateReadable: "June 14"
+  tracks:
+    - {title: "Great Hall", color: "#90be4e"}
+    - {title: "Tripp Commons", color: "#03a9f4"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
+    - {title: "Union Terrace", color: "#00f"}
+  timeslots:
+    - {
+    	startTime: "1:00",
+    	endTime: "2:30",
+    	sessionIds: [001, 051, 007, 017, 000]
+    }
+    - {
+    	startTime: "3:00",
+    	endTime: "4:30",
+    	sessionIds: [049, 011, 014, 040, 058]
+    }
+-
+  date: "2018-06-15"
+  dateReadable: "June 15"
+  tracks:
+    - {title: "Great Hall", color: "#90be4e"}
+    - {title: "Tripp Commons", color: "#03a9f4"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
+    - {title: "Festival Room", color: "#ccc"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:30",
+    	sessionIds: [009, 032, 006, 054, 000]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "2:30",
+    	sessionIds: [004, 059, 031, 039, 057]
+    }
+    - {
+      startTime: "3:00",
+      endTime: "4:30",
+      sessionIds: [016, 013, 026, 027, 060]
+    }
+-
+  date: "2018-06-16"
+  dateReadable: "June 16"
+  tracks:
+    - {title: "Great Hall", color: "#90be4e"}
+    - {title: "Tripp Commons", color: "#03a9f4"}
+    - {title: "State Room", color: "#e91e63"}
+    - {title: "Main Lounge", color: "#ff0"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:30",
+    	sessionIds: [046, 043, 010, 030]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "2:30",
+    	sessionIds: [053, 015, 056, 052]
+    }
+    - {
+        startTime: "3:00",
+        endTime: "4:30",
+        sessionIds: [050, 045, 055, 028]
+    }
+# -
+#   date: "2018-06-17"
+#   dateReadable: "June 17"
+#   tracks:
+#     - {title: "Great Hall", color: "#90be4e"}
+#     - {title: "Tripp Commons", color: "#03a9f4"}
+#     - {title: "State Room", color: "#e91e63"}
+#     - {title: "Main Lounge", color: "#ff0"}
+#   timeslots:
+#     - {
+#     	startTime: "10:00",
+#     	endTime: "12:00",
+#     	sessionIds: [046, 033, 034]
+#     }
+#     - {
+#     	startTime: "1:00",
+#     	endTime: "3:00",
+#     	sessionIds: [045, 011, 047]
+#     }
+#     - {
+#         startTime: "3:00",
+#         endTime: "5:00",
+#         sessionIds: [026, 015]
+#     }

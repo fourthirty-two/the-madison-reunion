@@ -1,28 +1,60 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
+
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
+                <div class="col-xs-12">
+                  <p class="lead">
+                    The Madison Reunion was a "together again for the first time" gathering on June 14 - 16, 2018, at the (newly-renovated) Memorial Union and at venues on campus and around town.
+                  </p>
+                  <p class="lead">
+                    The Reunion hosted 1000 people for three days of music, meet-ups and deep diving into topics of meaning and importance at the Conference on Madison in the 60's.
+                  </p>
+                  <p class="lead">
+                    We are happy to announce the posting of videos of all panels from the conference – more than 40 hours capturing topics from war to comedy, music to history, journalism to theater and beyond.
+                  </p>
+                  <p>
+                    <a href="/panels-list/" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>Watch The Videos</a>
+                  </p>
+                  <hr>
+
+                </div>
+
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <img class="img" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="auto" alt="{{ about.title }}">
-                        <p style="text-align:left;">{{ about.text }}</p>
-                    </div>
-                    <p>
-
-                      <a href="{{ about.permalink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
+                  <div class="well well-lg">
+                    <p class="lead">
+                      They say, "If you remember it, you weren't there," but most of us who passed through Madison in the '60s have deep and lasting memories of the time and place.
                     </p>
+                    <p class="lead">
+                      But nobody could have experienced it all and so this bird’s-eye graphic history served as part of the program for the <i>Conference on Madison in the 60's.</i>
+                    </p>
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                      <!-- <h5>The Madison Reunion Comic</h5> -->
+                      <a href="https://drive.google.com/file/d/0ByfNQynp7vYkMnNESVkwQ0lWYWM2R2lwc2E4RXZ2eGFkOVdV/view">
+                        <img style="width:100%;" src="/img/comic-page.jpg" alt="">
+                      </a>
+                    </div>
+                    <p class="" style="margin-bottom: 20px; margin-top: 20px; margin-left: 10px;">
+                      <a href="https://drive.google.com/file/d/0ByfNQynp7vYkMnNESVkwQ0lWYWM2R2lwc2E4RXZ2eGFkOVdV/view" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{about.btn-text}}</a>
+                    </p>
+
+                  </div>
 
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
+
+                <!-- <div class="share-home col-xs-12">
+                  <p><b>Share this</b></p>
+
+                  {% include share.html %}
+                </div> -->
             </div>
         </div>
     </div>

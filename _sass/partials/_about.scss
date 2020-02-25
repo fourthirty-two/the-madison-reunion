@@ -1,9 +1,41 @@
 .about-details {
     img {
-        //width: 128px; // about images were different sizes
+        // width: 128px; // about images were different sizes
+        // height: auto;
     }
-    p {
-        margin-top: 10px;
-        min-height: 170px; //min-height for buttons added
+    h5 {
+      font-size: 27.9px;
     }
+    .about-disc {
+      margin-top: 20px;
+    }
+    .about-desc {
+        margin-top: 20px;
+        min-height: 177px; //min-height for buttons added
+        //text-align: center !important;
+    }
+    p.about-menus {
+      margin-bottom: 30px;
+    }
+    p.about-menus a {
+
+    }
+    .well {
+      min-height: 20px;
+      padding: 19px;
+      margin-bottom: 20px;
+      background-color: #f5f5f5;
+      border: 1px solid #eee;
+      border-radius: 4px;
+    }
+    .well-lg {
+      padding: 24px;
+      border-radius: 6px;
+    }
+}
+// Share buttons
+.share-home .sharethis-inline-share-buttons {text-align: center !important}
+// annoying off center fix on home page
+.share-home .container {
+    width: 100%;
 }

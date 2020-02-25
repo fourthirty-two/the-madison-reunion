@@ -31,13 +31,19 @@ $wt-ribbon-border-color: #72e1b3;
     .wt {
         border-right: 4px solid $wt-ribbon-border-color;
     }
+    .moderator {
+        border-right: 4px solid $gdgw-ribbon-border-color;
+    }
+    .mc {
+        border-right: 4px solid $gdgw-ribbon-border-color;
+    }
     .ribbon {
         font-size: 13px;
         font-weight: 300;
         line-height: 22px;
         display: inline-block;
         float: right;
-        min-width: 44px;
+        min-width: 34px;
         height: 22px;
         margin: 0;
         padding: 0 7px;
@@ -50,21 +56,21 @@ $wt-ribbon-border-color: #72e1b3;
     }
     .abbr {
         .ribbon-activator:hover & {
-            transform: translateX(100%); 
+            transform: translateX(100%);
             @media (max-width: 767px) {
-                transform: translateX(0);    
-            }   
-        }    
+                transform: translateX(0);
+            }
+        }
     }
     .full-title {
         clear: both;
         margin-top: -22px;
         transform: translateX(100%);
         .ribbon-activator:hover & {
-            transform: translateX(0);   
+            transform: translateX(0);
             @media (max-width: 767px) {
-                transform: translateX(100%);    
-            } 
-        } 
+                transform: translateX(100%);
+            }
+        }
     }
 }

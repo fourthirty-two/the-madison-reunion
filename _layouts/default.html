@@ -8,9 +8,9 @@ layout: compress
 {% include head.html %}
 
 <body>
-    <div id="preloader" class="preloader">
+    <!-- <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
-    </div>
+    </div> -->
 
     <div id="st-container" class="st-container disable-scrolling">
         <div class="st-pusher">
@@ -30,6 +30,13 @@ layout: compress
 
     {% if page.permalink == '/schedule/' %}
         {% include sessions-modals.html %}
+    {% endif %}
+    {% if page.permalink == '/calendar/' %}
+        {% include sessions-modals.html %}
+    {% endif %}
+    {% if page.permalink == '/test/' %}
+        {% include sessions-modals.html %}
+        {% include speakers-modals.html %}
     {% endif %}
 
     {% include analytics.html %}
@@ -132,6 +139,16 @@ layout: compress
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var navHeight = $('#top-header').height();
+                var headerHeight = $('.track-header').first().height();
+                $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
+                $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
+            });
+        </script>
+    {% endif %}
+    {% if page.permalink == '/calendar/' %}
         <script type="text/javascript">
             $(document).ready(function () {
                 var navHeight = $('#top-header').height();

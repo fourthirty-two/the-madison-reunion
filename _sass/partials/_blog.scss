@@ -40,6 +40,23 @@
 }
 .post-body {
     margin-top: 19px;
+    font-size: 18px !important;
+    line-height: 30px !important;
+    p {
+      font-size: 18px !important;
+    }
+    @media (min-width: 768px) {
+
+      .dl-horizontal dt {
+        width: 200px !important;
+      }
+
+      .dl-horizontal dd {
+        margin-bottom: 20px;
+        margin-left: 250px;
+      }
+
+    }
     h4 {
         margin-top: 40px;
     }
@@ -62,3 +79,6 @@
         margin: 0 7px;
     }
 }
+ dt {
+   font-weight: normal;
+ }

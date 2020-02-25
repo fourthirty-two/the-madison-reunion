@@ -1,674 +1,1672 @@
--
-  id: 3
-  name: "Ben"
-  surname: "Sidran"
-  #company: "Google Poland"
-  title: "Musician, writer, journalist and teacher"
-  bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
-  thumbnailUrl: ben.jpg
-  rockstar: true
-  # ribbon:
-  #   - {abbr: "MUS", title: "Musician", url: "https://developers.google.com/experts/"}
-  #   - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  #   - {abbr: "TCH", title: "Teacher", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+#highest number 124
 -
   id: 5
   name: "Jim"
   surname: "Abrahams"
-  #company: "Base CRM, GDG Krakow"
-  title: "Movie director and writer"
+  #company: ""
+  #title: "Movie director and writer"
   bio: "Movie director and writer best known for spoof movies that he co-wrote and produced, such as Airplane! and The Naked Gun series."
   thumbnailUrl: Jim-Abrahams.jpg
   rockstar: true
-  # ribbon:
-  #   - {abbr: "DIR", title: "Movie director", url: "https://developers.google.com/experts/"}
-  #   - {abbr: "WTR", title: "Writer", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  # #ribbon:
+  #   - {abbr: "DIR", title: "Movie director", url: ""}
+  #   - {abbr: "WTR", title: "Writer", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-  #   - {name: "twitter", link: "https://twitter.com/mherych"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "twitter", link: ""}
 -
   id: 6
   name: "Andrew"
   surname: "Bergman"
-  #company: "Stanfy, GDG Kyiv"
-  title: "Screenwriter, film director, and novelist"
-  bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for Mel Brooks&#39;s classic Blazing Saddles."
-  thumbnailUrl: speaker-default.png
+  #company: ""
+  #title: "Screenwriter, film director, and novelist"
+  bio: "Screenwriter, film director, and novelist, he received a Ph.D. in American history from the University of Wisconsin-Madison and has written numerous comedic films including the original screenplay for the classic Blazing Saddles."
+  thumbnailUrl: andrew-bergman-w800.jpg
   #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-  #   - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "twitter", link: ""}
 -
   id: 7
   name: "Lowell"
   surname: "Bergman"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for “A Dangerous Business”."
+  #company: ""
+  #title: ""
+  bio: "Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley, he is a producer/correspondent for the PBS documentary series Frontline, former director of investigative reporting at ABC News and CBS News producer for 60 Minutes. He received the Pulitzer Prize for A Dangerous Business."
   thumbnailUrl: Lowell-Bergman.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # #ribbon:
+  #   #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 8
-  name: "Rita"
-  surname: "Braver"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Graduated from the University of Wisconsin with a degree in political science, she joined CBS in 1972 as a producer, has served as CBS News&#39;s chief law correspondent and since 1998 has been chief national correspondent for Sunday Morning."
+  id: 88
+  name: "Walt"
+  surname: "Bogdanich"
+  company: "The Daily Cardinal"
+  # title: "Moderator"
+  bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
+  thumbnailUrl: walt-bogdanich.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "MC", title: "The Daily Cardinal", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 124
+  name: "David"
+  surname: "Bordwell"
+  company: ""
+  title: "Moderator"
+  #bio: "Assistant editor for the <i>New York Times</i> Investigations Desk and an adjunct professor at the Columbia University Graduate School of Journalism, he was an investigative producer for <i>60 Minutes</i> on CBS and has received the Pulitzer Prize three times for his investigative work at both the <i>Times</i> and the <i>Wall Street Journal</i>."
   thumbnailUrl: speaker-default.png
   #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # ribbon:
+  #   - {abbr: "MC", title: "The Daily Cardinal", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 9
-  name: "Paul"
-  surname: "Breines"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Professor of Intellectual History, Boston College"
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  id: 77
+  name: "Doug"
+  surname: "Bradley"
+  #company: ""
+  #title: ""
+  bio: "After being drafted in 1969, he served at Army Headquarters in Vietnam in from 1970 to 1971. He then relocated to Madison where he co-founded <b>Vets House</b>, a storefront, community-based service center for Vietnam veterans. Most recently, he and Craig Werner wrote We Gotta Get Out of This Place: The Soundtrack to the Vietnam War which Rolling Stone named &quot;Best Music Book of 2015.&quot;"
+  thumbnailUrl: doug-bradley.jpeg
+  rockstar: true
+  # #ribbon:
+  #   #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 9
+#   name: "Paul"
+#   surname: "Breines"
+#   #company: ""
+#   #title: ""
+#   bio: "A Freedom Rider imprisoned for three weeks in 1961 at Mississippi&#39;s notorious Parchman Farm, he chaired the Socialist Club in 1962, was later a member of the Ad Hoc Committee for Thinking (ACT; he recently retired as a professor of intellectual history at Boston College."
+#   thumbnailUrl: paul-breinis.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 78
+  name: "Jane"
+  surname: "Brotman"
+  #company: ""
+  #title: ""
+  bio: "Witnessing the Dow demonstration and attending Harvey Goldberg's lectures changed her life; after leaving the University of Wisconsin, she received a master's degree from New York University and eventually returned to Madison to work as a psychotherapist with a focus on the Latino community."
+  thumbnailUrl: jane-brotman.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 10
   name: "Paul"
   surname: "Buhle"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
+  company: "Radical Pedagogy, William A. Williams"
+  title: "Moderator"
   bio: "Former Senior Lecturer at Brown University, he is the author or editor of 35 volumes including histories of radicalism in the United States and the Caribbean, studies of popular culture, and a series of nonfiction comic art volumes."
   thumbnailUrl: paul-buhle-2.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
--
-  id: 11
-  name: "Alta"
-  surname: "Charo"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "The Warren P. Knowles Professor of Law and Bioethics at the University of Wisconsin–Madison, she is a leading American authority on bioethics and holds appointments in both Wisconsin&#39;s law school and medical school."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "Radical Pedagogy", url: ""}
+    - {abbr: "MC", title: "William A. Williams", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 85
+  name: "Tim"
+  surname: "Cahill"
+  #company: ""
+  #title: "tim-cahill"
+  bio: "The author of nine books, he was a founding editor of Outside Magazine and has won numerous awards, including the National Magazine Award and the Society of American Travel Writers Lowell Thomas Award. He also set a world record for driving the entire length of the American continents, from Ushuaia in Tierra del Fuego to Prudhoe Bay, Alaska in twenty-three days, twenty-two hours and forty-three minutes."
+  thumbnailUrl: tim-cahill.png
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 83
+  name: "Kaleem"
+  surname: "Caire"
+  #company: ""
+  #title: ""
+  bio: "Kaleem Caire; former CEO of the Urban League of Greater Madison and founder of One City Early Learning Center, is a native of Madison.  He served as a consultant with the Madison school district and the Wisconsin Department of Public Instruction, and received both the city of Madison's Martin Luther King Jr. Humanitarian Award and the Urban League of Greater Madison's Whitney Young Award."
+  thumbnailUrl: kaleem-caire.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 11
+#   name: "Alta"
+#   surname: "Charo"
+#   #company: ""
+#   #title: ""
+#   bio: "The Warren P. Knowles Professor of Law and Bioethics at the University of Wisconsin–Madison, she is a leading American authority on bioethics and holds appointments in both Wisconsin&#39;s law school and medical school."
+#   thumbnailUrl: speaker-default.png
+#   #rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 87
+  name: "Fred"
+  surname: "Ciporen"
+  #company: ""
+  #title: ""
+  bio: "Taught history at Brooklyn College, where he was active in the &quot;Open Admission&quot; protests. In 1980, he left teaching to pursue opportunities in the fast developing computer and media industries. In 1988 he became Vice President and Group Publisher of Publishers Weekly, Library Journal and School Library Journal and subsequently served on many high tech boards of directors and helped increase funding for American libraries."
+  thumbnailUrl: fred-ciporen.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 8
+  name: "Laurie Beth"
+  surname: "Clark"
+  #company: ""
+  title: "Moderator"
+  bio: "Since the 1980s Clark has made large-scale, site-specific installations and solo and collaborative performances, single-channel and multi-channel video works, and virtual environments. Early on her work was featured as historically significant venues including Franklin Furnace, Randolph Street Gallery, WARM Gallery, and the Cleveland Public Theater Performance Art Festival. Since that time she has done 139 shows and performances in 35 countries on five continents. Her work has been recognized with funding from the Art Matters, Arts Midwest, Film in the Cities, Jerome Foundation, McKnight Foundation, NEA and Wisconsin Art Board."
+  thumbnailUrl: laurie-beth-clark.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 50
+  name: "John"
+  surname: "Coatsworth"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "John Coatsworth is the Provost of Columbia University, as well as Professor of International and Public Affairs and of History.  He is a leading scholar of Latin American economic and international history, a member of the American Academy of Arts and Sciences, the Council on Foreign Relations, and the former president of the American Historical Association.  He received his BA in History from Wesleyan University, and his MA and PhD in Economic History from the University of Wisconsin-Madison."
+  thumbnailUrl: john-coatsworth.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 90
+  name: "Nicholas V."
+  surname: "Cozzi"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Nicholas V. Cozzi, Ph.D. is a scientist and educator at the UW-Madison School of Medicine and Public Health. He holds a Ph.D. in Pharmacology and a B.S. in Pharmacology and Toxicology. Dr. Cozzi teaches pharmacology at the UW and he is a frequent guest lecturer at other academic institutions around the United States. Dr. Cozzi&#39;s research involves the design, chemical synthesis, and testing of substances with central nervous system activity. He is interested in how these agents act in the brain to enhance mood, improve cognition, and increase awareness, and in their clinical value for treating addiction, anxiety, depression, post-traumatic fear, and other mental health ailments. Dr. Cozzi is internationally recognized for his work in these areas."
+  thumbnailUrl: nicholas-cozzi.jpg
+  #rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 12
   name: "Katherine"
   surname: "Cramer"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Director of the Morgridge Center for Public Service and a Professor in the Department of Political Science at the University of Wisconsin-Madison, she is known for her book, The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker"
+  #company: ""
+  #title: ""
+  bio: "Director of the Morgridge Center for Public Service and a Professor in the Department of Political Science at the University of Wisconsin-Madison, she is known for her book, The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker."
   thumbnailUrl: Katherine-Cramer.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 13
   name: "Richie"
   surname: "Davidson"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Investigating Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 14
-  name: "Andre"
-  surname: "DeShields"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
-  thumbnailUrl: Andre-DeShields.jpg
+  #company: ""
+  #title: ""
+  bio: "Professor of psychology and psychiatry at the University of Wisconsin–Madison as well as founder and chair of the Center for Healthy Minds. A major focus of his current work is popularizing what is known about the plasticity of the brain—that one can learn happiness and compassion as skills just as one learns to play a musical instrument, or train in golf or tennis."
+  thumbnailUrl: Richie-Davidson.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 14
+#   name: "Andr&eacute;"
+#   surname: "De Shields"
+#   #company: ""
+#   #title: ""
+#   bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin,' which earned him a 1978 Drama Desk nomination for his performance."
+#   thumbnailUrl: Andre-DeShields.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 69
+  name: "Hasia"
+  surname: "Diner"
+  #company: ""
+  #title: ""
+  bio: "A graduate of the University of Wisconsin, Class of 1968, Hasia Diner is the Paul S. and Sylvia Steinberg Professor of American Jewish History at New York University. She also directs the Goldstein-Goren Center for American Jewish History and is the author of a number of books which explore aspects of American Jewish history, American immigration history, and the history of American women."
+  thumbnailUrl: hasia-diner.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 106
+  name: "Jackie"
+  surname: "DiSalvo"
+  #company: ""
+  #title: ""
+  bio: "associate Professor, Marxist-Feminist literary scholar at Baruch College, after being red-baited out of Rutgers. An activist from Mississippi Freedom Summer and SDS to helping found Occupy, she is now a militant delegate of her CUNY AFT faculty union and its anti-war committee."
+  thumbnailUrl: jackie-disalvo.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 53
+#   name: "Joe"
+#   surname: "Elder"
+#   # company: "Harvey Goldberg"
+#   # title: "Moderator"
+#   bio: "Joe Elder is a Quaker peace activist with experience carrying messages between disputing parties in Kashmir, Vietnam, Korea, and Sri Lanka. He applied for CO status during the Korean War. An Emeritus Professor of Sociology & Languages & Cultures of Asia at UW-Madison, he received a 2009 Lifetime Achievement Award for Peacemaking from the Wisconsin Network for Peace and Justice."
+#   thumbnailUrl: joe-elder.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "MC", title: "Harvey Goldberg", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 67
+  name: "Frank"
+  surname: "Emspak"
+  #company: ""
+  #title: ""
+  bio: "Frank Emspak, PhD History UW, he spent the next 20 years as an activist in the trade union movement in Lynn MA, returning to the Madison and the University of Wisconsin's School for Workers in 1991 and retiring in 2008. In 2000, he became the director of Workers Independent News, a nationally syndicated newscast dedicated to the interests and concerns of working people."
+  thumbnailUrl: frank-emspack.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 75
+  name: "Stuart"
+  surname: "Ewen"
+  #company: ""
+  #title: ""
+  bio: "A Distinguished Professor at Hunter College and the City University of New York Graduate Center in the departments of History, Sociology and Media Studies, he was a field secretary for the civil rights organization the Student Nonviolent Coordinating Committee (SNCC) n 1964 and early 1965, and was one of the founding editors of the underground newspaper, Connections, in Madison, Wisconsin, when he was a student."
+  thumbnailUrl: stuart-ewen.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 57
+  name: "Kathleen"
+  surname: "Falk"
+  #company: ""
+  #title: ""
+  bio: "Served as Dane County Executive from 1997 until 2011; previously she worked as co-director and legal counsel of Wisconsin's Environmental Decade and In 2013, she was appointed Regional Director of the U.S. Department of Health and Human Services;"
+  thumbnailUrl: kathleen-falk.jpg
+  #rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 15
-  name: "Mike"
-  surname: "Felner"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Private investigator"
-  #bio: "Actor, singer, director, he made his mark in the title role of The Wiz, the 1975 Broadway musical, starred in the musical revue, Ain't Misbehavin', which earned him a 1978 Drama Desk nomination for his performance."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 16
-  name: "Linda"
-  surname: "Gordon"
-  #company: "Twinfield, GDG Kyiv"
+  name: "David"
+  surname: "Feingold"
+  #company: ""
   #title: "Private investigator"
-  bio: "Awarded the University of Wisconsin’s prestigious Vilas Research Chair, her research and writing examines the historical roots of contemporary social policy debates in the US, particularly as they concern gender and family issues."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 17
-  name: "Stuart"
-  surname: "Gordon"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Private investigator"
-  bio: "Original co-founder of Madison's Broom Street Theater, which produced the infamous anti-war version of Peter Pan, he is currently a writer and producer of films and plays."
-  thumbnailUrl: stuart-gordon-02.jpg
+  bio: "David Feingold graduated from the University of Wisconsin (1967,) he organized and marched with Martin Luther King in the Chicago Freedom Movement and later completed alternative service as a Conscientious Objector (1968-1970). After graduation from the University of Chicago Law School, David practiced law in Janesville for 37 years."
+  thumbnailUrl: david-feingold.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 56
+#   name: "Russ"
+#   surname: "Feingold"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "U.S. Senator from Wisconsin from 1993 to 2011, he received the John F. Kennedy Profile in Courage Award and was the only Senator to vote against the Patriot Act on the first ballot."
+#   thumbnailUrl: feingold.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 111
+  name: "Michael"
+  surname: "Feldman"
+  #company: ""
+  title: "Moderator"
+  bio: "an American radio personality, his <i>Michael Feldman's Whad'Ya Know?</i>, distributed by Public Radio International, was carried on dozens, if not hundreds of radio stations across the country for more than thirty years and spun off books, clothing and even a television program. He has given himself the title of &quot;Producer Internationale,&quot; refers to Public Radio International as &quot;The International House of Radio,&quot; and, since the demise of radio, he is currently producing <i>Whad'Ya Know</i> as a podcast."
+  thumbnailUrl: michael-feldman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "site", link: "https://whadyaknow.net"}
+-
+  id: 113
+  name: "Jerry"
+  surname: "Fortier"
+  #company: ""
+  #title: ""
+  bio: "had a bird's eye view of every performance of “Peter Pan” while pumping psychedelic effects out of the Play Circle projection booth and the back of B10 Commerce and has since been engaged in integrating projection and performance in many productions and venues."
+  thumbnailUrl: jerome-fortier.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 97
+  name: "Roberta"
+  surname: "Gassman"
+  #company: ""
+  title: "Moderator"
+  bio: "now on UW's faculty, she was President Obama's Deputy Assistant Secretary for Employment and Training at U.S. Department of Labor, Secretary of Wisconsin's Department of Workforce Development, top aide to Dane County Executive and Madison's Mayor, Governor's Policy Advisor on Employment and Women's Issues and president of Madison's Equal Opportunities Commission."
+  thumbnailUrl: roberta-gassman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 16
+#   name: "Chris"
+#   surname: "Gargan"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Chris Gargan began his alternative service as a CO at a Boston Hospital in January of 1970 at age 18. He moved to Albuquerque, NM in December of 1970 and completed his alternative service in a residential methadone program where he worked with heroin addicts until June of 1972."
+#   thumbnailUrl: chris-gargan.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 94
+  name: "Christine"
+  surname: "George"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Associate Director for Research, Loyola University Chicago Center for Urban Research and Learning, focusing on collaborative community-university research partnerships on social justice issues that inform social policy and democratize knowledge. Previously, AFSCME union activist and staff, Harold Washington election campaign staff, Rising Up Angry leader, and Chicago Women's Liberation Union activist. Undergraduate Madison 1964-68. Secretary of Madison SDS chapter."
+  thumbnailUrl: christine-george.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 52
+  name: "Peter"
+  surname: "Gilbert"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Producer and Director of Photography of the award winning film Hoop Dreams, he is currently a professor in the Documentary Film Making program at Wake Forrest University."
+  thumbnailUrl: peter-gilbert.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 63
+  name: "Gwen"
+  surname: "Gillon"
+  #company: ""
+  #title: ""
+  bio: "A longtime resident of Madison, she grew up in Anniston, Alabama and received a scholarship to Tougaloo College where she became part of the Student Nonviolent Coordinating Committee (SNCC); she participated in the Freedom Summer of 1964, an effort to register African Americans to vote in Mississippi, where Stokely Carmichael referred to her as a &quot;gutsy little sister.&quot;"
+  thumbnailUrl: gwen-gillon.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 103
+  name: "Michael"
+  surname: "Goldberg"
+  #company: ""
+  title: "Moderator"
+  bio: "Now retired after enjoying a 40-year career as an arts presenter and administrator, he has run 3 extraordinary venues (WI Union Theater, Overture Center, Coronado PAC). Opera directing credits include works by Britten, Gilbert & Sullivan, Rossini and Stravinsky."
+  thumbnailUrl: michael-goldberg.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 93
+  name: "Ann"
+  surname: "Gordon"
+  #company: ""
+  #title: ""
+  bio: "Historian, Research Professor Emerita, Rutgers University, she spent 30 years assembling, editing, & publishing papers of Elizabeth Cady Stanton & Susan B. Anthony. Then took up cause of contingent faculty. She arrived in Madison in 1966 for graduate school, sat in against Dow Chemical, wrote for Radical America, was an editor of Connections and a teaching assistant."
+  thumbnailUrl: ann-gordon.jpeg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 17
+#   name: "Stuart"
+#   surname: "Gordon"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Original co-founder of Madison's Broom Street Theater, which produced the infamous anti-war version of Peter Pan, he is currently a writer and producer of films and plays."
+#   thumbnailUrl: stuart-gordon-02.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 18
   name: "Peter"
   surname: "Greenberg"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Private investigator"
-  bio: "CBS News Travel Editor, previously Travel Editor for NBC's Today, CNBC and MSNBC, he is an Emmy Award-winning journalist and television producer. Known as the &quot;Travel Detective,&quot; he serves as the Travel Ambassador for AARP, offering travel advice to members."
+  bio: "Got his start working at the Daily Cardinal and went on to become the Travel Editor for NBC's <i style='font-style:italic;'>Today</i> show as well as the Travel Editor for CBS News.  A multiple Emmy Award winning journalist and television producer, he is known as the &quot;Travel Detective.&quot;"
   thumbnailUrl: Peter-Greenberg.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 19
   name: "Jeff"
   surname: "Greenfield"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Private investigator"
+  company: "The State of the 4th Estate"
+  title: "Moderator"
   bio: "Former editor of the Daily Cardinal, he graduated with a law degree from Yale where he was editor of the Yale Law Journal, then served as a speechwriter for Senator Robert F. Kennedy before becoming a political commentator and analyst for CBS and ABC News and CNN."
   thumbnailUrl: Jeff-Greenfield.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "The State of the 4th Estate", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 20
-  name: "Henry"
-  surname: "Haslach"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Private investigator"
-  bio: "Prominent student activist at the University of Wisconsin during the '60s and featured participant in the film The War At Home."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 21
-  name: "Jim"
-  surname: "Hougan"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Private investigator"
-  bio: "An investigative reporter and best-selling novelist, best known for Secret Agenda, perhaps the first investigative work to question the orthodox narrative of the Watergate scandal as propounded by the Washington Post."
-  thumbnailUrl: Jim-Hougan.jpeg
+  name: "Neil"
+  surname: "Heinen"
+  #company: ""
+  title: "Moderator"
+  bio: "Editorial Director at WISC-TV and regular opinion contributor to Madison Magazine."
+  thumbnailUrl: neil-heinen.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 22
-  name: "Danny"
-  surname: "Kalb"
-  #company: "Twinfield, GDG Kyiv"
+  id: 91
+  name: "John"
+  surname: "Herman"
+  #company: ""
   #title: "Private investigator"
-  bio: "An American blues guitarist and vocalist, he was a student of Dave Van Ronk and an original member of the 1960s group The Blues Project."
+  bio: "Associate Chief of the Department of Psychiatry at Massachusetts General Hospital in Boston and associate Professor of Psychiatry at Harvard Medical School, he has consulted to individuals, governments and academic medical centers across the United States and internationally. Dr. Herman joined the staff of the MGH Psychopharmacology and Addiction clinics in 1984 and his teaching efforts since centered on helping clinicians and systems develop solutions to addiction. Dr. Herman grew up in Milwaukee and received his BA and MD from the University of Wisconsin."
+  thumbnailUrl: john-herman.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 20
+  name: "Scott"
+  surname: "Herrick"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Scott Herrick worked as a &quot;Peace Intern&quot; on behalf of the American Friends Service Committee (Quakers) providing draft counseling in Madison and training of draft counselors in Madison and around Wisconsin from 1968 - 1970. He is a practicing attorney in Madison."
   thumbnailUrl: speaker-default.png
   #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 23
-  name: "Ann"
-  surname: "Lauterbach"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Private investigator"
-  bio: "Poet, essayist, and professor, she has received fellowships from the Guggenheim Foundation, the Ingram Merrill Foundation, the John D. and Catherine T. MacArthur Foundation. Since 1991 she has taught at Bard College and is currently Professor of Languages and Literature there."
-  thumbnailUrl: ann-lauterbach.jpg
+  id: 60
+  name: "Paul"
+  surname: "Higginbotham"
+  company: "Freedom Riding"
+  title: "Moderator"
+  bio: "A Judge of the Wisconsin Court of Appeals, the first and only African American to serve on the court, he has been involved in the civil rights struggle since his teenage years when his father marched with Dr. Martin Luther King Jr. during the March on Washington for Jobs and Freedom."
+  thumbnailUrl: paul-higginbotham.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "Freedom Riding", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 24
-  name: "Mike"
-  surname: "Ledeen"
-  #company: "Twinfield, GDG Kyiv"
-  title: "historian and neoconservative foreign policy analyst"
-  bio: "An American historian and neoconservative foreign policy analyst, he is a former consultant to the United States National Security Council, the United States Department of State, and the United States Department of Defense. He held the Freedom Scholar chair at the American Enterprise Institute and now holds the similarly named chair at the Foundation for Defense of Democracies."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  id: 120
+  name: "Dan"
+  surname: "Kaufman"
+  # company: "Freedom Riding"
+  # title: "Moderator"
+  bio: "Dan Kaufman; a contributor to the New York Times and The New Yorker, he grew up in Madison and moved to Brooklyn in part to further his work as a musician. He continues to perform with his band Barbez and in July Norton will publish his book The Fall of Wisconsin: The Conservative Conquest of a Progressive Bastion and the Future of American Politics"
+  thumbnailUrl: dan-kaufman.jpg
+  # rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Freedom Riding", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 114
+  name: "Jonathan"
+  surname: "Kauffman"
+  # company: "Freedom Riding"
+  # title: "Moderator"
+  bio: "is a reporter for the San Francisco Chronicle food section and the author of Hippie Food, a narrative history of how Americans came to eat brown rice, tofu, whole-wheat bread, and granola."
+  thumbnailUrl: jonathan-kauffman.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Freedom Riding", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 68
+#   name: "Ben"
+#   surname: "Karlin"
+#   company: "What's So Funny About Madison"
+#   title: "Moderator"
+#   bio: "Wrote for The Onion from 1993-1996 and is currently an American television producer and writer who has won eight Emmy awards, and is best known for his work in The Daily Show with Jon Stewart and The Colbert Report (he was one of three co-creators of The Colbert Report along with Stephen Colbert and Jon Stewart)."
+#   thumbnailUrl: ben-karlin.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "MC", title: "What's So Funny About Madison", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+# -
+#   id: 22
+#   name: "Vance"
+#   surname: "Kepley"
+#   #company: ""
+#   title: "Moderator"
+#   bio: "His work over the years has concerned the relationship between film and social history, considering how major films have addressed their socio-historical contexts. This interest in the social dimension of cinema has also informed his more recent research projects on documentary film. He has recently assumed the role of Director of the Wisconsin Center for Film and Theater Research, which manages one of the nation's largest, most valuable research archives on the history of broadcasting, theater and film."
+#   thumbnailUrl: vance-kepley.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+# -
+#   id: 23
+#   name: "Ann"
+#   surname: "Lauterbach"
+#   #company: ""
+#   #title: "Private investigator"
+#   bio: "Poet, essayist, and professor, she has received fellowships from the Guggenheim Foundation, the Ingram Merrill Foundation, the John D. and Catherine T. MacArthur Foundation. Since 1991 she has taught at Bard College and is currently Professor of Languages and Literature there."
+#   thumbnailUrl: ann-lauterbach.jpg
+#   rockstar: true
+#   ##ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 65
+  name: "Barbara"
+  surname: "Lawton"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Barbara Lawton served two terms as Wisconsin's first woman to be elected lt. governor, and later co-founded Issue One, dedicated to reducing the influence of money on politics."
+  thumbnailUrl: barbara-lawton.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 24
+#   name: "Mike"
+#   surname: "Ledeen"
+#   #company: ""
+#   title: "historian and neoconservative foreign policy analyst"
+#   bio: "An American historian and neoconservative foreign policy analyst, he is a former consultant to the United States National Security Council, the United States Department of State, and the United States Department of Defense. He held the Freedom Scholar chair at the American Enterprise Institute and now holds the similarly named chair at the Foundation for Defense of Democracies."
+#   thumbnailUrl: speaker-default.png
+#   #rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 84
+  name: "Gerald"
+  surname: "Lenoir"
+  #company: ""
+  #title: "Private investigator"
+  bio: "Part of the Black student strikes that won the establishment of the Afro-American Studies Department, he was also a leader in the antiapartheid movement in the 1970s, the Executive Director of the Black Coalition on AIDS in San Francisco and the founding Executive Director of the Black Alliance for Just Immigration."
+  thumbnailUrl: gerald-lenoir.jpg
+  rockstar: true
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 25
   name: "Stuart"
   surname: "Levitan"
-  #company: "Twinfield, GDG Kyiv"
-  title: "historian, journalist and radio host"
-  bio: "Madison based historian, journalist and radio host, he is completing a history of Madison in the ‘60s, to be published by the University of Wisconsin Press in the fall of 2018."
+  #company: ""
+  #title: "historian, journalist and radio host"
+  bio: "Madison-based historian, journalist and radio host, he is completing a history of Madison in the '60s, to be published by the Wisconsin Historical Society in the fall of 2018."
   thumbnailUrl: stuart-levitan.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ##ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 26
-  name: "Dan"
+  name: "Daniel"
   surname: "Levitin"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
+  #company: ""
+  #title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
   bio: "Cognitive psychologist, neuroscientist, writer, musician, and record producer, he is James McGill Professor Emeritus of psychology and behavioral neuroscience at McGill University in Montreal. He has appeared frequently as a guest commentator on NPR and CBC and is the author of the best-selling book, This Is Your Brain on Music: The Science of a Human Obsession."
   thumbnailUrl: Dan-Levitin.jpeg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 82
+  name: "Herb"
+  surname: "Lewis"
+  #company: ""
+  #title: "Cognitive psychologist, neuroscientist, writer, musician, and record producer"
+  bio: "Herbert Lewis; a cultural anthropologist, he has long been engaged with the history of anthropology. His early research involved the social and political organization of two very different populations in Ethiopia. His next work focused on ethnicity and culture change among various Jewish groups in Israel. His work has also traced the major transformation undergone by American anthropology as a result of the cataclysmic events of the 1960s—the war in Vietnam, the civil rights movement, the increasing rise of the women's and other identity movements, and the increasingly visible anti-colonial movements."
+  thumbnailUrl: herb-lewis.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 72
+  name: "Bill"
+  surname: "Linton"
+  #company: ""
+  #title: ""
+  bio: "Co-founded the non-profit Usona Institute in 2014, a medical research organization that supports research to further the understanding of the therapeutic effects of psilocybin and other consciousness expanding medicines."
+  thumbnailUrl: bill-linton.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 73
+  name: "Tom"
+  surname: "Loftus"
+  #company: ""
+  #title: ""
+  bio: "Served in the Wisconsin State Assembly from 1977 until 1991 and was speaker of the Assembly; he was then appointed by president Bill Clinton to be United States Ambassador to Norway where he served until 1997; in 2005, he was appointed by Wisconsin Governor Jim Doyle to the University of Wisconsin System Board of Regents."
+  thumbnailUrl: tom-loftus.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 123
+  name: "Michael"
+  surname: "Mann"
+  #company: ""
+  #title: ""
+  bio: "Michael Mann; an American film director, screenwriter, and producer of film and television who is best known for his distinctive brand of stylized crime drama. For his work, he has received nominations from international organizations and juries, including those at the British Academy of Film and Television Arts, Cannes and the Academy of Motion Picture Arts and Sciences. His most acclaimed works are the crime film Heat (1995) and the docudrama The Insider (1999)."
+  thumbnailUrl: michael-mann.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 27
   name: "David"
   surname: "Maraniss"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Journalist and author"
-  bio: "Journalist and author, he currently serves as an associate editor for The Washington Post. He received a Pulitzer Prize for National Reporting in 1993 for his coverage of then-candidate Bill Clinton. Among his published works are best selling biographies of Barak Obama and Bill Clinton and the book They Marched into Sunlight: War and Peace, Vietnam and America, October 1967."
+  company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
+  bio: "Journalist and author, he currently serves as an associate editor for The Washington Post. He received a Pulitzer Prize for National Reporting in 1993 for his coverage of then-candidate Bill Clinton. Among his published works are best selling biographies of Barack Obama and Bill Clinton and the book They Marched into Sunlight: War and Peace, Vietnam and America, October 1967."
   thumbnailUrl: Dave-Maraniss.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 28
+  id: 121
   name: "Alfred"
   surname: "McCoy"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Journalist and author"
-  bio: "Holds a Ph.D. in South Asian History from Yale and is currently a professor at the University of Wisconsin and Director of the Harvey Goldberg Center."
-  thumbnailUrl: speaker-default.png
+  # company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
+  bio: "Alfred William McCoy; holds the Harrington Chair in History and is the J.R.W. Smail Professor of History at the University of Wisconsin–Madison.  He is the author of numerous books and has written about, and testified before Congress, about the politics of heroin, the world of crime syndicates, international political surveillance, and, most recently, <i>The Rise and Decline of U.S. Global Power.</i>"
+  thumbnailUrl: al-mccoy.jpg
   #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # ribbon:
+  #   - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 29
-  name: "Errol"
-  surname: "Morris"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Film director"
-  bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
-  thumbnailUrl: errol-morris.jpg
+  id: 98
+  name: "Ron"
+  surname: "McCrea"
+  # company: "What's Left of the Wisconsin Idea"
+  title: "Moderator"
+  bio: "Former Press Secretary for Wisconsin's governor in 1980 and News Editor of the Madison Capitol Times for many years, his most recent work is the book Building Taliesin: Frank Lloyd Wright's Home of Love and Loss. Through letters, memoirs, contemporary documents, and a stunning assemblage of photographs - many of which have never before been published - author Ron McCrea tells the fascinating story of the building of Frank Lloyd Wright's Taliesin, which would be the architect's principal residence for the rest of his life."
+  thumbnailUrl: ron-mccrea.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # ribbon:
+  #   - {abbr: "MC", title: "What's Left of the Wisconsin Idea", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 71
+  name: "Tony"
+  surname: "Michels"
+  #company: ""
+  #title: ""
+  bio: "The George L. Mosse Professor of American Jewish History at the University of Wisconsin-Madison with a special emphasis on immigration, politics, and comparative ethnic history, as well as courses in labor history and radical political movements."
+  thumbnailUrl: tony-michaels.jpg
+  rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 28
+  name: "Doug"
+  surname: "Moe"
+  #company: ""
+  title: "Moderator"
+  bio: "The author of numerous critically-acclaimed non-fiction books, as well as thousands of newspaper columns and magazine articles, he writes corporate, foundation and personal histories, all with a signature storytelling style that has earned him a devoted following across nearly four decades."
+  thumbnailUrl: doug-moe.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 29
+#   name: "Errol"
+#   surname: "Morris"
+#   #company: ""
+#   #title: "Film director"
+#   bio: "Film director best known for his 1988 documentary The Thin Blue Line, commonly cited among the best and most influential documentaries ever made. In 2003, his documentary film The Fog of War: Eleven Lessons from the Life of Robert S. McNamara won the Academy Award for Best Documentary Feature."
+#   thumbnailUrl: errol-morris.jpg
+#   rockstar: true
+#   #ribbon:
+#   #   - {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 110
+  name: "Kalleen"
+  surname: "Mortensen"
+  #company: ""
+  #title: "Film director"
+  bio: "a retired librarian from the UW-Madison, School of Education Library with specialization in Archives, founded the Madison Lesbian Herstory Project in 1991. The group produced the MLHP Slide Presentation documenting Madison lesbian herstory through photography. Currently participating on the board of the UW-Madison LGBTQ Archives."
+  thumbnailUrl: kalleen-mortensen.jpg
+  #rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 30
   name: "Tia"
   surname: "Nelson"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Film director"
   bio: "Recognized for her work on climate change, she served for 17 years with The Nature Conservancy and was the first director of its global Climate Change Initiative. She is currently a managing director of the Outrider Foundation."
   thumbnailUrl: Tia-Nelson-251x300.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 31
   name: "Tracy"
   surname: "Nelson"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Film director"
-  bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone&quot;, was nominated for a Grammy Award."
+  #company: ""
+  title: "Concert:  Shannon Hall, Friday, June 15, 2018"
+  bio: "Nelson moved to San Francisco in 1966 from Madison, where she became part of the music scene there, and has been a recording artist for over fifty years. In 1974, her duet with Willie Nelson, &quot;After the Fire is Gone,&quot; was nominated for a Grammy Award."
   thumbnailUrl: Tracy-Nelson.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 96
+  name: "John"
+  surname: "Nichols"
+  #company: ""
+  title: "Moderator"
+  bio: "A liberal / progressive American journalist and author, he is Washington correspondent for The Nation and associate editor of The Capital Times. Books authored or co-authored by Nichols include The Genius of Impeachment and The Death and Life of American Journalism. He is a regular contributor to In These Times and The Progressive. He appears in the documentary films Outfoxed, Unprecedented: The 2000 Presidential Election, Orwell Rolls in His Grave, and Call It Democracy. Nichols is co-founder, with Robert McChesney and Josh Silver, of Free Press."
+  thumbnailUrl: john-nichols.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 64
+  name: "Kathleen"
+  surname: "Nichols"
+  #company: ""
+  #title: ""
+  bio: "Active in the Madison LGBT scene, she was a Dane County Supervisor and is currently an advisor for the Communication Arts major at the University of Wisconsin."
+  thumbnailUrl: kathleen-nichols.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 62
+  name: "Ismael"
+  surname: "Ozanne"
+  #company: ""
+  #title: ""
+  bio: "A lifelong resident of Madison, Wisconsin, he played varsity soccer for the Badgers men's soccer team, worked as an Assembly Page for the Wisconsin State Legislature and staffed the Joint Committee on Finance. In February of 2008, Governor Doyle appointed Ozanne to be the Executive Assistant for the Department of Corrections and in 2010, Governor Doyle appointed him to be the Dane County District Attorney, the first African American District Attorney in Wisconsin's history."
+  thumbnailUrl: ismael-ozanne.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 107
+  name: "Dennis"
+  surname: "Paoli"
+  #company: ""
+  #title: ""
+  bio: "has written for film, TV, the stage, and the internet. His feature films include adaptations of H. P. Lovecraft's Re-Animator, From Beyond, and Dagon, and the stage play Nevermore: An Evening with Edgar Allan Poe. He is also an academic, a teacher and administrator at Hunter College of the City University of New York."
+  thumbnailUrl: dennis-paoli.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 32
+  name: "John"
+  surname: "Parfrey"
+  #company: ""
+  #title: "Film director"
+  bio: "John Parfrey graduated from UW-Madison in 1969 and served his alternative service as a CO at Madison General Hospital from 1970-1972. He was an educator at the primary, secondary, and college levels and worked in financial education in the second half of his career. He is retired and lives in Colorado."
+  thumbnailUrl: john-parfrey.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 104
+  name: "Steve"
+  surname: "Paulson"
+  #company: ""
+  title: "Moderator"
+  bio: "the Executive Producer and one of the founders of To The Best Of Our Knowledge, he has been a contributing writer for Salon and Nautilus and has written for Slate, Huffington Post and The Atlantic. He often explores the connections between science, philosophy and spirituality. His book Atoms and Eden: Conversations on Religion and Science was published by Oxford University Press."
+  thumbnailUrl: steve-paulson.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 108
+  name: "Gerald"
+  surname: "Peary"
+  #company: ""
+  # title: "Moderator"
+  bio: "a Ph.D. From UW-Madison in Communications, he is a retired film professor from Suffolk University-Boston, a long-time film critic for the Boston Phoenix, and the author of eight books on cinema. He programs the Boston University Cinematheque, and is a writer-director of feature documentaries including For the Love of Movies: the Story of American Film Criticism."
+  thumbnailUrl: gerald-peary.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 99
   name: "Lester"
   surname: "Pines"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Film director"
-  bio: "A Fellow of the American College of Trial Lawyers, he is a respected civil and criminal litigator and appellate advocate."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #company: ""
+  title: "Moderator"
+  bio: "a civil rights and criminal litigator in practice in Madison for over forty years, he was a student of Harvey Goldberg, George Mosse, Stanley Kutler, and Michael Hakeem. He is a fellow of the American College of Trial Lawyers, known for defending Planned Parenthood, marriage equality, public education and challenging voter ID and limits on collective bargaining. He also represented three of the four defendants charged with bombing the Army Math Research Center on campus."
+  thumbnailUrl: lester-pines.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 112
+  name: "Odessa"
+  surname: "Piper"
+  #company: ""
+  title: "Moderator"
+  bio: "following cooking and farming in Wisconsin's driftless region, Odessa Piper founded Madison's pioneering farm to table restaurant L'Etoile in 1976 and ran it for 30 years. She continues to advocate for the gastronomy of the snowbelt, its seasons, farmers and artisans and is currently developing a Food Artisan Program for Taliesin Preservation Inc. in Spring Green Wisconsin."
+  thumbnailUrl: odessa-piper.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 33
   name: "Jonathan"
   surname: "Pollack"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Film director"
-  bio: "Received his Ph.D. in History from the University of Wisconsin and is currently writing a book on the history of Jews at the University of Wisconsin."
+  bio: "Received his PH.D. from the University of Wisconsin, now Professor of history at Madison College (formerly MATC) and honorary scholar, UW Center for Jewish Studies. He is currently writing a book on the history of Jews at the University of Wisconsin."
   thumbnailUrl: Jonathan-Pollack.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 61
+#   name: "Carolyn"
+#   surname: "Purdy-Gordon"
+#   #company: ""
+#   #title: "Film director"
+#   bio: "Carolyn Purdy-Gordon has maintained her most frequent presence in horror outings, often directed by longtime husband Stuart Gordon."
+#   thumbnailUrl: carolyn-purdy-gordon.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 86
+  name: "Ron"
+  surname: "Radosh"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "a founder of the UW folk music club, a member of The Socialist Club, and an editor of &quot;Studies on the Left,&quot; he is currently a columnist for The Daily Beast, the author of over 20 books and lives in the Washington, D.C. area where he is a member of &quot;The Concerned,&quot; an anti-Trump group."
+  thumbnailUrl: ron-radosh.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 79
+  name: "Steven"
+  surname: "Reiner"
+  #company: ""
+  title: "Moderator"
+  bio: "The Director of Video Journalism and an associate professor in the Stony Brook University School of Journalism, he is a thirty year veteran of network broadcast television and a multiple Emmy Award winning former producer for CBS News' <i>60 Minutes</i>. He has worked at both NBC and ABC News, served as an editor for The Atlantic Magazine and as senior editor and executive producer of NPR's flagship news program &quot;All Things Considered.&quot; He was Editor-in-Chief of The Daily Cardinal from 1969 to 1970"
+  thumbnailUrl: steven-reiner.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 92
+#   name: ""
+#   surname: "Reverend Billy and the Stop Shopping Choir"
+#   #company: ""
+#   title: "Concert:  Union Terrace, Thursday, June 14, 2018"
+#   bio: "Reverend Billy and the Stop Shopping Choir is a New York City based radical performance community, with 50 performing members and a congregation in the thousands. We are wild anti-consumerist gospel shouters and Earth loving urban activists who have worked with communities on four continents defending community, life and imagination. Our Devils over the 15 years of our &quot;church&quot; have remained the same: Consumerism and Militarism. In this time of the Earth's crisis - we are especially mindful of the extractive imperatives of global capital."
+#   thumbnailUrl: reverend-billy.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 115
+  name: "Anne"
+  surname: "Reynolds"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "consults on board leadership, cooperative start-ups, and organizational development, having served for decades at the University of Wisconsin Center for Cooperatives, where she led the Center's outreach, education and development program. She has worked with organizations in all sectors, including food systems, housing, agriculture, grocery, energy and worker-owned."
+  thumbnailUrl: anne-reynolds.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 55
+  name: "Ken"
+  surname: "Robbins"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Dr. Ken Robbins; board certified in internal medicine and psychiatry with a master's in public health, he has been on the clinical faculty at the University of Wisconsin School of Medicine and Public Health for over 30 years and is the past Medical Director of the Mendota Mental Health Institute. Dr. Robbins has had a longstanding interest in what leads people, particularly those with psychiatric illnesses, to use alcohol and drugs."
+  thumbnailUrl: ken-robbins.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 100
+  name: "Hannah"
+  surname: "Rosenthal"
+  #company: ""
+  title: "Moderator"
+  bio: "Served as a Special Envoy and as the head of the Office to Monitor and Combat Anti-Semitism in the Obama Administration for three years. She also has been a commissioner of the U.S. Commission on International Religious Freedom and served as the founding executive director of the Wisconsin Women's Council, 1985-1992. The former head of the Jewish Council for Public Affairs (JCPA), and former executive director of the Chicago Foundation for Women, she served on the advisory council of J Street and J Street PAC. In 1995, Rosenthal was appointed by the Clinton Administration to serve as Midwest regional director of the U.S. Department of Health and Human Services. In 2005, she was named one of the Forward 50, a list of the most influential Jews selected by The Forward newspaper."
+  thumbnailUrl: hannah-rosenthal.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 95
+  name: "Matt"
+  surname: "Rothschild"
+  #company: ""
+  title: "Moderator"
+  bio: "The executive director of the Wisconsin Democracy Campaign. Prior to joining the Democracy Campaign at the start of 2015, he worked at The Progressive magazine for 32 years, for most of those years, he was the editor and publisher. Author of a book entitled You Have No Rights: Stories of America in an Age of Repression and editor of the anthology called Democracy in Print: The Best of The Progressive, 1909-2009, his opinion pieces have run in the Chicago Tribune, the LA Times, the Miami Herald and a host of other newspapers."
+  thumbnailUrl: matt-rothschild.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "MC", title: "Moderator", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 34
-  name: "Jerald"
+  name: "Jerry"
   surname: "Rousseau"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Film director"
-  bio: "Emeritus Clinical Associate Professor UW-Milwaukee Helen Bader School of Social Welfare, Social Work Field Education Program."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #company: ""
+  title: "Moderator"
+  bio: "Jerry Rousseau graduated from UW-Madison in 1970 and served his alternative service as a CO at Madison General Hospital on an inpatient psychiatric unit from 1970-1972. He is a UW-Milwaukee Emeritus Clinical Associate Professor of Social Work & Licensed Clinical Social Worker with 47 years of mental health clinical work."
+  thumbnailUrl: jerry-rousseau.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 35
-  name: "Jim"
-  surname: "Rowen"
-  #company: "Twinfield, GDG Kyiv"
+  id: 89
+  name: "Allen"
+  surname: "Ruff"
+  #company: ""
   #title: "Film director"
-  bio: "Former Deputy Mayor of Madison and currently a political writer and activist living in Milwaukee."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  bio: "Long-time Madison resident, author, activist and weekly radio host on WORT-fm, he received his PHD in History at the UW. His dissertation dealing with the history of the pre-World War I US Left was largely mentored by Harvey Goldberg."
+  thumbnailUrl: allen-ruff.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 58
+  name: "Jesse"
+  surname: "Samberg"
+  #company: ""
+  #title: "Film director"
+  bio: "A student at the UW Madison in the '60s, he went on to become Head of Business Services &amp; Senior Director of Performance Management with the Mass Transit Authority of New York City. He is currently a consultant with IBM."
+  thumbnailUrl: jesse-samberg.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 36
   name: "Boz"
   surname: "Scaggs"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Musician"
+  #company: ""
+  title: "Concert:  Shannon Hall, Friday, June 15, 2018"
   bio: "After attending the University of Wisconsin, he gained fame in the 1970s with several Top 20 hit singles, including, &quot;Lido Shuffle&quot; and &quot;Lowdown&quot; from the critically acclaimed album Silk Degrees."
   thumbnailUrl: Boz-Scaggs.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 81
+  name: "Ira"
+  surname: "Schneider"
+  #company: ""
+  #title: ""
+  bio: "A pioneer of video in the late 1960s and early 1970s, his video installation work and single channel tapes explored the manipulation of time, interactivity, and simultaneity as formal and conceptual devices. He was a participant in the landmark exhibition TV as a Creative Medium at the Howard Wise Gallery in 1969 and created several important early multi-channel video installations, including <i>Manhattan is an Island</i>, and <i>Time Zones</i>."
+  thumbnailUrl: ira-schneider.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 35
+#   name: "Ron"
+#   surname: "Schutz"
+#   #company: ""
+#   #title: "Film director"
+#   bio: "Ron Schutz is a peace activist in Madison and a member of the Madison Religious Society of Friends (Quakers). He served in the US Air Force reserves as a medic during the Viet Nam War. Ron is active in the National Campaign for a Peace Tax Fund."
+#   thumbnailUrl: ron-schutz.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 109
+  name: "Scott"
+  surname: "Seyforth"
+  #company: ""
+  #title: "Film director"
+  bio: "Scott Seyforth holds a PhD in Educational Leadership and Policy Analysis from the University of Wisconsin – Madison. He is in his 23rd year of work in University Housing where he is an Assistant Director of Residence Life. For over a decade Seyforth has been actively involved in collecting and archiving the history of the local LGBTQ community. He is one of the founders of the Madison LGBTQ Oral History Project and the Madison LGBTQ Archive at the UW-Madison Archives."
+  thumbnailUrl: scott-seyforth.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 74
+  name: "Anat"
+  surname: "Shenker Osorio"
+  #company: ""
+  #title: ""
+  bio: "A communications expert, researcher and political pundit whose one-of-a-kind work is challenging the way dozens of organizations and political figures talk about the pressing issues of our time; she is also a graduate of Madison West high school."
+  thumbnailUrl: anat.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 3
+  name: "Ben"
+  surname: "Sidran"
+  company: "Searching for the Maharishi Within, Ecstasy and the Meaning of the Blues"
+  title: "Moderator"
+  bio: "Madison musician, writer, journalist and teacher, he has recorded 35 solo albums and written five books, including There Was a Fire: Jews, Music and the American Dream which was shortlisted for the National Jewish Book Award."
+  thumbnailUrl: Ben.jpg
+  rockstar: true
+  ribbon:
+    # - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
+    - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
+  #   - {abbr: "WTR", title: "Writer", url: ""}
+  #   - {abbr: "TCH", title: "Teacher", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+-
+  id: 101
+  name: "Leo"
+  surname: "Sidran"
+  ##company: "Searching for the Maharishi Within, Ecstasy and the Meaning of the Blues"
+  title: "Moderator"
+  bio: "A musician, composer, performer, and producer whose credits include co-producing the Oscar-winning song &quot;Al Otro Lado Del Rio&quot; for the soundtrack to the movie The Motorcycle Diaries, Sidran began his career in music early, having learned to play the drums from funk-jazz percussionist Clyde Stubblefield, and touring as a teenager with veteran rock star Steve Miller. He currently lives in Brooklyn, hosts the podcast The Third Story which features long form conversations with creative types of all stripes, and produces music for film, television, commercials and various recording artists, including his own signature recordings."
+  thumbnailUrl: leo-sidran.jpg
+  rockstar: true
+  # ribbon:
+  #   - {abbr: "MC", title: "Searching for the Maharishi Within", url: ""}
+  #   - {abbr: "MC", title: "Ecstasy and the Meaning of the Blues", url: ""}
+  #   - {abbr: "WTR", title: "Writer", url: ""}
+  #   - {abbr: "TCH", title: "Teacher", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
 -
   id: 37
-  name: "Glen"
+  name: "Glenn"
   surname: "Silber"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Musician"
   bio: "Filmmaker best known for his film, The War At Home, a documentary about the anti-war movement in Madison, Wisconsin which was nominated for an Academy Award for Best Documentary Feature."
   thumbnailUrl: Glenn-Silber.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 38
   name: "Paul"
   surname: "Soglin"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Musician"
-  bio: "Four term Mayor of Madison, Wisconsin."
+  #company: ""
+  # title: "Moderator"
+  bio: "Mayor of Madison for more than two decades, including stints in the 1970's, '80s, '90s and the 21st century; a former UW anti-war student activist."
   thumbnailUrl: Paul-Soglin.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 40
+#   name: "Scott"
+#   surname: "Spencer"
+#   #company: ""
+#   #title: "Musician"
+#   bio: "Graduate of the University of Wisconsin, he has written eleven novels, two of which, Endless Love and Waking the Dead, were adapted into films. He has also worked as a journalist who has published in The New York Times, The New Yorker and Harpers Magazine. He is a regular contributor to Rolling Stone."
+#   thumbnailUrl: Scott-Spencer.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
-  id: 39
-  name: "Ellen"
-  surname: "Sorrin"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Musician"
-  bio: "Director of the George Balanchine Trust as well as Managing Director of the New York Choreographic Institute, an affiliate of New York City Ballet. She is president of The Hemsley Lighting Programs, a foundation dedicated to the transition of lighting design students from the academic to the professional world."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 40
-  name: "Scott"
-  surname: "Spencer"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Musician"
-  bio: "Graduate of the University of Wisconsin, he has written eleven novels, two of which, Endless Love and Waking the Dead, were adapted into films. He has also worked as a journalist who has published in The New York Times, The New Yorker and Harpers Magazine. He is a regular contributor to Rolling Stone."
-  thumbnailUrl: Scott-Spencer.jpg
+  id: 76
+  name: "Rena"
+  surname: "Steinzor"
+  #company: ""
+  #title: ""
+  bio: "A Professor at the University of Maryland School Law School, her career has focused on regulatory systems particularly health, worker safety, environmental, and financial service regulation (BP, Deepwater Horizon, Texas City Refinery, Tesoro Refinery, Upper Big Branch Mine, New England Compounding Center); she is also a past editor of the UW Daily Cardinal."
+  thumbnailUrl: rena-steinzor.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 118
+  name: "Norman"
+  surname: "Stockwell"
+  #company: ""
+  title: "Moderator"
+  bio: "Norman Stockwell, publisher of The Progressive, for over 20 years, served as WORT Community Radio’s Operations Coordinator in Madison, Wisconsin. He also coordinated the IraqJournal website in 2002-2003. In 2011, he regularly reported on protests in Madison for Iran’s PressTV and other outlets. His reports and interviews have appeared on Free Speech Radio News, DemocracyNow!, and AirAmerica, and in print in Z Magazine, the Capital Times, AlterNet, Toward Freedom, the Tico Times, the Feminist Connection, and elsewhere."
+  thumbnailUrl: norman-stockwell.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 122
+  name: "Nora"
+  surname: "Stone"
+  #company: ""
+  title: "Moderator"
+  bio: "Nora Stone; a Ph.D. candidate in film in the Department of Communication Arts, University of Wisconsin-Madison, her dissertation explores the creation of a multi-layered market for documentary films between 1960 and the early 2000s. Her short film &quot;Mommy Moments&quot; screened at the Virginia Film Festival and Driftless Film Festival. She teaches courses in film studies and advanced film production."
+  thumbnailUrl: nora-stone.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 41
   name: "Dean"
   surname: "Strang"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Musician"
-  bio: "A Wisconsin criminal defense attorney known to the general public for his appearance in the Netflix series &quot;Making a Murderer.&quot;"
+  bio: "A Wisconsin criminal defense attorney known to the general public for his appearance in the Netflix series Making a Murderer."
   thumbnailUrl: Dean-Strang.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 105
+#   name: "Anne"
+#   surname: "Strainchamps"
+#   #company: ""
+#   title: "Moderator"
+#   bio: "host and cofounder of Wisconsin Public Radio's To The Best Of Our Knowledge, she has been a featured interviewer on the program for more than a decade. She has worked in public broadcasting at WAMU in Washington, DC, and at NPR, as a reporter, producer, news director, live talk show host, a food and wine columnist, and—in a former life—was a chocolatier."
+#   thumbnailUrl: aanne-strainchamps.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
   id: 42
   name: "Evan"
   surname: "Stark"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Musician"
-  bio: "Associate professor of public administration at Rutgers-Newark, where he is director of the master&#39;s in public health program. He also directs the Division of Urban Health Administration at the UMDNJ School of Public Health."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
--
-  id: 43
-  name: "Peter"
-  surname: "Straub"
-  #company: "Twinfield, GDG Kyiv"
-  title: "Novelist and poet"
-  bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
-  thumbnailUrl: Peter-Straub.jpg
+  #company: ""
+  #title: ""
+  bio: "A self-described &quot;student leader frozen in time,&quot; he is a forensic social worker, co-director of the Yale Trauma Studies, specializing in the problems of violence against women and children, and is a Professor Emeritus of Public Affairs, Public Health and Gender Studies at Rutgers."
+  thumbnailUrl: evan-stark.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 43
+#   name: "Peter"
+#   surname: "Straub"
+#   #company: ""
+#   #title: "Novelist and poet"
+#   bio: "Best selling novelist and poet, his horror fiction has received numerous literary honors such as the Bram Stoker Award, World Fantasy Award, and International Horror Guild Award."
+#   thumbnailUrl: Peter-Straub.jpg
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
+-
+  id: 119
+  name: "Mary"
+  surname: "Sweeney"
+  #company: ""
+  #title: "Film director"
+  bio: "Mary Sweeney is a feature film director, producer, writer, and editor. She has a long history of creative collaboration with David Lynch, beginning with Blue Velvet in 1986. She edited Twin Peaks Television (1990), Twin Peaks Fire Walk With Me (1992), Hotel Room, HBO, (1993), Lost Highway (1996), The Straight Story (2000) and Mulholland Drive (2001.) Her producing credits date to 1995 with Nadja, and include Lost Highway, The Straight Story, Mulholland Drive and Inland Empire (2006), directed by Lynch, and Baraboo (2009) her directorial debut based on her original screenplay. She is the Dino and Martha De Laurentiis Endowed Professor of film at USC and is a Madison native."
+  thumbnailUrl: mary-sweeny.jpg
+  rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 80
+  name: "Allen"
+  surname: "Swerdlowe"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Holds masters degrees in Architecture from Columbia University and Fine Arts from the Chicago Art Institute and an undergraduate degree in History from the University of Wisconsin in Madison, where he held several positions at The Daily Cardinal (1967-70), including Associate and Managing Editor. His work since has won numerous awards including the Lucy G. Moses award twice (New York Landmarks Conservancy) and a Presidential Design Award."
+  thumbnailUrl: alan-swerdlowe.jpeg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 44
-  name: "Margery"
-  surname: "Tabankin"
-  #company: "Twinfield, GDG Kyiv"
+  name: "Mari Jo"
+  surname: "Buhle"
+  #company: ""
   #title: "Novelist and poet"
-  bio: "Elected the first woman president of the National Student Association, she later worked for President Jimmy Carter&#39;s administration heading up the AmeriCorps VISTA program. Moving to Los Angeles, she became Executive Director of the Hollywood Women&#39;s Political Committee."
-  thumbnailUrl: marge-tabankin.jpg
-  rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  bio: "emerita professor of History and American Studies, Brown University, attended graduate school in Madison, 1968-71 and completed a PhD in 1974."
+  thumbnailUrl: mari-jo-buhle.jpg
+  #rockstar: true
+  #ribbon:
+  #   - {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 54
+  name: "Marty"
+  surname: "Tandler"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "An original founder of SDS at the University of Wisconsin."
+  thumbnailUrl: marty-tandler.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 39
+  name: "Nick"
+  surname: "Thorkelson"
+  #company: ""
+  #title: "Musician"
+  bio: "Nick Thorkelson's graphic novel about Herbert Marcuse is coming soon from City Lights, and his stories have appeared in Paul Buhle's comics anthologies. He has done cartoons and comics for the Boston Globe and a number of peace and justice groups. He also played keys in Phil Buss's rock band."
+  thumbnailUrl: nick-thorkelson.jpg
+  #rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 45
   name: "John"
   surname: "Tortorice"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Novelist and poet"
-  bio: "Currently, Program Manager for the George L. Mosse Program at the University of Wisconsin."
+  company: "George Mosse"
+  title: "Moderator"
+  bio: "Director Emeritus, George L. Mosse Program in History, UW-Madison."
   thumbnailUrl: John-Tortorice.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "George Mosse", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 46
   name: "Dave"
   surname: "Wagner"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Novelist and poet"
+  company: "Beyond Zap"
+  title: "Moderator"
   bio: "Journalist, investigative reporter and author of The Politics of Murder: Organized Crime in Barry Goldwater&#39;s Arizona. He was a contributor to Tender Comrades, co-author of A Very Dangerous Citizen and a political editor at the Arizona Republic."
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
+  thumbnailUrl: david-wagner.jpg
+  rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "MC", title: "Beyond Zap", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 47
   name: "Dick"
   surname: "Wagner"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Novelist and poet"
+  company: "Beginning of the LGBT Movement"
+  title: "Moderator"
   bio: "Long time Madison activist in the LGBT community, he just completed a book about the gay history of Wisconsin."
   thumbnailUrl: Dick-Wagner.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 70
+  name: "David"
+  surname: "Ward"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Trained as a geographer, he was Chancellor of the University of Wisconsin from 1993 to 2001, then president of the American Council on Education from 2001 to 2008, and again served as the Interim Chancellor of the UW-Madison in 2011."
+  thumbnailUrl: david-ward.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+-
+  id: 102
+  name: "Howard"
+  surname: "Waxman"
+  #company: ""
+  #title: "Novelist and poet"
+  bio: "Playwright, novelist, and director he is a veteran of the San Francisco Mime Troupe, a founding member of Madison's Broom Street Theater, and, notably, played Tinkerbell in the UW production of Peter Pan."
+  thumbnailUrl: howard-waxman.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
+  # social:
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 48
   name: "Craig"
   surname: "Werner"
-  #company: "Twinfield, GDG Kyiv"
+  #company: ""
   #title: "Novelist and poet"
-  bio: "Teaches in the Department of Afro-American Studies at the UW and is co-author of the recent book We Got To Get Our Of This Place with Doug Bradley."
+  bio: "Teaches in the Department of Afro-American Studies at the UW and is co-author of the recent book We Got To Get Out Of This Place with Doug Bradley. Teaches literature, music and cultural history in the Department."
   thumbnailUrl: Craig-Werner.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
-  id: 49
-  name: "John"
-  surname: "Wiley"
-  #company: "Twinfield, GDG Kyiv"
+  id: 59
+  name: "Ben"
+  surname: "Wikler"
+  #company: ""
   #title: "Novelist and poet"
-  bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
-  thumbnailUrl: John-Wiley.png
+  bio: "The Washington Director of MoveOn.org, the nation's largest grassroots progressive organization, he led the group's award-winning work to oppose the repeal of Obamacare. Previously, he held senior leadership roles at the world's two largest online activist networks, Change.org and Avaaz.org, and worked as a writer and producer for Al Franken before his entry into politics. A Madison native, he started contributing to The Onion while a student at West High School in the 90's and continued as a student at Harvard."
+  thumbnailUrl: ben-wikler.jpg
   rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
+# -
+#   id: 49
+#   name: "John"
+#   surname: "Wiley"
+#   #company: ""
+#   #title: "Novelist and poet"
+#   bio: "Chancellor of the University of Wisconsin from 2000 to 2008 and Interim Director of the Wisconsin Institute for Discovery, he is a scientist by training in solid state physics and a metal worker by avocation."
+#   thumbnailUrl: John-Wiley.png
+#   rockstar: true
+#   #ribbon:
+#     #- {abbr: "", title: "", url: ""}
+#   # social:
+#   #   - {name: "google-plus", link: ""}
+#   #   - {name: "site", link: ""}
 -
-  id: 50
-  name: "Peter"
-  surname: "Coyote"
-  #company: "Twinfield, GDG Kyiv"
+  id: 116
+  name: "Carla"
+  surname: "Wright"
+  #company: ""
   #title: "Novelist and poet"
-  bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  bio: "serves on the board of Midwest Organic Services Association and President of the Board for the Midwest Organic and Sustainable Education Service, host of the nation's largest organic farming conference. MOSES hosts numerous field days and provides other resources and expertise to help farmers grow organic."
+  thumbnailUrl: carla-wright.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}
 -
   id: 51
-  name: "M."
-  surname: "Usadel"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Novelist and poet"
-  bio: ""
-  thumbnailUrl: speaker-default.png
-  #rockstar: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Sue"
+  surname: "Zaeske"
+  #company: ""
+  title: "Moderator"
+  bio: "Associate Dean for Advancement, Arts & Humanities, College of Letters & Science, University of Wisconsin, her scholarship focuses on rhetoric, gender, and political culture, exploring how American women who petitioned against slavery not only contributed to the abolitionist movement, but also renegotiated their status as citizens. She is currently collecting and analyzing examples of appropriations of the Old Testament heroine Esther in order to explain why this tale possesses such enduring appeal."
+  thumbnailUrl: sue-zaeske.jpg
+  rockstar: true
+  #ribbon:
+    #- {abbr: "", title: "", url: ""}
   # social:
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  #   - {name: "google-plus", link: ""}
+  #   - {name: "site", link: ""}

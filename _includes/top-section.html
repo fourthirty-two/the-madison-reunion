@@ -6,6 +6,15 @@
 	<div class="content-wrapper">
 	    <div class="jumbotron text-left">
 	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
+              {% if page.url == "/schedule/" %}
+              <img width="140px" src="/img/logo/conference-in-60s-logo-white.png" alt="">
+              {% endif %}
+              {% if page.url == "/speakers/" %}
+              <img width="140px" src="/img/logo/conference-in-60s-logo-white.png" alt="">
+              {% endif %}
+              {% if page.url == "/reunion/" %}
+              <img width="140px" src="/img/logo/bucky-logo-white-w-text.png" alt="">
+              {% endif %}
 	            <h1>{{ page.title }}</h1>
 	        </div>
 	    </div>

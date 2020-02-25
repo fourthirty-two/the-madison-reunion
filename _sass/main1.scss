@@ -1,0 +1,69 @@
+// Modules and Variables
+@import "partials/base";
+
+// Third-party
+@import "vendor/bootstrap-custom";
+@import "vendor/animate";
+@import "vendor/waves";
+
+// Partials
+@import "partials/global";
+@import "partials/buttons";
+@import "partials/helper";
+@import "partials/sprites";
+@import "partials/navigation";
+
+// Sections
+@import "partials/hero";
+@import "partials/top-section";
+@import "partials/about";
+@import "partials/statistic";
+@import "partials/latest-news";
+@import "partials/rockstar-speakers";
+@import "partials/tickets";
+@import "partials/tickets-2";
+@import "partials/location-map";
+@import "partials/venue";
+@import "partials/twitter-feed";
+@import "partials/partners";
+@import "partials/subscribe";
+@import "partials/footer";
+@import "partials/blog";
+@import "partials/find-way";
+@import "partials/direction-details";
+@import "partials/team";
+@import "partials/zoe-effect";
+@import "partials/lily-effect";
+@import "partials/ribbon";
+@import "partials/modal";
+@import "partials/schedule";
+@import "partials/about-hackathon";
+@import "partials/judges";
+@import "partials/prizes";
+@import "partials/hackathon-location";
+
+// horibble facebook video embed fix
+iframe.embed-responsive-item.fb-video-home {
+  @media (max-width: 767px) {
+    margin-top: -44px;
+  }
+}
+.embed-responsive.embed-responsive-16by9 {
+  @media (max-width: 375px) {
+    padding-bottom: 68.25%;
+  }
+}
+#movie-area {
+	background: url(/img/other/modal-bg-video-img.jpg);
+  background-size: cover;
+  a {color: #fff;}
+}
+// video buttons
+.post-body ul li a {
+  @extend .btn;
+  @extend .btn-primary;
+  margin-top: 10px;
+}
+.slot-content>p {
+    color: #4285f4;
+}
